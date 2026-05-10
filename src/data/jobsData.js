@@ -6,7 +6,6 @@
 // ─────────────────────────────────────────────
 
 export const jobsData = [
-
   {
     id: 1,
     companyName: "BuiltIn (Job Platform)",
@@ -23,9 +22,9 @@ export const jobsData = [
       "Includes UI Designer, UX Designer, and Product Designer roles",
       "Focus on beginner-friendly design opportunities",
       "Jobs span startups, agencies, and tech companies",
-      "Direct application through listed job postings"
+      "Direct application through listed job postings",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 2,
@@ -43,9 +42,9 @@ export const jobsData = [
       "Includes internships and junior design roles",
       "Focus on beginner-friendly tech companies",
       "UI, UX, and product design opportunities included",
-      "External applications via company career pages"
+      "External applications via company career pages",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 3,
@@ -63,9 +62,9 @@ export const jobsData = [
       "Design wireframes, prototypes, and high-fidelity UI",
       "Create mobile, web, and tablet digital experiences",
       "Collaborate with developers and business teams",
-      "Identify design opportunities and solve UX problems"
+      "Identify design opportunities and solve UX problems",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 4,
@@ -74,7 +73,8 @@ export const jobsData = [
     location: "Ann Arbor, MI, USA",
     workMode: "On-site",
     workExperience: "0–2 years",
-    applyLink: "https://jobs.lever.co/webfx/d2c58878-c49f-4802-98aa-807e06289aa6",
+    applyLink:
+      "https://jobs.lever.co/webfx/d2c58878-c49f-4802-98aa-807e06289aa6",
     payRange: "Competitive",
     resumeFile: "resume_konrad_2026.pdf",
     coverLetterFile: "coverletter_konrad_2026.pdf",
@@ -83,9 +83,9 @@ export const jobsData = [
       "Use Figma and Adobe Creative Suite for design work",
       "Apply responsive web design principles",
       "Work with developers on implementation",
-      "Support UX workflows like wireframing and prototyping"
+      "Support UX workflows like wireframing and prototyping",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 5,
@@ -94,7 +94,8 @@ export const jobsData = [
     location: "Ann Arbor, MI, USA",
     workMode: "On-site",
     workExperience: "0–2 years",
-    applyLink: "https://jobs.lever.co/webfx/05aa0ddb-f4c8-46f1-95fb-f9d5c0ee40a7",
+    applyLink:
+      "https://jobs.lever.co/webfx/05aa0ddb-f4c8-46f1-95fb-f9d5c0ee40a7",
     payRange: "Competitive",
     resumeFile: "resume_konrad_2026.pdf",
     coverLetterFile: "coverletter_konrad_2026.pdf",
@@ -103,9 +104,9 @@ export const jobsData = [
       "Create wireframes, prototypes, and information architecture",
       "Conduct user research and usability testing",
       "Collaborate with UX writers and researchers",
-      "Contribute to design systems and product strategy"
+      "Contribute to design systems and product strategy",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 6,
@@ -114,7 +115,8 @@ export const jobsData = [
     location: "Bedford, MA, USA",
     workMode: "Hybrid",
     workExperience: "<1 year",
-    applyLink: "https://jobright.ai/jobs/info/69fbeed5c39b9a66c0c551b4?experienceLevel=entry_level&visit=arts-design-ux-research",
+    applyLink:
+      "https://jobright.ai/jobs/info/69fbeed5c39b9a66c0c551b4?experienceLevel=entry_level&visit=arts-design-ux-research",
     payRange: "$79,000 – $119,000 / yr",
     resumeFile: "resume_konrad_2026.pdf",
     coverLetterFile: "coverletter_konrad_2026.pdf",
@@ -123,9 +125,9 @@ export const jobsData = [
       "Build wireframes, mockups, and interactive prototypes",
       "Work with engineers on front-end development",
       "Apply user-centered design and usability testing",
-      "Contribute to design systems and UI guidelines"
+      "Contribute to design systems and UI guidelines",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 7,
@@ -143,9 +145,9 @@ export const jobsData = [
       "Create wireframes, concepts, and high-fidelity UI",
       "Develop interactive prototypes for testing",
       "Collaborate with engineers and product managers",
-      "Maintain and improve design systems"
+      "Maintain and improve design systems",
     ],
-    myNotes: "This position is open"
+    myNotes: "This position is open",
   },
   {
     id: 8,
@@ -163,9 +165,17 @@ export const jobsData = [
       "Create workflow-driven interfaces for telephony functions",
       "Design wireframes, flows, and interaction models",
       "Work with firmware engineers on implementation",
-      "Handle usability testing and edge-case scenarios"
+      "Handle usability testing and edge-case scenarios",
     ],
-    myNotes: "This position is open"
-  }
+    coverLetterText: `COVER LETTER
+Date: 05/07/2026
 
+Dear Hiring Team,
+
+I would be excited to contribute elevated visual design, thoughtful execution, and a collaborative creative mindset to the team.
+
+Warm regards,
+Falguni Dekate`,
+    myNotes: "This position is open",
+  },
 ];

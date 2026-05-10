@@ -12,7 +12,20 @@ const WORK_MODE_COLOR = {
   Hybrid: "tag-blue",
   "On-site": "tag-orange",
 };
-
+function CoverLetterText({ text }) {
+  const [expanded, setExpanded] = useState(false);
+  return (
+    <div className="cover-letter-inline">
+      <div className="cover-letter-inline-label">
+        Cover Letter
+        <button className="cover-letter-toggle" onClick={() => setExpanded(!expanded)}>
+          {expanded ? "▲ collapse" : "▼ read"}
+        </button>
+      </div>
+      {expanded && <pre className="cover-letter-body">{text}</pre>}
+    </div>
+  );
+}
 export default function JobCard({
   job, index,
   isFavorite, isApplied, isSaved,
@@ -110,6 +123,7 @@ export default function JobCard({
 
       {/* My Notes — hidden in list view */}
       {!isList && <MyNotes text={job.myNotes} />}
+      {!isList && job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
 
       {/* Applied badge */}
       {isApplied && (

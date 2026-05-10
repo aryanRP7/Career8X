@@ -19,7 +19,22 @@ function getGridClass(view) {
   return "cards-grid";
 }
 
-/* ── Manual applied card (from appliedJobsData.js) ── */
+function CoverLetterText({ text }) {
+  const [expanded, setExpanded] = useState(false);
+  return (
+    <div className="cover-letter-inline">
+      <div className="cover-letter-inline-label">
+        Cover Letter
+        <button className="cover-letter-toggle" onClick={() => setExpanded(!expanded)}>
+          {expanded ? "▲ collapse" : "▼ read"}
+        </button>
+      </div>
+      {expanded && <pre className="cover-letter-body">{text}</pre>}
+    </div>
+  );
+}
+
+/* ── Manual applied card ── */
 function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleBookmark, view }) {
   const [copied, setCopied] = useState(false);
   const isList = view === "list" || view === "compact";
@@ -50,6 +65,7 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
         </div>
       )}
       {!isList && <MyNotes text={item.myNotes} />}
+      {!isList && item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
       {!isList && item.applyLink && (
         <div className="applied-link-row">
           <span className="applied-link-url">{item.applyLink}</span>
@@ -96,6 +112,7 @@ function JobBoardAppliedCard({ job, index, onUnmark, view }) {
         {job.payRange       && <span className="pay-range-chip"><DollarSign size={12} /> {job.payRange}</span>}
       </div>
       {!isList && <MyNotes text={job.myNotes} />}
+      {!isList && job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
       <div className="applied-badge" style={{ width: "fit-content" }}>
         <Check size={12} /> Marked Applied
       </div>
@@ -148,6 +165,7 @@ function SavedCard({ item, index, starred, bookmarked, applied,
         </div>
       )}
       {!isList && <MyNotes text={item.myNotes} />}
+      {!isList && item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
       {!isList && item.applyLink && (
         <div className="applied-link-row">
           <span className="applied-link-url">{item.applyLink}</span>
@@ -179,14 +197,13 @@ export default function AppliedSection({
   const [appliedFilter, setAppliedFilter] = useState("all");
   const [savedFilter,   setSavedFilter]   = useState("all");
 
-  // ── Persisted in localStorage so they survive refresh ──
   const [starred,      setStarred]      = useLocalStorage("applied_starred_v1",      {});
   const [bookmarked,   setBookmarked]   = useLocalStorage("applied_bookmarked_v1",   {});
   const [savedApplied, setSavedApplied] = useLocalStorage("applied_savedApplied_v1", {});
 
-  const toggleStar     = (prefix, id) => setStarred((p)    => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
-  const toggleBookmark = (prefix, id) => setBookmarked((p) => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
-  const toggleSavedApplied = (id)     => setSavedApplied((p) => ({ ...p, [id]: !p[id] }));
+  const toggleStar         = (prefix, id) => setStarred((p)      => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
+  const toggleBookmark     = (prefix, id) => setBookmarked((p)   => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
+  const toggleSavedApplied = (id)         => setSavedApplied((p) => ({ ...p, [id]: !p[id] }));
 
   const boardAppliedJobs = jobState ? jobsData.filter((j) => jobState.isApplied(j.id)) : [];
   const savedAppliedJobs = savedForLater.filter((j) => savedApplied[j.id]);
@@ -228,13 +245,14 @@ export default function AppliedSection({
 
   const buildExport = (list) => list.map((j, i) => {
     const row = { "#": i + 1 };
-    if (j.companyName) row["Company"]     = j.companyName;
-    if (j.jobTitle)    row["Job Title"]   = j.jobTitle;
-    if (j.location)    row["Location"]    = j.location;
-    if (j.payRange)    row["Pay Range"]   = j.payRange;
-    if (j.applyLink)   row["Apply Link"]  = j.applyLink;
-    if (j.resumeFile)  row["Resume File"] = j.resumeFile;
-    if (j.myNotes)     row["My Notes"]    = j.myNotes;
+    if (j.companyName)       row["Company"]      = j.companyName;
+    if (j.jobTitle)          row["Job Title"]    = j.jobTitle;
+    if (j.location)          row["Location"]     = j.location;
+    if (j.payRange)          row["Pay Range"]    = j.payRange;
+    if (j.applyLink)         row["Apply Link"]   = j.applyLink;
+    if (j.resumeFile)        row["Resume File"]  = j.resumeFile;
+    if (j.myNotes)           row["My Notes"]     = j.myNotes;
+    if (j.coverLetterText)   row["Cover Letter"] = j.coverLetterText;
     return row;
   });
 
@@ -252,9 +270,9 @@ export default function AppliedSection({
     { id: "applied",    label: "Applied",    icon: <CheckCircle size={12} /> },
   ];
 
-  const currentFilters   = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
-  const currentFilter    = activeSubTab === "applied" ? appliedFilter   : savedFilter;
-  const setCurrentFilter = activeSubTab === "applied" ? setAppliedFilter : setSavedFilter;
+  const currentFilters    = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
+  const currentFilter     = activeSubTab === "applied" ? appliedFilter   : savedFilter;
+  const setCurrentFilter  = activeSubTab === "applied" ? setAppliedFilter : setSavedFilter;
   const currentExportData = activeSubTab === "applied"
     ? buildExport([...displayApplied, ...displayBoardApplied, ...displaySavedApplied])
     : buildExport(displaySaved);
