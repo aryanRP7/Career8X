@@ -2,12 +2,14 @@ import { useLocalStorage } from "./useLocalStorage";
 
 export function useJobState(version = "v1") {
   const [favorites, setFavorites] = useLocalStorage(`dashboard_favorites_${version}`, []);
-  const [applied, setApplied] = useLocalStorage(`dashboard_applied_${version}`, []);
-  const [saved, setSaved] = useLocalStorage(`dashboard_saved_${version}`, []);
+  const [applied,   setApplied]   = useLocalStorage(`dashboard_applied_${version}`,   []);
+  const [saved,     setSaved]     = useLocalStorage(`dashboard_saved_${version}`,     []);
 
-  const toggle = (list, setList, id) => {
+  const toggle = (setList, id) => {
     setList((prev) =>
-      prev.includes(id) ? prev.filter((i) => i !== id) : [...prev, id]
+      Array.isArray(prev)
+        ? prev.includes(id) ? prev.filter((i) => i !== id) : [...prev, id]
+        : [id]
     );
   };
 
@@ -15,11 +17,11 @@ export function useJobState(version = "v1") {
     favorites,
     applied,
     saved,
-    toggleFavorite: (id) => toggle(favorites, setFavorites, id),
-    toggleApplied: (id) => toggle(applied, setApplied, id),
-    toggleSaved: (id) => toggle(saved, setSaved, id),
-    isFavorite: (id) => favorites.includes(id),
-    isApplied: (id) => applied.includes(id),
-    isSaved: (id) => saved.includes(id),
+    toggleFavorite: (id) => toggle(setFavorites, id),
+    toggleApplied:  (id) => toggle(setApplied,   id),
+    toggleSaved:    (id) => toggle(setSaved,      id),
+    isFavorite: (id) => Array.isArray(favorites) && favorites.includes(id),
+    isApplied:  (id) => Array.isArray(applied)   && applied.includes(id),
+    isSaved:    (id) => Array.isArray(saved)      && saved.includes(id),
   };
 }
