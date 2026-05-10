@@ -4,6 +4,9 @@ import { copyToClipboard } from "../utils/helpers";
 import ExportButton from "./ExportButton";
 import MyNotes from "./MyNotes";
 import ViewToggle from "./ViewToggle";
+import PaginationChip from "./PaginationChip";
+
+const PAGE_SIZE = 10;
 
 function ContactRow({ icon: Icon, value, copyable }) {
   const [copied, setCopied] = useState(false);
@@ -43,7 +46,6 @@ function ConsultancyCard({ item, index }) {
           </a>
         )}
       </div>
-      {/* Location chip */}
       {item.location && (
         <div className="card-meta" style={{ marginTop: "4px" }}>
           <span className="meta-chip"><MapPin size={12} /> {item.location}</span>
@@ -60,15 +62,20 @@ function ConsultancyCard({ item, index }) {
 }
 
 export default function ConsultancySection({ consultancies, searchQuery, view, setView }) {
+  const [page, setPage] = useState(-1);
 
   const filtered = consultancies.filter((c) => {
     const q = searchQuery.toLowerCase();
     return !q ||
-      (c.name && c.name.toLowerCase().includes(q)) ||
+      (c.name          && c.name.toLowerCase().includes(q))          ||
       (c.contactPerson && c.contactPerson.toLowerCase().includes(q)) ||
-      (c.location && c.location.toLowerCase().includes(q)) ||
-      (c.email && c.email.toLowerCase().includes(q));
+      (c.location      && c.location.toLowerCase().includes(q))      ||
+      (c.email         && c.email.toLowerCase().includes(q));
   });
+
+  const paginated = page === -1
+    ? filtered
+    : filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
   const exportData = filtered.map((c, i) => {
     const row = { "#": i + 1 };
@@ -89,9 +96,18 @@ export default function ConsultancySection({ consultancies, searchQuery, view, s
       <div className="section-header">
         <div>
           <h2 className="section-title">Consultancy Contacts</h2>
-          <p className="section-subtitle">{filtered.length} contact{filtered.length !== 1 ? "s" : ""}</p>
+          <p className="section-subtitle">
+            {filtered.length} contact{filtered.length !== 1 ? "s" : ""}
+            {page !== -1 && ` · showing ${paginated.length}`}
+          </p>
         </div>
-        <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: "10px", flexWrap: "wrap" }}>
+          <PaginationChip
+            total={filtered.length}
+            pageSize={PAGE_SIZE}
+            currentPage={page}
+            onChange={setPage}
+          />
           <ViewToggle view={view} setView={setView} />
           <ExportButton label="Consultancy Contacts" csvData={exportData} />
         </div>
@@ -100,7 +116,7 @@ export default function ConsultancySection({ consultancies, searchQuery, view, s
         <div className="empty-state"><p>No contacts match your search.</p></div>
       ) : (
         <div className={gridClass}>
-          {filtered.map((c, i) => (
+          {paginated.map((c, i) => (
             <ConsultancyCard key={c.id} item={c} index={i + 1} />
           ))}
         </div>

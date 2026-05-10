@@ -34,7 +34,9 @@ export default function JobCard({
 }) {
   const [copied, setCopied] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  const [listExpanded, setListExpanded] = useState(false);
   const isList = view === "list";
+  const hasDetails = (job.jobDescription && job.jobDescription.length > 0) || job.myNotes || job.coverLetterText;
 
   const handleCopy = async () => {
     await copyToClipboard(job.applyLink);
@@ -125,6 +127,25 @@ export default function JobCard({
       {!isList && <MyNotes text={job.myNotes} />}
       {!isList && job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
 
+      {/* LIST: collapsible details */}
+      {isList && hasDetails && (
+        <div className="list-details-wrap">
+          <button className="list-details-toggle" onClick={() => setListExpanded(!listExpanded)}>
+            {listExpanded ? "▲ Hide details" : "▼ Show details"}
+          </button>
+          {listExpanded && (
+            <div className="list-details-body">
+              {job.jobDescription && job.jobDescription.length > 0 && (
+                <ul className="list-details-jd">
+                  {job.jobDescription.map((line, i) => <li key={i}>{line}</li>)}
+                </ul>
+              )}
+              {job.myNotes && <MyNotes text={job.myNotes} />}
+              {job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
+            </div>
+          )}
+        </div>
+      )}
       {/* Applied badge */}
       {isApplied && (
         <div className="applied-badge">

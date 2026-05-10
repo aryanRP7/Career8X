@@ -7,11 +7,13 @@ import ExportButton from "./ExportButton";
 import MyNotes from "./MyNotes";
 import ViewToggle from "./ViewToggle";
 import FileChip from "./FileChip";
+import PaginationChip from "./PaginationChip";
 import { copyToClipboard } from "../utils/helpers";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 import { jobsData } from "../data/jobsData";
 
 const WORK_MODE_COLOR = { Remote: "tag-cyan", Hybrid: "tag-blue", "On-site": "tag-orange" };
+const PAGE_SIZE = 10;
 
 function getGridClass(view) {
   if (view === "list")    return "cards-list";
@@ -37,7 +39,6 @@ function CoverLetterText({ text }) {
 /* ── Manual applied card ── */
 function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleBookmark, view }) {
   const [copied, setCopied] = useState(false);
-  const isList = view === "list" || view === "compact";
   return (
     <div className="applied-jobs-card">
       <div className="card-number"># {index}</div>
@@ -56,6 +57,7 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
           </button>
         </div>
       </div>
+
       {(item.location || item.workMode || item.workExperience || item.payRange) && (
         <div className="card-meta">
           {item.location       && <span className="meta-chip"><MapPin size={12} /> {item.location}</span>}
@@ -64,9 +66,13 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
           {item.payRange       && <span className="pay-range-chip"><DollarSign size={12} /> {item.payRange}</span>}
         </div>
       )}
-      {!isList && <MyNotes text={item.myNotes} />}
-      {!isList && item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
-      {!isList && item.applyLink && (
+
+      {/* Always show in all views */}
+      <MyNotes text={item.myNotes} />
+      {item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
+
+      {/* Link row only in grid view */}
+      {view === "grid" && item.applyLink && (
         <div className="applied-link-row">
           <span className="applied-link-url">{item.applyLink}</span>
           <button className="mini-copy-btn" onClick={async () => { await copyToClipboard(item.applyLink); setCopied(true); setTimeout(() => setCopied(false), 2000); }}>
@@ -74,13 +80,14 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
           </button>
         </div>
       )}
+
       <div className="applied-card-footer">
         {item.applyLink && (
           <a href={item.applyLink} target="_blank" rel="noopener noreferrer" className="goto-link-btn">
             Go to Link <ExternalLink size={13} />
           </a>
         )}
-        <FileChip file={item.resumeFile} label="Resume" company={item.companyName} role={item.jobTitle} />
+        <FileChip file={item.resumeFile}      label="Resume"       company={item.companyName} role={item.jobTitle} />
         <FileChip file={item.coverLetterFile} label="Cover Letter" company={item.companyName} role={item.jobTitle} />
       </div>
     </div>
@@ -89,7 +96,6 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
 
 /* ── Job Board applied card ── */
 function JobBoardAppliedCard({ job, index, onUnmark, view }) {
-  const isList = view === "list" || view === "compact";
   return (
     <div className="applied-jobs-card">
       <div className="card-number"># {index}</div>
@@ -105,17 +111,22 @@ function JobBoardAppliedCard({ job, index, onUnmark, view }) {
           </button>
         </div>
       </div>
+
       <div className="card-meta">
         {job.location       && <span className="meta-chip"><MapPin size={12} /> {job.location}</span>}
         {job.workExperience && <span className="meta-chip"><Briefcase size={12} /> {job.workExperience}</span>}
         {job.workMode       && <span className={`meta-chip work-mode ${WORK_MODE_COLOR[job.workMode] || ""}`}><Monitor size={12} /> {job.workMode}</span>}
         {job.payRange       && <span className="pay-range-chip"><DollarSign size={12} /> {job.payRange}</span>}
       </div>
-      {!isList && <MyNotes text={job.myNotes} />}
-      {!isList && job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
+
+      {/* Always show in all views */}
+      <MyNotes text={job.myNotes} />
+      {job.coverLetterText && <CoverLetterText text={job.coverLetterText} />}
+
       <div className="applied-badge" style={{ width: "fit-content" }}>
         <Check size={12} /> Marked Applied
       </div>
+
       {job.applyLink && (
         <div className="applied-card-footer">
           <a href={job.applyLink} target="_blank" rel="noopener noreferrer" className="goto-link-btn" style={{ fontSize: "13px", padding: "6px 14px" }}>
@@ -131,7 +142,6 @@ function JobBoardAppliedCard({ job, index, onUnmark, view }) {
 function SavedCard({ item, index, starred, bookmarked, applied,
   onToggleStar, onToggleBookmark, onToggleApplied, view }) {
   const [copied, setCopied] = useState(false);
-  const isList = view === "list" || view === "compact";
   return (
     <div className="saved-later-card">
       <div className="card-number saved-num"># {index}</div>
@@ -157,6 +167,7 @@ function SavedCard({ item, index, starred, bookmarked, applied,
           </button>
         </div>
       </div>
+
       {(item.location || item.workMode || item.payRange) && (
         <div className="card-meta">
           {item.location && <span className="meta-chip"><MapPin size={12} /> {item.location}</span>}
@@ -164,9 +175,13 @@ function SavedCard({ item, index, starred, bookmarked, applied,
           {item.payRange && <span className="pay-range-chip"><DollarSign size={12} /> {item.payRange}</span>}
         </div>
       )}
-      {!isList && <MyNotes text={item.myNotes} />}
-      {!isList && item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
-      {!isList && item.applyLink && (
+
+      {/* Always show in all views */}
+      <MyNotes text={item.myNotes} />
+      {item.coverLetterText && <CoverLetterText text={item.coverLetterText} />}
+
+      {/* Link row only in grid view */}
+      {view === "grid" && item.applyLink && (
         <div className="applied-link-row">
           <span className="applied-link-url">{item.applyLink}</span>
           <button className="mini-copy-btn" onClick={async () => { await copyToClipboard(item.applyLink); setCopied(true); setTimeout(() => setCopied(false), 2000); }}>
@@ -174,13 +189,14 @@ function SavedCard({ item, index, starred, bookmarked, applied,
           </button>
         </div>
       )}
+
       <div className="applied-card-footer">
         {item.applyLink && (
           <a href={item.applyLink} target="_blank" rel="noopener noreferrer" className="apply-btn">
             Apply <ExternalLink size={13} />
           </a>
         )}
-        <FileChip file={item.resumeFile} label="Resume" company={item.companyName} role={item.jobTitle} />
+        <FileChip file={item.resumeFile}      label="Resume"       company={item.companyName} role={item.jobTitle} />
         <FileChip file={item.coverLetterFile} label="Cover Letter" company={item.companyName} role={item.jobTitle} />
       </div>
     </div>
@@ -196,6 +212,8 @@ export default function AppliedSection({
   const [activeSubTab,  setActiveSubTab]  = useState("applied");
   const [appliedFilter, setAppliedFilter] = useState("all");
   const [savedFilter,   setSavedFilter]   = useState("all");
+  const [appliedPage,   setAppliedPage]   = useState(-1);
+  const [savedPage,     setSavedPage]     = useState(-1);
 
   const [starred,      setStarred]      = useLocalStorage("applied_starred_v1",      {});
   const [bookmarked,   setBookmarked]   = useLocalStorage("applied_bookmarked_v1",   {});
@@ -241,18 +259,34 @@ export default function AppliedSection({
   const displaySavedApplied = filteredSavedApplied;
   const displaySaved        = applySavedFilter(filteredSaved);
 
+  const allAppliedDisplay = [...displayApplied, ...displayBoardApplied, ...displaySavedApplied];
+
+  const paginatedApplied = appliedPage === -1
+    ? allAppliedDisplay
+    : allAppliedDisplay.slice(appliedPage * PAGE_SIZE, (appliedPage + 1) * PAGE_SIZE);
+
+  const paginatedSaved = savedPage === -1
+    ? displaySaved
+    : displaySaved.slice(savedPage * PAGE_SIZE, (savedPage + 1) * PAGE_SIZE);
+
   const totalApplied = filteredApplied.length + filteredBoardApplied.length + filteredSavedApplied.length;
+
+  const manualCount           = displayApplied.length;
+  const boardCount            = displayBoardApplied.length;
+  const paginatedManual       = paginatedApplied.filter((_, i) => i < manualCount);
+  const paginatedBoard        = paginatedApplied.filter((_, i) => i >= manualCount && i < manualCount + boardCount);
+  const paginatedSavedApplied = paginatedApplied.filter((_, i) => i >= manualCount + boardCount);
 
   const buildExport = (list) => list.map((j, i) => {
     const row = { "#": i + 1 };
-    if (j.companyName)       row["Company"]      = j.companyName;
-    if (j.jobTitle)          row["Job Title"]    = j.jobTitle;
-    if (j.location)          row["Location"]     = j.location;
-    if (j.payRange)          row["Pay Range"]    = j.payRange;
-    if (j.applyLink)         row["Apply Link"]   = j.applyLink;
-    if (j.resumeFile)        row["Resume File"]  = j.resumeFile;
-    if (j.myNotes)           row["My Notes"]     = j.myNotes;
-    if (j.coverLetterText)   row["Cover Letter"] = j.coverLetterText;
+    if (j.companyName)     row["Company"]      = j.companyName;
+    if (j.jobTitle)        row["Job Title"]    = j.jobTitle;
+    if (j.location)        row["Location"]     = j.location;
+    if (j.payRange)        row["Pay Range"]    = j.payRange;
+    if (j.applyLink)       row["Apply Link"]   = j.applyLink;
+    if (j.resumeFile)      row["Resume File"]  = j.resumeFile;
+    if (j.myNotes)         row["My Notes"]     = j.myNotes;
+    if (j.coverLetterText) row["Cover Letter"] = j.coverLetterText;
     return row;
   });
 
@@ -270,11 +304,14 @@ export default function AppliedSection({
     { id: "applied",    label: "Applied",    icon: <CheckCircle size={12} /> },
   ];
 
-  const currentFilters    = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
-  const currentFilter     = activeSubTab === "applied" ? appliedFilter   : savedFilter;
-  const setCurrentFilter  = activeSubTab === "applied" ? setAppliedFilter : setSavedFilter;
+  const currentFilters   = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
+  const currentFilter    = activeSubTab === "applied" ? appliedFilter   : savedFilter;
+  const setCurrentFilter = activeSubTab === "applied"
+    ? (v) => { setAppliedFilter(v); setAppliedPage(-1); }
+    : (v) => { setSavedFilter(v);   setSavedPage(-1); };
+
   const currentExportData = activeSubTab === "applied"
-    ? buildExport([...displayApplied, ...displayBoardApplied, ...displaySavedApplied])
+    ? buildExport(allAppliedDisplay)
     : buildExport(displaySaved);
 
   return (
@@ -288,10 +325,16 @@ export default function AppliedSection({
 
       <div className="section-header-actions" style={{ marginBottom: "22px", flexWrap: "wrap", gap: "8px", alignItems: "center" }}>
         <div className="filter-tabs">
-          <button className={`filter-tab ${activeSubTab === "applied" ? "active" : ""}`} onClick={() => setActiveSubTab("applied")}>
+          <button
+            className={`filter-tab ${activeSubTab === "applied" ? "active" : ""}`}
+            onClick={() => { setActiveSubTab("applied"); setAppliedPage(-1); }}
+          >
             <Clock size={13} /> Applied ({totalApplied})
           </button>
-          <button className={`filter-tab ${activeSubTab === "saved" ? "active" : ""}`} onClick={() => setActiveSubTab("saved")}>
+          <button
+            className={`filter-tab ${activeSubTab === "saved" ? "active" : ""}`}
+            onClick={() => { setActiveSubTab("saved"); setSavedPage(-1); }}
+          >
             <Bookmark size={13} /> Saved ({filteredSaved.length})
           </button>
         </div>
@@ -299,11 +342,21 @@ export default function AppliedSection({
         <div style={{ marginLeft: "auto", display: "flex", gap: "8px", alignItems: "center", flexWrap: "wrap" }}>
           <div className="filter-tabs">
             {currentFilters.map((f) => (
-              <button key={f.id} className={`filter-tab ${currentFilter === f.id ? "active" : ""}`} onClick={() => setCurrentFilter(f.id)}>
+              <button
+                key={f.id}
+                className={`filter-tab ${currentFilter === f.id ? "active" : ""}`}
+                onClick={() => setCurrentFilter(f.id)}
+              >
                 {f.icon} {f.label}
               </button>
             ))}
           </div>
+          <PaginationChip
+            total={activeSubTab === "applied" ? allAppliedDisplay.length : displaySaved.length}
+            pageSize={PAGE_SIZE}
+            currentPage={activeSubTab === "applied" ? appliedPage : savedPage}
+            onChange={activeSubTab === "applied" ? setAppliedPage : setSavedPage}
+          />
           <ViewToggle view={view} setView={setView} />
           <ExportButton
             label={activeSubTab === "applied" ? "Applied Jobs" : "Saved For Later"}
@@ -312,25 +365,40 @@ export default function AppliedSection({
         </div>
       </div>
 
+      {/* ── Applied content ── */}
       {activeSubTab === "applied" && (
-        (displayApplied.length + displayBoardApplied.length + displaySavedApplied.length) === 0
+        allAppliedDisplay.length === 0
           ? <div className="empty-state"><p>No entries match. Add jobs in appliedJobsData.js or mark from Jobs Board.</p></div>
           : <div className={gridClass}>
-              {displayApplied.map((job, i) => (
-                <AppliedCard key={`manual-${job.id}`} item={job} index={i + 1} view={view}
+              {paginatedManual.map((job, i) => (
+                <AppliedCard
+                  key={`manual-${job.id}`}
+                  item={job}
+                  index={appliedPage === -1 ? i + 1 : appliedPage * PAGE_SIZE + i + 1}
+                  view={view}
                   starred={!!starred[`applied-${job.id}`]}
                   bookmarked={!!bookmarked[`applied-${job.id}`]}
                   onToggleStar={(id)     => toggleStar("applied", id)}
                   onToggleBookmark={(id) => toggleBookmark("applied", id)} />
               ))}
-              {displayBoardApplied.map((job, i) => (
-                <JobBoardAppliedCard key={`board-${job.id}`} job={job}
-                  index={displayApplied.length + i + 1} view={view}
+              {paginatedBoard.map((job, i) => (
+                <JobBoardAppliedCard
+                  key={`board-${job.id}`}
+                  job={job}
+                  index={appliedPage === -1
+                    ? paginatedManual.length + i + 1
+                    : appliedPage * PAGE_SIZE + paginatedManual.length + i + 1}
+                  view={view}
                   onUnmark={onUnmarkApplied} />
               ))}
-              {displaySavedApplied.map((job, i) => (
-                <AppliedCard key={`savedapp-${job.id}`} item={job}
-                  index={displayApplied.length + displayBoardApplied.length + i + 1} view={view}
+              {paginatedSavedApplied.map((job, i) => (
+                <AppliedCard
+                  key={`savedapp-${job.id}`}
+                  item={job}
+                  index={appliedPage === -1
+                    ? paginatedManual.length + paginatedBoard.length + i + 1
+                    : appliedPage * PAGE_SIZE + paginatedManual.length + paginatedBoard.length + i + 1}
+                  view={view}
                   starred={!!starred[`saved-${job.id}`]}
                   bookmarked={!!bookmarked[`saved-${job.id}`]}
                   onToggleStar={(id)     => toggleStar("saved", id)}
@@ -339,12 +407,17 @@ export default function AppliedSection({
             </div>
       )}
 
+      {/* ── Saved content ── */}
       {activeSubTab === "saved" && (
         displaySaved.length === 0
           ? <div className="empty-state"><p>No entries match. Add jobs in savedForLaterData.js</p></div>
           : <div className={gridClass}>
-              {displaySaved.map((job, i) => (
-                <SavedCard key={job.id} item={job} index={i + 1} view={view}
+              {paginatedSaved.map((job, i) => (
+                <SavedCard
+                  key={job.id}
+                  item={job}
+                  index={savedPage === -1 ? i + 1 : savedPage * PAGE_SIZE + i + 1}
+                  view={view}
                   starred={!!starred[`saved-${job.id}`]}
                   bookmarked={!!bookmarked[`saved-${job.id}`]}
                   applied={!!savedApplied[job.id]}

@@ -3,6 +3,7 @@ import { Star, Bookmark, CheckCircle, LayoutGrid } from "lucide-react";
 import JobCard from "./JobCard";
 import ExportButton from "./ExportButton";
 import ViewToggle from "./ViewToggle";
+import PaginationChip from "./PaginationChip";
 
 const FILTER_OPTIONS = [
   { id: "all",       label: "All",     icon: LayoutGrid  },
@@ -10,6 +11,8 @@ const FILTER_OPTIONS = [
   { id: "saved",     label: "Saved",   icon: Bookmark    },
   { id: "applied",   label: "Applied", icon: CheckCircle },
 ];
+
+const PAGE_SIZE = 10;
 
 function matchesSearch(job, query) {
   if (!query) return true;
@@ -26,6 +29,7 @@ function matchesSearch(job, query) {
 
 export default function JobsBoard({ jobs, jobState, searchQuery, view, setView }) {
   const [activeFilter, setActiveFilter] = useState("all");
+  const [page, setPage] = useState(-1); // -1 = show all
   const { isFavorite, isApplied, isSaved, toggleFavorite, toggleApplied, toggleSaved } = jobState;
 
   const filtered = jobs.filter((job) => {
@@ -35,6 +39,16 @@ export default function JobsBoard({ jobs, jobState, searchQuery, view, setView }
     if (activeFilter === "applied")   return isApplied(job.id);
     return true;
   });
+
+  // Reset to show-all when filter changes
+  const handleFilterChange = (id) => {
+    setActiveFilter(id);
+    setPage(-1);
+  };
+
+  const paginated = page === -1
+    ? filtered
+    : filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
   const exportData = filtered.map((job, i) => {
     const row = { "#": i + 1 };
@@ -59,6 +73,7 @@ export default function JobsBoard({ jobs, jobState, searchQuery, view, setView }
           <h2 className="section-title">Jobs Board</h2>
           <p className="section-subtitle">
             {filtered.length} position{filtered.length !== 1 ? "s" : ""} listed
+            {page !== -1 && ` · showing ${paginated.length}`}
           </p>
         </div>
         <div className="section-header-actions">
@@ -67,13 +82,19 @@ export default function JobsBoard({ jobs, jobState, searchQuery, view, setView }
               <button
                 key={id}
                 className={`filter-tab ${activeFilter === id ? "active" : ""}`}
-                onClick={() => setActiveFilter(id)}
+                onClick={() => handleFilterChange(id)}
               >
                 <Icon size={13} />
                 {label}
               </button>
             ))}
           </div>
+          <PaginationChip
+            total={filtered.length}
+            pageSize={PAGE_SIZE}
+            currentPage={page}
+            onChange={setPage}
+          />
           <ViewToggle view={view} setView={setView} />
           <ExportButton label="Jobs Board" csvData={exportData} />
         </div>
@@ -85,11 +106,11 @@ export default function JobsBoard({ jobs, jobState, searchQuery, view, setView }
         </div>
       ) : (
         <div className={gridClass}>
-          {filtered.map((job, index) => (
+          {paginated.map((job, index) => (
             <JobCard
               key={job.id}
               job={job}
-              index={index + 1}
+              index={page === -1 ? index + 1 : page * PAGE_SIZE + index + 1}
               isFavorite={isFavorite(job.id)}
               isApplied={isApplied(job.id)}
               isSaved={isSaved(job.id)}
