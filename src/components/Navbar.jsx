@@ -21,10 +21,10 @@ export default function Navbar({
     <nav className="navbar">
       <div className="navbar-inner">
         {/* Logo */}
-        <div className="navbar-logo">
-          <span className="logo-dot" />
-          <span className="logo-text">Career8X</span>
-        </div>
+        <button className="navbar-logo" onClick={() => setActiveTab("applied")} style={{ background: "none", border: "none", cursor: "pointer" }}>
+  <span className="logo-dot" />
+  <span className="logo-text">Career8X</span>
+</button>
 
         {/* Desktop tabs */}
         <div className="navbar-tabs">

@@ -11,7 +11,7 @@ function viewWithStamp(fileUrl, company, role) {
 <meta charset="utf-8"><title>${company} — ${role}</title>
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
-  body{background:#3a3a3a;display:flex;flex-direction:column;height:100vh;font-family:system-ui,sans-serif;overflow:hidden}
+  body{background:#3a3a3a;display:flex;flex-direction:column;height:100%;min-height:100vh;font-family:system-ui,sans-serif;overflow:hidden;position:fixed;width:100%;top:0;left:0;}
   /* Thin top navigation bar */
   .topbar{
     background:#1a1a2e;color:#fff;padding:0 20px;
@@ -21,8 +21,8 @@ function viewWithStamp(fileUrl, company, role) {
   .topbar-left{font-size:10px;opacity:.4;letter-spacing:.04em;text-transform:uppercase}
   .topbar-right{font-size:11px;color:#888}
   /* PDF viewer area */
-  .viewer{position:relative;flex:1;display:flex;overflow:hidden}
-  iframe{flex:1;border:none;width:100%;display:block}
+.viewer{position:relative;flex:1;display:flex;overflow:hidden;-webkit-overflow-scrolling:touch;}
+iframe{flex:1;border:none;width:100%;display:block;height:100%;min-height:0;-webkit-overflow-scrolling:touch;}
   /* The stamp — positioned in the top-right corner of the viewer, 
      matching where top-right of the PDF page would be visible */
   .stamp{

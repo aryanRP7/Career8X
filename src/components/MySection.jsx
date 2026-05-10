@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ExternalLink, Download, FileText, File, Link2, AlignLeft, Folder } from "lucide-react";
+import { ExternalLink, Download, FileText, File, Link2, AlignLeft, Folder, Eye, Share2 } from "lucide-react";
 
 const FILE_ICON = {
   pdf:  { icon: FileText, color: "#ef4444" },
@@ -18,12 +18,7 @@ function LinkCard({ item }) {
       <div className="my-card-body">
         <h4 className="my-card-title">{item.title}</h4>
         {item.label && <span className="my-link-label">{item.label}</span>}
-        <a
-          href={item.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="my-goto-btn"
-        >
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="my-goto-btn">
           Go to Link <ExternalLink size={13} />
         </a>
       </div>
@@ -54,12 +49,7 @@ function BothCard({ item }) {
           <h4 className="my-card-title">{item.title}</h4>
           {item.label && <span className="my-link-label">{item.label}</span>}
         </div>
-        <a
-          href={item.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="my-goto-btn small"
-        >
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="my-goto-btn small">
           Go to Link <ExternalLink size={12} />
         </a>
       </div>
@@ -71,6 +61,17 @@ function BothCard({ item }) {
 function FileCard({ file }) {
   const ext = (file.type || file.name?.split(".").pop() || "default").toLowerCase();
   const { icon: Icon, color } = FILE_ICON[ext] || FILE_ICON.default;
+  const fileUrl = `${process.env.PUBLIC_URL || ""}/myfiles/${file.name}`;
+
+  const handleShare = async () => {
+    const fullUrl = `${window.location.origin}${fileUrl}`;
+    if (navigator.share) {
+      try { await navigator.share({ title: file.name, url: fullUrl }); return; } catch (_) {}
+    }
+    navigator.clipboard?.writeText(fullUrl);
+    alert("Link copied!");
+  };
+
   return (
     <div className="my-file-card">
       <div className="my-file-icon" style={{ color }}>
@@ -80,14 +81,17 @@ function FileCard({ file }) {
       <div className="my-file-body">
         <h4 className="my-card-title">{file.label || file.name}</h4>
         {file.description && <p className="my-file-desc">{file.description}</p>}
-        <a
-          href={`${process.env.PUBLIC_URL || ""}/myfiles/${file.name}`}
-          download={file.name}
-          className="my-download-btn"
-        >
-          <Download size={13} />
-          Download
-        </a>
+        <div style={{ display: "flex", gap: "8px", flexWrap: "wrap", marginTop: "8px" }}>
+          <a href={fileUrl} target="_blank" rel="noopener noreferrer" className="my-download-btn">
+            <Eye size={13} /> View
+          </a>
+          <a href={fileUrl} download={file.name} className="my-download-btn">
+            <Download size={13} /> Download
+          </a>
+          <button className="my-download-btn" onClick={handleShare}>
+            <Share2 size={13} /> Share
+          </button>
+        </div>
       </div>
     </div>
   );
@@ -105,9 +109,9 @@ export default function MySection({ items, files }) {
   const allFiles = files || [];
 
   const TABS = [
-    { id: "files", label: "Files", icon: Folder, count: allFiles.length },
-    { id: "links", label: "Links", icon: Link2,  count: allLinks.length },
-    { id: "notes", label: "Notes", icon: AlignLeft, count: allTexts.length },
+    { id: "files", label: "Files",  icon: Folder,    count: allFiles.length },
+    { id: "links", label: "Links",  icon: Link2,     count: allLinks.length },
+    { id: "notes", label: "Notes",  icon: AlignLeft, count: allTexts.length },
   ];
 
   return (
@@ -119,7 +123,6 @@ export default function MySection({ items, files }) {
         </div>
       </div>
 
-      {/* Tabs */}
       <div className="myspace-tabs">
         {TABS.map(({ id, label, icon: Icon, count }) => (
           <button
@@ -134,7 +137,6 @@ export default function MySection({ items, files }) {
         ))}
       </div>
 
-      {/* Files tab */}
       {activeTab === "files" && (
         allFiles.length === 0
           ? <div className="empty-state"><p>No files yet. Add entries to myFiles in myData.js and place files in public/myfiles/</p></div>
@@ -148,7 +150,6 @@ export default function MySection({ items, files }) {
           )
       )}
 
-      {/* Links tab */}
       {activeTab === "links" && (
         allLinks.length === 0
           ? <div className="empty-state"><p>No links yet. Add type: "link" or type: "both" entries in myData.js</p></div>
@@ -158,7 +159,6 @@ export default function MySection({ items, files }) {
             </div>
       )}
 
-      {/* Notes tab */}
       {activeTab === "notes" && (
         allTexts.length === 0
           ? <div className="empty-state"><p>No notes yet. Add type: "text" entries in myData.js</p></div>
