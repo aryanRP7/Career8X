@@ -8,6 +8,7 @@ import MyNotes from "./MyNotes";
 import ViewToggle from "./ViewToggle";
 import FileChip from "./FileChip";
 import { copyToClipboard } from "../utils/helpers";
+import { useLocalStorage } from "../hooks/useLocalStorage";
 import { jobsData } from "../data/jobsData";
 
 const WORK_MODE_COLOR = { Remote: "tag-cyan", Hybrid: "tag-blue", "On-site": "tag-orange" };
@@ -70,7 +71,7 @@ function AppliedCard({ item, index, starred, bookmarked, onToggleStar, onToggleB
   );
 }
 
-/* ── Job Board applied card (marked via ✓ from Jobs Board) ── */
+/* ── Job Board applied card ── */
 function JobBoardAppliedCard({ job, index, onUnmark, view }) {
   const isList = view === "list" || view === "compact";
   return (
@@ -83,9 +84,7 @@ function JobBoardAppliedCard({ job, index, onUnmark, view }) {
           <p className="company-name">{job.companyName}</p>
         </div>
         <div className="card-actions">
-          {/* Outlined checkmark — no fill, just green color when active */}
-          <button className="action-btn active-applied" onClick={() => onUnmark(job.id)}
-            title="Unmark applied">
+          <button className="action-btn active-applied" onClick={() => onUnmark(job.id)} title="Unmark applied">
             <CheckCircle size={16} fill="none" />
           </button>
         </div>
@@ -132,7 +131,6 @@ function SavedCard({ item, index, starred, bookmarked, applied,
           <button className={`action-btn ${bookmarked ? "active-save" : ""}`} onClick={() => onToggleBookmark(item.id)} title="Bookmark">
             <Bookmark size={15} fill={bookmarked ? "currentColor" : "none"} />
           </button>
-          {/* Orange applied toggle — outline only, no fill */}
           <button
             className={`action-btn ${applied ? "active-applied-orange" : ""}`}
             onClick={() => onToggleApplied(item.id)}
@@ -181,30 +179,23 @@ export default function AppliedSection({
   const [appliedFilter, setAppliedFilter] = useState("all");
   const [savedFilter,   setSavedFilter]   = useState("all");
 
-  const [starred,      setStarred]      = useState({});
-  const [bookmarked,   setBookmarked]   = useState({});
-  // Tracks which saved-section entries are applied (orange ✓)
-  const [savedApplied, setSavedApplied] = useState({});
+  // ── Persisted in localStorage so they survive refresh ──
+  const [starred,      setStarred]      = useLocalStorage("applied_starred_v1",      {});
+  const [bookmarked,   setBookmarked]   = useLocalStorage("applied_bookmarked_v1",   {});
+  const [savedApplied, setSavedApplied] = useLocalStorage("applied_savedApplied_v1", {});
 
   const toggleStar     = (prefix, id) => setStarred((p)    => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
   const toggleBookmark = (prefix, id) => setBookmarked((p) => ({ ...p, [`${prefix}-${id}`]: !p[`${prefix}-${id}`] }));
+  const toggleSavedApplied = (id)     => setSavedApplied((p) => ({ ...p, [id]: !p[id] }));
 
-  // Orange ✓ on Saved card: toggle applied state for that saved entry
-  const toggleSavedApplied = (id) => {
-    setSavedApplied((p) => ({ ...p, [id]: !p[id] }));
-  };
-
-  // Jobs from Jobs Board marked applied
   const boardAppliedJobs = jobState ? jobsData.filter((j) => jobState.isApplied(j.id)) : [];
-
-  // Saved entries the user has marked applied (orange ✓)
   const savedAppliedJobs = savedForLater.filter((j) => savedApplied[j.id]);
 
   const safeSearch = (list) => list.filter((j) => {
     const q = searchQuery.toLowerCase();
     if (!q) return true;
     return j.companyName?.toLowerCase().includes(q) || j.jobTitle?.toLowerCase().includes(q) ||
-           j.location?.toLowerCase().includes(q) || j.myNotes?.toLowerCase().includes(q);
+           j.location?.toLowerCase().includes(q)    || j.myNotes?.toLowerCase().includes(q);
   });
 
   const filteredApplied      = safeSearch(appliedJobs);
@@ -215,14 +206,12 @@ export default function AppliedSection({
   const filteredSavedApplied = safeSearch(savedAppliedJobs);
   const filteredSaved        = safeSearch(savedForLater);
 
-  // Sub-filter for Applied tab
   const applyAppliedFilter = (list, prefix) => {
     if (appliedFilter === "starred")    return list.filter((j) => starred[`${prefix}-${j.id}`]);
     if (appliedFilter === "bookmarked") return list.filter((j) => bookmarked[`${prefix}-${j.id}`]);
     return list;
   };
 
-  // Sub-filter for Saved tab
   const applySavedFilter = (list) => {
     if (savedFilter === "starred")    return list.filter((j) => starred[`saved-${j.id}`]);
     if (savedFilter === "bookmarked") return list.filter((j) => bookmarked[`saved-${j.id}`]);
@@ -232,7 +221,7 @@ export default function AppliedSection({
 
   const displayApplied      = applyAppliedFilter(filteredApplied, "applied");
   const displayBoardApplied = applyAppliedFilter(filteredBoardApplied, "board");
-  const displaySavedApplied = filteredSavedApplied; // always shown in Applied tab
+  const displaySavedApplied = filteredSavedApplied;
   const displaySaved        = applySavedFilter(filteredSaved);
 
   const totalApplied = filteredApplied.length + filteredBoardApplied.length + filteredSavedApplied.length;
@@ -251,7 +240,6 @@ export default function AppliedSection({
 
   const gridClass = getGridClass(view);
 
-  // ── Filter options ──
   const APPLIED_FILTERS = [
     { id: "all",        label: "All",        icon: null },
     { id: "starred",    label: "Starred",    icon: <Star size={12} /> },
@@ -264,16 +252,15 @@ export default function AppliedSection({
     { id: "applied",    label: "Applied",    icon: <CheckCircle size={12} /> },
   ];
 
-  const currentFilters    = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
-  const currentFilter     = activeSubTab === "applied" ? appliedFilter   : savedFilter;
-  const setCurrentFilter  = activeSubTab === "applied" ? setAppliedFilter : setSavedFilter;
+  const currentFilters   = activeSubTab === "applied" ? APPLIED_FILTERS : SAVED_FILTERS;
+  const currentFilter    = activeSubTab === "applied" ? appliedFilter   : savedFilter;
+  const setCurrentFilter = activeSubTab === "applied" ? setAppliedFilter : setSavedFilter;
   const currentExportData = activeSubTab === "applied"
     ? buildExport([...displayApplied, ...displayBoardApplied, ...displaySavedApplied])
     : buildExport(displaySaved);
 
   return (
     <section className="section">
-      {/* ── Section title ── */}
       <div className="section-header" style={{ marginBottom: "20px" }}>
         <div>
           <h2 className="section-title">My Applications</h2>
@@ -281,35 +268,20 @@ export default function AppliedSection({
         </div>
       </div>
 
-      {/* ── Unified top bar ── */}
       <div className="section-header-actions" style={{ marginBottom: "22px", flexWrap: "wrap", gap: "8px", alignItems: "center" }}>
-
-        {/* LEFT: Applied | Saved tab switcher */}
         <div className="filter-tabs">
-          <button
-            className={`filter-tab ${activeSubTab === "applied" ? "active" : ""}`}
-            onClick={() => setActiveSubTab("applied")}
-          >
+          <button className={`filter-tab ${activeSubTab === "applied" ? "active" : ""}`} onClick={() => setActiveSubTab("applied")}>
             <Clock size={13} /> Applied ({totalApplied})
           </button>
-          <button
-            className={`filter-tab ${activeSubTab === "saved" ? "active" : ""}`}
-            onClick={() => setActiveSubTab("saved")}
-          >
+          <button className={`filter-tab ${activeSubTab === "saved" ? "active" : ""}`} onClick={() => setActiveSubTab("saved")}>
             <Bookmark size={13} /> Saved ({filteredSaved.length})
           </button>
         </div>
 
-        {/* RIGHT: sub-filters + view toggle + export */}
         <div style={{ marginLeft: "auto", display: "flex", gap: "8px", alignItems: "center", flexWrap: "wrap" }}>
-          {/* Sub-filters pill */}
           <div className="filter-tabs">
             {currentFilters.map((f) => (
-              <button
-                key={f.id}
-                className={`filter-tab ${currentFilter === f.id ? "active" : ""}`}
-                onClick={() => setCurrentFilter(f.id)}
-              >
+              <button key={f.id} className={`filter-tab ${currentFilter === f.id ? "active" : ""}`} onClick={() => setCurrentFilter(f.id)}>
                 {f.icon} {f.label}
               </button>
             ))}
@@ -322,7 +294,6 @@ export default function AppliedSection({
         </div>
       </div>
 
-      {/* ── Applied content ── */}
       {activeSubTab === "applied" && (
         (displayApplied.length + displayBoardApplied.length + displaySavedApplied.length) === 0
           ? <div className="empty-state"><p>No entries match. Add jobs in appliedJobsData.js or mark from Jobs Board.</p></div>
@@ -340,7 +311,6 @@ export default function AppliedSection({
                   onUnmark={onUnmarkApplied} />
               ))}
               {displaySavedApplied.map((job, i) => (
-                /* Saved entries marked applied — show as applied card with orange badge */
                 <AppliedCard key={`savedapp-${job.id}`} item={job}
                   index={displayApplied.length + displayBoardApplied.length + i + 1} view={view}
                   starred={!!starred[`saved-${job.id}`]}
@@ -351,7 +321,6 @@ export default function AppliedSection({
             </div>
       )}
 
-      {/* ── Saved content ── */}
       {activeSubTab === "saved" && (
         displaySaved.length === 0
           ? <div className="empty-state"><p>No entries match. Add jobs in savedForLaterData.js</p></div>
