@@ -394,6 +394,8 @@ ul { list-style: none; }
 .cards-compact .company-name    { font-size: 11px; }
 .cards-compact .company-avatar  { width: 34px; height: 34px; min-width: 34px; font-size: 15px; border-radius: 8px; }
 .cards-compact .card-actions    { gap: 2px; }
+.cards-compact .card-number { align-self: flex-start; margin-bottom: 0; }
+.cards-compact .card-actions    { gap: 2px; }
 .cards-compact .action-btn      { width: 24px; height: 24px; }
 .cards-compact .card-meta       { gap: 4px; }
 .cards-compact .meta-chip       { font-size: 10.5px; padding: 2px 7px; }
@@ -1164,6 +1166,7 @@ ul { list-style: none; }
     gap: 10px;
   }
   .cards-list .card-header  { min-width:0; flex:unset; }
+  .cards-list .card-number { align-self: flex-start; }
   .cards-list .card-meta    { min-width:0; flex:unset; align-self:auto; }
   .cards-list .card-footer,
   .cards-list .applied-card-footer {
@@ -1208,16 +1211,16 @@ ul { list-style: none; }
   .sub-tab       { font-size:12px; padding:7px 12px; }
 
   /* FileChip dropdown — float above content, don't push siblings */
-  .file-chip-dropdown {
+
+    .file-chip-dropdown {
     position: absolute;
-  bottom: auto;
-  top: calc(100% + 6px);
-  left: 0 !important;
-  transform: none;
-  width: 200px;
-  z-index: 9999;
-  max-height: 280px;
-  overflow-y: auto;
+    bottom: auto;
+    top: calc(100% + 6px);
+    left: auto !important;
+    right: 0;
+    transform: none;
+    width: 200px;
+    z-index: 9999;
   }
 }
 

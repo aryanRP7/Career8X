@@ -13,15 +13,15 @@ export const myItems = [
   {
     type: "link",
     id: 1,
-    title: "Figma Design Inspiration Reel",
-    url: "https://www.instagram.com/reel/example1",
+    title: "Figma Design Reel",
+    url: "https://www.instagram.com/reel/DU4hXqiEXnH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     label: "Instagram Reel",
   },
   {
     type: "link",
     id: 2,
-    title: "React Advanced Patterns – Educational Video",
-    url: "https://www.youtube.com/watch?v=example",
+    title: "Figma – Educational Video",
+    url: "https://youtu.be/RNmbN-r84ms?si=PrARcdku3E33kMUE",
     label: "YouTube",
   },
   {
@@ -78,23 +78,23 @@ export const myItems = [
 export const myFiles = [
   {
     id: 1,
-    name: "Resume_2026.pdf",
+    name: "Main_Product_ Designer_Falguni Dekate_ Resume.pdf",
     label: "My Resume",
     description: "Latest resume — updated May 2026",
     type: "pdf",
   },
   {
     id: 2,
-    name: "Cover_Letter_Template.docx",
+    name: "Main_Product_ Designer_Falguni Dekate_ Resume.docx",
     label: "Cover Letter Template",
     description: "Generic cover letter to customize per application",
     type: "docx",
   },
   {
     id: 3,
-    name: "Portfolio_Notes.txt",
-    label: "Portfolio Case Study Notes",
-    description: "Raw notes for upcoming portfolio update",
-    type: "txt",
+    name: "Cover Letter Falguni Dekate.docx",
+    label: "Cover Letter Docx",
+    description: "Cover Letter Docx",
+    type: "docx",
   },
 ];

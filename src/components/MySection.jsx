@@ -140,7 +140,7 @@ export default function MySection({ items, files }) {
           ? <div className="empty-state"><p>No files yet. Add entries to myFiles in myData.js and place files in public/myfiles/</p></div>
           : (
             <>
-              <p className="my-files-hint">Place your files in <code>public/myfiles/</code> folder of your project.</p>
+              <p className="my-files-hint"><code>public/myfiles/</code></p>
               <div className="my-files-grid">
                 {allFiles.map((file) => <FileCard key={file.id} file={file} />)}
               </div>
