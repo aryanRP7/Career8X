@@ -109,7 +109,9 @@ Falguni Dekate`,
   applyLink:
     "https://career10.successfactors.com/careers?company=C0002469119P",
   payRange: "",
-  myNotes: "Apply to this",
+  myNotes: `CODAN official apply
+  Email
+  Password`,
 
   resumeFile: "Kagwerks_UIUX_Designer_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "Kagwerks_Cover_Letter_Falguni_Dekate.pdf",
@@ -145,4 +147,62 @@ Falguni Dekate`,
   resumeFile: "QC_UIUX_Designer_and_developer_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "",
 },
+{
+  id: 8,
+  companyName: "Nordic Semiconductor",
+  jobTitle: "Product Designer, IoT Cloud Developer Tools",
+  location: "Boston, MA",
+  workMode: "Hybrid",
+  workExperience: "",
+  applyLink:
+    "https://careers.nordicsemi.com/jobs/7402126-product-designer-iot-cloud-developer-tools?ittk=AZWEI7E6UY",
+  payRange: "$88,000 – $150,000 / yr",
+  myNotes: "",
+  coverLetterText: `COVER LETTER
+Date: 05/11/2026
+
+Dear Hiring Team,
+
+Exceptional developer platforms succeed when deeply technical workflows become intuitive, reliable, and effortless to navigate at scale. Designing clarity within complex systems is what excites me most about Nordic Semiconductor and the opportunity to shape IoT cloud developer tools used by engineers worldwide.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design data-heavy enterprise platforms, developer tools, and operational workflows that balance usability with technical precision. My experience includes building telemetry-focused interfaces, scalable design systems, high-fidelity Figma prototypes, and production-ready workflows while collaborating closely with product managers and engineers to simplify complex technical use cases.
+
+I have worked on developer-focused and enterprise products involving usability testing, systems thinking, workflow optimization, and data-driven design decisions. I am highly proficient in Figma, component-based design systems, prototyping, and cross-functional product collaboration across fast-paced technical environments.
+
+What especially draws me to Nordic is the opportunity to contribute to products that help firmware and IoT teams monitor, debug, and maintain connected systems with confidence and clarity.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Nordic_Semiconductor_Product_Designer_and_developer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+{
+  id: 9,
+  companyName: "Medical Consulting Group, LLC",
+  jobTitle: "Web Designer",
+  location: "Springfield, MO",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  applyLink:
+    "https://www.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=f257f48babfe2a0d&tk=1joakh8iptd2r800",
+  payRange: "",
+  myNotes: "",
+  coverLetterText: `COVER LETTER
+Date: 05/11/2026
+
+Dear Hiring Team,
+
+Strong websites do more than look polished. They create intuitive, high-performing digital experiences that help businesses grow while making complex user journeys feel effortless. That balance of usability, performance, and responsive design is what excites me most about Medical Consulting Group.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design responsive WordPress websites, WooCommerce experiences, and conversion-focused interfaces across web and mobile platforms. My experience includes building scalable UI systems, responsive layouts, reusable content sections, and developer-ready assets while collaborating closely with developers and stakeholders to ensure seamless frontend implementation and usability.
+
+I am highly proficient in WordPress, WooCommerce, Figma, CSS, HTML, responsive design systems, and frontend workflows. Through my work across product and web-focused environments, I have developed strong experience in usability optimization, accessibility, SEO-focused design, wireframing, and responsive website execution.
+
+What especially draws me to MCG is the opportunity to contribute practical, user-focused web experiences that combine strong design thinking with functional, scalable implementation.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Medical_Consulting_Group_Web_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+}
 ];

@@ -15,6 +15,7 @@ import { personalNote } from "./data/personalNote";
 import { useJobState } from "./hooks/useJobState";
 import { useLocalStorage } from "./hooks/useLocalStorage";
 import { Clock } from "lucide-react";
+import GameSection from "./components/GameSection";
 import "./index.css";
 
 // ── Update this date whenever you redeploy ──
@@ -117,6 +118,9 @@ export default function App() {
         {activeTab === "my" && (
           <MySection items={myItems} files={myFiles} />
         )}
+        {activeTab === "game" && (
+  <GameSection />
+)}
       </main>
     </div>
   );

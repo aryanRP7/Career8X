@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Search, Moon, Sun, Menu, X, ClipboardCheck, Briefcase, Users, BookOpen, FolderOpen } from "lucide-react";
+import { Search, Moon, Sun, Menu, X, ClipboardCheck, Briefcase, Users, BookOpen, FolderOpen, Gamepad2 } from "lucide-react";
 
 const TABS = [
   { id: "applied",     label: "Applied",    icon: ClipboardCheck },
@@ -7,6 +7,7 @@ const TABS = [
   { id: "consultancy", label: "Consultancy",icon: Users          },
   { id: "notes",       label: "Resources",  icon: BookOpen       },
   { id: "my",          label: "My Space",   icon: FolderOpen     },
+  { id: "game",        label: "Game",       icon: Gamepad2       },
 ];
 
 export default function Navbar({

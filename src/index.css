@@ -1250,3 +1250,87 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   padding-left: 16px; position: relative; line-height: 1.5;
 }
 .list-details-jd li::before { content: "–"; position: absolute; left: 0; color: var(--text-3); }
+
+
+
+
+
+/* ══ MATH RUNNER GAME ══ */
+.game-shell {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 32px 24px;
+  max-width: 540px;
+  margin: 0 auto;
+}
+.game-home { display:flex; flex-direction:column; align-items:center; gap:24px; text-align:center; }
+.game-logo { display:flex; align-items:center; gap:10px; }
+.game-logo-icon { font-size:32px; }
+.game-logo-text { font-family:var(--font-display); font-size:28px; font-weight:700; color:var(--text); letter-spacing:-0.03em; }
+.game-tagline { font-size:14px; color:var(--text-2); font-family:var(--font-mono); }
+.game-modes { display:grid; grid-template-columns:1fr 1fr; gap:14px; width:100%; }
+.game-mode-card { background:var(--bg-3); border:1px solid var(--border-2); border-radius:var(--radius); padding:20px 16px; cursor:pointer; text-align:center; transition:all var(--transition); }
+.game-mode-card:hover { border-color:var(--accent); transform:translateY(-2px); background:var(--bg-4); }
+.game-mode-icon { font-size:28px; margin-bottom:8px; }
+.game-mode-title { font-family:var(--font-display); font-size:17px; font-weight:700; color:var(--text); margin-bottom:4px; }
+.game-mode-desc { font-size:12px; color:var(--text-2); font-family:var(--font-mono); }
+.game-rules { display:flex; gap:10px; font-size:12px; color:var(--text-3); font-family:var(--font-mono); flex-wrap:wrap; justify-content:center; }
+
+.game-play { display:flex; flex-direction:column; gap:16px; }
+.game-hud { display:flex; align-items:center; justify-content:space-between; }
+.game-hearts { display:flex; gap:5px; }
+.game-heart { font-size:22px; transition:all 0.2s; }
+.game-heart.lost { opacity:0.15; transform:scale(0.8); }
+.game-score-wrap { text-align:right; }
+.game-combo { font-size:13px; color:var(--orange); font-family:var(--font-mono); font-weight:600; }
+.game-score { font-family:var(--font-display); font-size:28px; font-weight:700; color:var(--text); letter-spacing:-0.03em; }
+
+.game-timer-wrap { position:relative; height:6px; background:var(--bg-4); border-radius:20px; overflow:visible; display:flex; align-items:center; }
+.game-timer-bar { height:100%; border-radius:20px; transition:width 0.9s linear, background 0.3s; }
+.game-timer-label { position:absolute; right:0; top:-18px; font-size:11px; font-family:var(--font-mono); color:var(--text-3); }
+
+.game-question-card { background:var(--bg-3); border:1px solid var(--border); border-radius:var(--radius); padding:28px 20px; text-align:center; min-height:130px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; }
+.game-level-tag { font-size:11px; font-family:var(--font-mono); color:var(--text-3); text-transform:uppercase; letter-spacing:.08em; }
+.game-question { font-family:var(--font-display); font-size:52px; font-weight:700; color:var(--text); letter-spacing:-0.03em; }
+.game-feedback { font-size:14px; font-family:var(--font-mono); font-weight:600; min-height:20px; }
+.game-feedback.correct { color:var(--green); }
+.game-feedback.wrong   { color:var(--red); }
+
+.game-options { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.game-opt { background:var(--bg-2); border:1px solid var(--border-2); border-radius:var(--radius); padding:18px 12px; font-family:var(--font-display); font-size:28px; font-weight:700; color:var(--text); cursor:pointer; transition:all 0.12s; }
+.game-opt:hover:not(:disabled) { border-color:var(--accent); background:var(--bg-3); transform:translateY(-2px); }
+.game-opt:disabled { cursor:default; }
+.game-opt.correct { border-color:var(--green); background:rgba(62,207,142,0.12); color:var(--green); }
+.game-opt.wrong   { border-color:var(--red); background:rgba(255,94,94,0.10); color:var(--red); }
+.game-opt.dim     { opacity:0.35; }
+
+@keyframes gameShake {
+  0%,100%{transform:translateX(0)}
+  20%{transform:translateX(-6px)}
+  40%{transform:translateX(6px)}
+  60%{transform:translateX(-4px)}
+  80%{transform:translateX(4px)}
+}
+.game-shake { animation:gameShake 0.45s ease; }
+
+.game-end { display:flex; flex-direction:column; align-items:center; gap:24px; text-align:center; }
+.game-end-title { font-family:var(--font-display); font-size:30px; font-weight:700; color:var(--text); }
+.game-end-stats { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; width:100%; }
+.game-stat { background:var(--bg-3); border-radius:var(--radius-sm); padding:14px 10px; }
+.game-stat-label { font-size:10.5px; font-family:var(--font-mono); color:var(--text-3); text-transform:uppercase; letter-spacing:.06em; margin-bottom:4px; }
+.game-stat-val { font-family:var(--font-display); font-size:24px; font-weight:700; color:var(--text); }
+.game-end-btns { display:flex; gap:10px; }
+.game-primary-btn { font-family:var(--font-display); font-size:15px; font-weight:600; color:#fff; background:var(--accent); border:none; padding:10px 24px; border-radius:var(--radius-sm); cursor:pointer; transition:all var(--transition); }
+.game-primary-btn:hover { background:var(--accent-2); transform:translateY(-1px); }
+.game-secondary-btn { font-family:var(--font-display); font-size:15px; font-weight:500; color:var(--text-2); background:none; border:1px solid var(--border-2); padding:10px 24px; border-radius:var(--radius-sm); cursor:pointer; transition:all var(--transition); }
+.game-secondary-btn:hover { color:var(--text); background:var(--bg-3); }
+
+@media (max-width:640px) {
+  .game-shell { padding:20px 14px; }
+  .game-question { font-size:38px; }
+  .game-opt { font-size:22px; padding:14px 10px; }
+  .game-end-stats { grid-template-columns:repeat(2,1fr); }
+}
+
+.game-circle-timer { display:flex; align-items:center; justify-content:center; }
