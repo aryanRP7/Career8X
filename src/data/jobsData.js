@@ -178,4 +178,36 @@ Warm regards,
 Falguni Dekate`,
     myNotes: "This position is open",
   },
+  {
+  id: 9,
+  companyName: "Accenture Federal Services",
+  jobTitle: "Cleared Junior UI/UX Designer",
+  location: "Washington, DC, USA",
+  workMode: "On-site",
+  workExperience: "2–3+ years",
+  applyLink: "https://job-boards.greenhouse.io/accenturefederalservices/jobs/4677398006?gh_jid=4677398006&gh_src=d8gyyfgu6us",
+  payRange: "$53,900 – $120,100 / yr",
+  resumeFile: "resume_konrad_2026.pdf",
+  coverLetterFile: "coverletter_konrad_2026.pdf",
+  jobDescription: [
+    "Help define and maintain design systems and reusable templates",
+    "Create wireframes and workflows for consolidated systems",
+    "Design user flows, prototypes, and interface solutions",
+    "Conduct user interviews and present designs to stakeholders",
+    "Collaborate with developers and cross-functional teams",
+    "Use government-specified tools to build interactive content",
+    "Contribute to UX strategy and usability improvements",
+    "Work on federal systems requiring security clearance",
+  ],
+  coverLetterText: `COVER LETTER
+Date: 05/07/2026
+
+Dear Hiring Team,
+
+I would be excited to contribute elevated visual design, thoughtful execution, and a collaborative creative mindset to the team.
+
+Warm regards,
+John Doe`,
+  myNotes: "This position is open",
+},
 ];

@@ -99,4 +99,50 @@ Falguni Dekate`,
     resumeFile: "David_Yurman_Jr_Designer_Falguni Dekate_ Resume - Copy.pdf",
     // coverLetterFile: "coverletter_cisco_2026.pdf",
   },
+  {
+  id: 6,
+  companyName: "Kagwerks",
+  jobTitle: "UI/UX Designer",
+  location: "Ashburn, VA",
+  workMode: "On-site",
+  workExperience: "",
+  applyLink:
+    "https://career10.successfactors.com/careers?company=C0002469119P",
+  payRange: "",
+  myNotes: "Apply to this",
+
+  resumeFile: "Kagwerks_UIUX_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "Kagwerks_Cover_Letter_Falguni_Dekate.pdf",
+},
+{
+  id: 7,
+  companyName: "QC Manufacturing Inc.",
+  jobTitle: "UI / UX Designer and Developer",
+  location: "Temecula, CA",
+  workMode: "On-site",
+  workExperience: "",
+  applyLink:
+    "https://www.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=84829ee52e60639f&tk=1jo9q0nsag8ss800",
+  payRange: "$30 – $35 / hr",
+  myNotes: "",
+  coverLetterText: `COVER LETTER
+COVER LETTER
+
+Date - 05/10/2026
+
+Dear Hiring Team,
+
+Strong digital experiences are built when design systems, frontend implementation, and user journeys work seamlessly together to create fast, intuitive, and conversion-focused experiences. That balance of usability, responsiveness, and practical frontend thinking is what excites me most about QC Manufacturing.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design responsive websites, scalable UI systems, and production-ready interfaces across web and mobile platforms. My experience includes creating reusable Figma component systems, responsive layouts, developer-ready assets, and conversion-focused workflows while collaborating closely with developers and stakeholders to ensure implementation feasibility and visual consistency.
+
+I am highly proficient in Figma, HTML, CSS, JavaScript, React, responsive design systems, and frontend-aware UX workflows. Through my work across enterprise and product-focused environments, I have developed strong experience in usability optimization, developer handoff, component-based design, and responsive frontend execution.
+
+What especially draws me to QC Manufacturing is the opportunity to contribute practical, buildable, and user-focused digital experiences that directly support business and eCommerce goals.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "QC_UIUX_Designer_and_developer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
 ];
