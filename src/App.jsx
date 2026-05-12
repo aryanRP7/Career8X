@@ -19,7 +19,7 @@ import GameSection from "./components/GameSection";
 import "./index.css";
 
 // ── Update this date whenever you redeploy ──
-const LAST_UPDATED = "11 May 2026";
+const LAST_UPDATED = "12 May 2026";
 
 // ── STORAGE VERSION — bump (e.g. "v2") ONLY to wipe all user state ──
 // WARNING: changing this clears favorites, applied, saved for ALL users

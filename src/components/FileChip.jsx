@@ -133,18 +133,34 @@ export default function FileChip({ file, label = "Resume", company = "", role = 
 
   const fileUrl = BASE + file;
 
-  const handleView = () => {
-    if (company && role) viewWithStamp(fileUrl, company, role);
-    else window.open(fileUrl, "_blank");
-    setOpen(false);
-  };
+  const handleView = async () => {
+  try {
+    const res = await fetch(fileUrl, { method: "HEAD" });
+    if (!res.ok) {
+      alert("No file available");
+      setOpen(false);
+      return;
+    }
+  } catch (_) {}
+  if (company && role) viewWithStamp(fileUrl, company, role);
+  else window.open(fileUrl, "_blank");
+  setOpen(false);
+};
 
   const handleDownload = async () => {
-    setOpen(false);
-    setBusy(true);
-    await downloadDirect(fileUrl, file);
-    setBusy(false);
-  };
+  setOpen(false);
+  setBusy(true);
+  try {
+    const res = await fetch(fileUrl, { method: "HEAD" });
+    if (!res.ok) {
+      setBusy(false);
+      alert("No file available");
+      return;
+    }
+  } catch (_) {}
+  await downloadDirect(fileUrl, file);
+  setBusy(false);
+};
 
   const handleShare = async () => {
     const fullUrl = `${window.location.origin}${fileUrl}`;

@@ -204,5 +204,34 @@ Warm regards,
 Falguni Dekate`,
   resumeFile: "Medical_Consulting_Group_Web_Designer_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "",
+},
+{
+  id: 10,
+  companyName: "Prolific Academic Ltd",
+  jobTitle: "Product/UX Professionals - AI Training",
+  location: "Seattle, WA",
+  workMode: "Remote",
+  workExperience: "1+ years",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=a0a203ba6e983e4b&from=shareddesktop_copy",
+  payRange: "Up to $50 / hr",
+  myNotes: "",
+  coverLetterText: `COVER LETTER
+Date: 05/11/2026
+
+Dear Hiring Team,
+
+The future of AI depends on systems that can understand human behavior, usability, and design reasoning with accuracy and nuance. Contributing to that next generation of AI through real UX expertise is what excites me most about Prolific.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design AI-native digital experiences while evaluating usability workflows, accessibility standards, and interaction systems across enterprise products. My experience includes analyzing AI-generated interfaces, validating user flows, conducting usability evaluations, and building scalable design systems using Figma, Framer, and research-driven UX workflows.
+
+I have worked extensively with user-centered design principles, accessibility auditing, information architecture, and systems thinking while collaborating closely with product managers and engineers to refine complex product experiences. Through usability testing and UX critique sessions, I have developed a strong ability to explain design decisions, identify workflow gaps, and evaluate interfaces for clarity, logic, and usability.
+
+What especially draws me to Prolific is the opportunity to help shape more human-centered and reliable AI systems through thoughtful UX evaluation and research expertise.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Prolific_Academic_Product_UX_Professional_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
 }
 ];

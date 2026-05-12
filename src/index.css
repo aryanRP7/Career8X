@@ -1133,7 +1133,7 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
 /* Mobile */
 @media (max-width: 640px) {
   .main-content { padding:24px 16px 56px; }
-  .search-input { width:100px; }
+  .search-input { width:100px; font-size: 16px; }
   .personal-note-popup { width:260px; }
 
   /* Grid */
@@ -1213,15 +1213,16 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   /* FileChip dropdown — float above content, don't push siblings */
 
     .file-chip-dropdown {
-    position: absolute;
-    bottom: auto;
-    top: calc(100% + 6px);
-    left: auto !important;
-    right: 0;
-    transform: none;
-    width: 200px;
-    z-index: 9999;
-  }
+  position: absolute;
+  bottom: auto;
+  top: calc(100% + 6px);
+  left: 0 !important;
+  right: auto;
+  transform: none;
+  width: 190px;
+  max-width: calc(100vw - 32px);
+  z-index: 9999;
+}
 }
 
 /* Tablet tweaks */
@@ -1334,3 +1335,18 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
 }
 
 .game-circle-timer { display:flex; align-items:center; justify-content:center; }
+
+
+.game-end-btn {
+  font-size: 12px;
+  font-family: var(--font-mono);
+  color: var(--text-3);
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  width: 100%;
+  padding: 4px 0;
+  transition: color var(--transition);
+}
+.game-end-btn:hover { color: var(--red); }

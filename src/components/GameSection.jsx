@@ -241,11 +241,11 @@ export default function GameSection() {
   };
 
   const optClass = (val) => {
-    if (!selected) return "game-opt";
-    if (val === question.ans) return "game-opt correct";
-    if (val === selected.val && !selected.correct) return "game-opt wrong";
-    return "game-opt dim";
-  };
+  if (!selected || !locked) return "game-opt";
+  if (val === question.ans) return "game-opt correct";
+  if (val === selected.val && !selected.correct) return "game-opt wrong";
+  return "game-opt dim";
+};
 
   const timerPct   = (timeLeft / TIME_LIMIT) * 100;
   const qTime      = getQuestionTime(qNumRef.current);
@@ -367,6 +367,14 @@ export default function GameSection() {
                 </button>
               ))}
             </div>
+            <button className="game-end-btn" onClick={() => {
+  clearInterval(timerRef.current);
+  clearInterval(qTimerRef.current);
+  clearTimeout(nextRef.current);
+  setScreen("home");
+}}>
+  End Game
+</button>
 
           </div>
         )}

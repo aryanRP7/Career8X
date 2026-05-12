@@ -52,6 +52,7 @@ export default function Navbar({
               onChange={(e) => setSearchQuery(e.target.value)}
               onFocus={() => setSearchFocused(true)}
               onBlur={() => setSearchFocused(false)}
+              onKeyDown={(e) => { if (e.key === "Enter") e.target.blur(); }}
               className="search-input"
             />
           </div>
