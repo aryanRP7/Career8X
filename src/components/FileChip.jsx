@@ -6,12 +6,16 @@ const BASE = `${process.env.PUBLIC_URL || ""}/myfiles/resumes/`;
 /* ── View: open PDF in new tab with stamp overlaid on the page top-right ── */
 function viewWithStamp(fileUrl, company, role) {
   const win = window.open("", "_blank");
-  if (!win) { window.open(fileUrl, "_blank"); return; }
+  if (!win) {
+    window.open(fileUrl, "_blank");
+    return;
+  }
   win.document.write(`<!DOCTYPE html><html><head>
 <meta charset="utf-8"><title>${company} — ${role}</title>
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
-  body{background:#3a3a3a;display:flex;flex-direction:column;height:100%;min-height:100vh;font-family:system-ui,sans-serif;overflow:hidden;position:fixed;width:100%;top:0;left:0;}
+  html,body{width:100%;height:100%;overflow:hidden;}
+  body{background:#1a1a2e;display:flex;flex-direction:column;font-family:system-ui,sans-serif;}
   /* Thin top navigation bar */
   .topbar{
     background:#1a1a2e;color:#fff;padding:0 20px;
@@ -21,8 +25,8 @@ function viewWithStamp(fileUrl, company, role) {
   .topbar-left{font-size:10px;opacity:.4;letter-spacing:.04em;text-transform:uppercase}
   .topbar-right{font-size:11px;color:#888}
   /* PDF viewer area */
-.viewer{position:relative;flex:1;display:flex;overflow:hidden;-webkit-overflow-scrolling:touch;}
-iframe{flex:1;border:none;width:100%;display:block;height:100%;min-height:0;-webkit-overflow-scrolling:touch;}
+.viewer{flex:1;position:relative;overflow:hidden;}
+  iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none;}
   /* The stamp — positioned in the top-right corner of the viewer, 
      matching where top-right of the PDF page would be visible */
   .stamp{
@@ -62,11 +66,11 @@ iframe{flex:1;border:none;width:100%;display:block;height:100%;min-height:0;-web
    direct blob download of the original PDF, no tab switch.              ── */
 async function downloadDirect(fileUrl, filename) {
   try {
-    const res  = await fetch(fileUrl);
+    const res = await fetch(fileUrl);
     const blob = await res.blob();
-    const url  = URL.createObjectURL(blob);
-    const a    = document.createElement("a");
-    a.href     = url;
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
     a.download = filename;
     document.body.appendChild(a);
     a.click();
@@ -74,8 +78,8 @@ async function downloadDirect(fileUrl, filename) {
     setTimeout(() => URL.revokeObjectURL(url), 2000);
   } catch (_) {
     // fallback if fetch fails (e.g. CORS in local dev)
-    const a    = document.createElement("a");
-    a.href     = fileUrl;
+    const a = document.createElement("a");
+    a.href = fileUrl;
     a.download = filename;
     document.body.appendChild(a);
     a.click();
@@ -88,34 +92,65 @@ function ShareMenu({ fileUrl, filename, onClose }) {
   const fullUrl = window.location.origin.startsWith("file")
     ? fileUrl
     : `${window.location.origin}${fileUrl}`;
-  const enc  = encodeURIComponent(fullUrl);
+  const enc = encodeURIComponent(fullUrl);
   const text = encodeURIComponent(filename);
 
   const opts = [
-    { label: "WhatsApp",  href: `https://wa.me/?text=${text}%20${enc}` },
-    { label: "Telegram",  href: `https://t.me/share/url?url=${enc}&text=${text}` },
-    { label: "Email",     href: `mailto:?subject=${text}&body=${enc}` },
-    { label: "Copy link", href: null,
-      onClick: () => { navigator.clipboard?.writeText(fullUrl).catch(() => {}); onClose(); } },
+    { label: "WhatsApp", href: `https://wa.me/?text=${text}%20${enc}` },
+    {
+      label: "Telegram",
+      href: `https://t.me/share/url?url=${enc}&text=${text}`,
+    },
+    { label: "Email", href: `mailto:?subject=${text}&body=${enc}` },
+    {
+      label: "Copy link",
+      href: null,
+      onClick: () => {
+        navigator.clipboard?.writeText(fullUrl).catch(() => {});
+        onClose();
+      },
+    },
   ];
 
   return (
     <div className="file-chip-share-menu">
       {opts.map((o) =>
-        o.href
-          ? <a key={o.label} className="file-chip-share-opt" href={o.href}
-               target="_blank" rel="noopener noreferrer" onClick={onClose}>{o.label}</a>
-          : <button key={o.label} className="file-chip-share-opt" onClick={o.onClick}>{o.label}</button>
+        o.href ? (
+          <a
+            key={o.label}
+            className="file-chip-share-opt"
+            href={o.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={onClose}
+          >
+            {o.label}
+          </a>
+        ) : (
+          <button
+            key={o.label}
+            className="file-chip-share-opt"
+            onClick={o.onClick}
+          >
+            {o.label}
+          </button>
+        ),
       )}
     </div>
   );
 }
 
 /* ══════════════════ MAIN COMPONENT ══════════════════ */
-export default function FileChip({ file, label = "Resume", company = "", role = "" }) {
-  const [open,  setOpen]  = useState(false);
+export default function FileChip({
+  file,
+  label = "Resume",
+  company = "",
+  role = "",
+}) {
+  const [open, setOpen] = useState(false);
   const [share, setShare] = useState(false);
-  const [busy,  setBusy]  = useState(false);
+  const [busy, setBusy] = useState(false);
+  const [noFile, setNoFile] = useState(false);
   const ref = useRef(null);
 
   useEffect(() => {
@@ -134,53 +169,84 @@ export default function FileChip({ file, label = "Resume", company = "", role = 
   const fileUrl = BASE + file;
 
   const handleView = async () => {
-  try {
-    const res = await fetch(fileUrl, { method: "HEAD" });
-    if (!res.ok) {
-      alert("No file available");
-      setOpen(false);
-      return;
-    }
-  } catch (_) {}
-  if (company && role) viewWithStamp(fileUrl, company, role);
-  else window.open(fileUrl, "_blank");
-  setOpen(false);
-};
+    try {
+      const res = await fetch(fileUrl, { method: "HEAD" });
+      if (!res.ok) {
+        setNoFile(true);
+        setTimeout(() => setNoFile(false), 2500);
+        setOpen(false);
+        return;
+      }
+    } catch (_) {}
+    if (company && role) viewWithStamp(fileUrl, company, role);
+    else window.open(fileUrl, "_blank");
+    setOpen(false);
+  };
 
   const handleDownload = async () => {
-  setOpen(false);
-  setBusy(true);
-  try {
-    const res = await fetch(fileUrl, { method: "HEAD" });
-    if (!res.ok) {
-      setBusy(false);
-      alert("No file available");
-      return;
-    }
-  } catch (_) {}
-  await downloadDirect(fileUrl, file);
-  setBusy(false);
-};
+    setOpen(false);
+    setBusy(true);
+    try {
+      const res = await fetch(fileUrl, { method: "HEAD" });
+      if (!res.ok) {
+        setNoFile(true);
+        setTimeout(() => setNoFile(false), 2500);
+        setBusy(false);
+        return;
+      }
+    } catch (_) {}
+    await downloadDirect(fileUrl, file);
+    setBusy(false);
+  };
 
   const handleShare = async () => {
     const fullUrl = `${window.location.origin}${fileUrl}`;
     if (navigator.share) {
       try {
-        await navigator.share({ title: file, text: `${label}: ${file}`, url: fullUrl });
+        await navigator.share({
+          title: file,
+          text: `${label}: ${file}`,
+          url: fullUrl,
+        });
         setOpen(false);
         return;
-      } catch (_) { /* cancelled */ }
+      } catch (_) {
+        /* cancelled */
+      }
     }
     setShare(true);
   };
 
-  const cls = label === "Cover Letter" ? "resume-btn cover-letter-btn" : "resume-btn";
+  const cls =
+    label === "Cover Letter" ? "resume-btn cover-letter-btn" : "resume-btn";
 
   return (
     <div className="file-chip-wrap" ref={ref} style={{ position: "relative" }}>
+      {noFile && (
+        <div
+          style={{
+            position: "absolute",
+            bottom: "calc(100% + 8px)",
+            left: 0,
+            background: "var(--red)",
+            color: "#fff",
+            fontSize: "12px",
+            fontFamily: "var(--font-mono)",
+            padding: "6px 12px",
+            borderRadius: "var(--radius-sm)",
+            whiteSpace: "nowrap",
+            zIndex: 9999,
+          }}
+        >
+          No file available
+        </div>
+      )}
       <button
         className={cls}
-        onClick={() => { setOpen(!open); setShare(false); }}
+        onClick={() => {
+          setOpen(!open);
+          setShare(false);
+        }}
         disabled={busy}
       >
         <FileText size={12} />
@@ -203,7 +269,10 @@ export default function FileChip({ file, label = "Resume", company = "", role = 
             <ShareMenu
               fileUrl={fileUrl}
               filename={file}
-              onClose={() => { setShare(false); setOpen(false); }}
+              onClose={() => {
+                setShare(false);
+                setOpen(false);
+              }}
             />
           )}
         </div>

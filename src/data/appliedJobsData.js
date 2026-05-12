@@ -233,5 +233,64 @@ Warm regards,
 Falguni Dekate`,
   resumeFile: "Prolific_Academic_Product_UX_Professional_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "",
-}
+},
+{
+  id: 11,
+  companyName: "California State University, Fresno",
+  jobTitle: "User Experience Designer",
+  location: "Fresno, CA",
+  workMode: "On-site",
+  workExperience: "",
+  applyLink:
+    "https://csucareers.calstate.edu/en-us/job/557210/user-experience-designer?source=IND",
+  payRange: "$5,787 – $5,902 / month",
+  myNotes: "",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Effective digital transformation happens when technology becomes intuitive, accessible, and genuinely supportive of the people who rely on it every day. Creating user-centered experiences that improve usability across complex systems is what excites me most about the User Experience Designer opportunity at California State University, Fresno.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design enterprise digital experiences across web, mobile, and cross-platform environments. My experience includes conducting user research, usability testing, accessibility evaluations, and workflow analysis while building wireframes, journey maps, scalable design systems, and implementation-ready prototypes using Figma, Framer, HTML, and CSS.
+
+I have collaborated closely with developers, stakeholders, and cross-functional teams to translate technical requirements into intuitive digital experiences optimized for usability, accessibility, and operational efficiency. Through enterprise and research-driven projects, I have developed strong experience in WCAG accessibility standards, information architecture, usability validation, and user-centered design methodologies.
+
+What especially draws me to Fresno State is the opportunity to contribute meaningful digital experiences that positively impact a diverse campus community through thoughtful and accessible design.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "California_User_Experience_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "Cal_Cover _Letter_Falguni Dekate.pdf",
+},
+{
+  id: 12,
+  companyName: "21Tech",
+  jobTitle: "UI/UX Designer",
+  location: "San Francisco, CA",
+  workMode: "On-site",
+  workExperience: "",
+  applyLink:
+    "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=TWENTYONETECH&cws=49&rid=4521&source=Indeed",
+  payRange: "",
+  myNotes: "2-year contract (24 months), airport systems (TIP program), requires strong enterprise UX, design systems, dashboards, and stakeholder-heavy work.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Modern operational systems succeed when complex workflows become intuitive, responsive, and reliable for the people who depend on them in real time. Designing those high-impact user experiences across enterprise platforms is what excites me most about the UI/UX Designer opportunity at 21Tech.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design enterprise digital experiences, operational dashboards, and scalable UI systems across web and mobile platforms. My experience includes conducting stakeholder interviews, usability testing, workflow analysis, accessibility evaluations, and building high-fidelity prototypes, journey maps, and implementation-ready assets using Figma, Framer, HTML, and CSS.
+
+I have collaborated closely with developers, IT teams, and cross-functional stakeholders to translate operational requirements into usability-focused workflows optimized for performance, accessibility, and consistency. Through dashboard UX and enterprise workflow projects, I have developed strong experience in interaction design, WCAG accessibility standards, usability optimization, design systems, and frontend-aware implementation practices.
+
+What especially draws me to 21Tech is the opportunity to contribute impactful operational experiences supporting large-scale modernization initiatives through thoughtful and scalable UX design.
+
+Warm regards,
+Falguni Dekate`,
+  resumeFile: "21Tech_UI_UX_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+
 ];

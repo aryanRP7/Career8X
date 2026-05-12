@@ -123,13 +123,13 @@ export default function GameSection() {
   const qNumRef   = useRef(0);
 
   const spawnQuestion = useCallback(() => {
-    qNumRef.current += 1;
-    setQuestionNum(qNumRef.current);
-    setQuestion(makeQuestion(qNumRef.current));
-    setSelected(null);
-    setLocked(false);
-    lockedRef.current = false;
-  }, []);
+  qNumRef.current += 1;
+  setSelected(null);
+  setLocked(false);
+  lockedRef.current = false;
+  setQuestionNum(qNumRef.current);
+  setQuestion(makeQuestion(qNumRef.current));
+}, []);
 
   const startGame = (m) => {
     clearInterval(timerRef.current);

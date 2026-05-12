@@ -502,7 +502,7 @@ export default function AppliedSection({
       if (j.location) row["Location"] = j.location;
       if (j.payRange) row["Pay Range"] = j.payRange;
       if (j.applyLink) row["Apply Link"] = j.applyLink;
-      if (j.resumeFile) row["Resume File"] = j.resumeFile;
+      if (j.resumeFile)  row["Resume File"] = `${window.location.origin}${process.env.PUBLIC_URL || ""}/myfiles/resumes/${j.resumeFile}`;
       if (j.myNotes) row["My Notes"] = j.myNotes;
       if (j.coverLetterText) row["Cover Letter"] = j.coverLetterText;
       return row;
