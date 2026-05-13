@@ -360,13 +360,13 @@ export default function GameSection() {
               )}
             </div>
 
-            <div className="game-options">
-              {question.options.map((o, i) => (
-                <button key={i} className={optClass(o)} onClick={() => handleAnswer(o)} disabled={locked}>
-                  {o}
-                </button>
-              ))}
-            </div>
+            <div className="game-options" key={questionNum}>
+  {question.options.map((o, i) => (
+    <button key={i} className={optClass(o)} onClick={() => handleAnswer(o)} disabled={locked}>
+      {o}
+    </button>
+  ))}
+</div>
             <button className="game-end-btn" onClick={() => {
   clearInterval(timerRef.current);
   clearInterval(qTimerRef.current);

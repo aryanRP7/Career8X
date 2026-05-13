@@ -116,7 +116,9 @@ export default function NotesSection({ notes, searchQuery }) {
           <h2 className="section-title">Resources</h2>
           <p className="section-subtitle">Interview notes, prep material &amp; helpful links</p>
         </div>
-        <ExportButton label={`Resources – ${currentCat?.category || ""}`} csvData={buildExport()} />
+        <div className="notes-export">
+          <ExportButton label={`Resources – ${currentCat?.category || ""}`} csvData={buildExport()} />
+        </div>
       </div>
 
       {/* Category tabs */}

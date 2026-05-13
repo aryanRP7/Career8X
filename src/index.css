@@ -1350,3 +1350,8 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   transition: color var(--transition);
 }
 .game-end-btn:hover { color: var(--red); }
+
+.notes-export .export-dropdown {
+  right: auto;
+  left: 0;
+}

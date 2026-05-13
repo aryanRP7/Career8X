@@ -33,7 +33,7 @@ export function exportToPDF(data, title = "Career8X Export") {
     `<tr>${cols.map((c) => {
       const val = row[c] ?? "";
       const str = String(val);
-      const isLink  = c.toLowerCase().includes("link") || c.toLowerCase().includes("url");
+      const isLink  = c.toLowerCase().includes("link") || c.toLowerCase().includes("url") || c.toLowerCase().includes("resume") || c.toLowerCase().includes("cover");
       const isNotes = c.toLowerCase().includes("notes");
       const cell    = isLink && str ? `<a href="${str}">${str}</a>` : str;
       return `<td${isNotes ? ' class="notes"' : ""}>${cell}</td>`;
@@ -83,7 +83,7 @@ export function exportToDoc(data, title = "Career8X Export") {
     return `<tr>${cols.map((c) => {
       const val  = row[c] ?? "";
       const str  = String(val);
-      const isLink  = c.toLowerCase().includes("link") || c.toLowerCase().includes("url");
+      const isLink  = c.toLowerCase().includes("link") || c.toLowerCase().includes("url") || c.toLowerCase().includes("resume") || c.toLowerCase().includes("cover");
       const isNotes = c.toLowerCase().includes("notes");
       const color   = isNotes ? "color:#6254e8;font-style:italic;" : "color:#18181e;";
       const cell    = isLink && str
