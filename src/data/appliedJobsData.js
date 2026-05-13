@@ -292,5 +292,87 @@ Falguni Dekate`,
   resumeFile: "21Tech_UI_UX_Designer_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "",
 },
+{
+  id: 13,
+  companyName: "Houzz",
+  jobTitle: "Product Designer",
+  location: "Illinois",
+  workMode: "Remote",
+  workExperience: "",
+  applyLink:
+    "https://jobs.lever.co/houzz/702642d5-7370-4c56-9b2a-e0409d3dd004?lever-source=Indeed&lever-source=Indeed",
+  payRange: "",
+  myNotes: "Cross-platform product design role focused on growth, data-driven design, collaboration, and design systems. Strong emphasis on shipping products and working with product, engineering, and analytics teams.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Warm regards,
+John Doe`,
+  resumeFile: "Houzz_Product_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+{
+  id: 14,
+  companyName: "Sleeper",
+  jobTitle: "Product Designer (Mid-Level)",
+  location: "Seattle, WA",
+  workMode: "Hybrid",
+  workExperience: "1–3+ years",
+  applyLink:
+    "https://jobs.ashbyhq.com/sleeper/4ddc246a-aaaa-4cb2-a8c9-54bb24c34021?utm_source=wRqqJ7WyV0",
+  payRange: "$90,000 – $125,000 / year",
+  myNotes: "Contract-to-hire role. Strong focus on cross-platform product design (iOS, Android, Web), design systems, and collaboration. Social/sports product with emphasis on innovation and ownership.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Warm regards,
+John Doe`,
+  resumeFile: "Sleeper_Product_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+{
+  id: 15,
+  companyName: "Hume AI",
+  jobTitle: "Product Designer",
+  location: "San Jose, CA",
+  workMode: "Remote",
+  workExperience: "2+ years",
+  applyLink:
+    "https://job-boards.greenhouse.io/humeai/jobs/4004597008",
+  payRange: "$120,000 – $170,000 / year",
+  myNotes: `Why Hume?
+What excites me most about Hume AI is the opportunity to design interfaces for a future where AI feels genuinely human, emotionally aware, and useful in everyday life. Hume’s focus on empathic AI and real-time conversational experiences strongly aligns with the type of work I want to build long term as a product designer.
+
+My background has increasingly centered around AI-native UX, conversational workflows, real-time interaction systems, and trust-centered product experiences across web and mobile platforms. I’m especially drawn to the challenge of translating complex AI behavior, latency, and dynamic interactions into intuitive experiences that feel natural and emotionally engaging for users.
+
+I’m also excited by Hume’s interdisciplinary culture and close collaboration between designers, AI researchers, and engineers. The company’s emphasis on human well-being, emotional intelligence, and thoughtful AI design makes the mission feel deeply meaningful beyond just building another AI product.
+
+Hume is one of the few companies pushing the boundaries of conversational AI while still prioritizing human-centered design, empathy, and product craft, which is exactly the environment where I believe I can contribute and grow the most.
+
+---
+
+Describe a fulfilling design project you've worked on
+One of the most fulfilling projects I worked on was designing AI-native conversational workflows during my time at CX by Design. I helped design cross-platform interaction experiences for conversational assistants that needed to feel intuitive, trustworthy, and responsive despite complex backend AI behavior.
+
+A major challenge was designing around uncertainty in AI outputs, latency, and dynamic responses while still creating a smooth user experience. I mapped end-to-end interaction flows, designed fallback and recovery states, prototyped real-time conversational behaviors in Figma and Framer, and collaborated closely with engineers to simulate realistic AI responses and streaming interactions.
+
+What made the project especially rewarding was balancing technical complexity with human-centered design. Instead of focusing only on functionality, I worked on making interactions feel emotionally clear, conversational, and easy to trust. Through usability testing and iterative refinements, we improved interaction clarity, reduced confusion during response delays, and created more intuitive conversational experiences.
+
+I found the project fulfilling because it combined several areas I care deeply about: AI-native UX, interaction design, real-time systems, and designing technology that feels genuinely useful and human-centered. It reinforced my interest in shaping the future of conversational AI interfaces and designing experiences that make advanced technology feel approachable and engaging.`,
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Warm regards,
+John Doe`,
+  resumeFile: "Hume_Product_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+
 
 ];
