@@ -373,6 +373,76 @@ John Doe`,
   resumeFile: "Hume_Product_Designer_Falguni Dekate_ Resume.pdf",
   coverLetterFile: "",
 },
+{
+  id: 16,
+  companyName: "Medtronic",
+  jobTitle: "Software Engineer II - UI/UX (Qt/QML)",
+  location: "Newton, Massachusetts, United States / Mounds View, Minnesota, United States",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  applyLink:
+    "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Newton-Massachusetts-United-States-of-America/Software-Engineer-II---UI-UX--Qt-QML-_R65926-1?src=JB-10288",
+  payRange: "$96,000 – $144,000 / year",
+  myNotes: "Application deadline: May 19, 2026. Requires Qt/QML, Python, C++, Linux experience. Focus on medical UI systems (Affera Prism Mapping System) used in real-time clinical environments. Strong emphasis on implementing UX designs into production code.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
 
+Dear Hiring Team,
 
+Designing responsive interfaces for complex, high-stakes systems requires more than visual design; it demands clarity, scalability, and seamless collaboration between UX and engineering. That intersection is where I bring the strongest value.
+
+With 2+ years of experience designing and implementing cross-platform application interfaces, I have built scalable UI systems, implementation-ready workflows, and real-time interaction experiences across enterprise and technical environments. My experience includes translating Figma designs into responsive frontend-ready interfaces, producing annotated handoffs, supporting integration workflows, and collaborating closely with engineers on usability, workflow optimization, and implementation feasibility.
+
+I am particularly excited about Medtronic’s mission to engineer life-changing healthcare technology and the opportunity to contribute to interfaces that support clinicians in real-time, high-pressure environments. The combination of UI systems, technical collaboration, and real-world impact strongly aligns with the type of work I want to build long term.
+
+I would welcome the opportunity to contribute my UI/UX engineering and product design experience to Medtronic’s Prism Mapping System team.
+
+Warm regards,
+Falguni Dekate`,
+  resumeFile: "Medtronic_Software_Engineer_UI_UX_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "Medtronic_Cover _Letter_Falguni Dekate.pdf",
+},
+{
+  id: 17,
+  companyName: "Morgan Stanley",
+  jobTitle: "Associate, UX Designer – Equity Zen",
+  location: "New York Plaza, NY",
+  workMode: "On-site",
+  workExperience: "1–3 years",
+  applyLink:
+    "https://morganstanley.eightfold.ai/careers/job?domain=morganstanley.com&pid=549797369091&src=JB-10147",
+  payRange: "$58,000 – $115,000 / year",
+  myNotes: "Fintech / WealthTech role within EquityZen platform. Focus on UX/UI execution, collaboration with product & tech teams, user research, and agile workflows. Strong emphasis on portfolio and design lifecycle experience.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Warm regards,
+John Doe`,
+  resumeFile: "Morgan_UX_Designer_Equity_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "Morgan_Equity_Cover _Letter_Falguni Dekate.pdf",
+},
+
+{
+  id: 18,
+  companyName: "Morgan Stanley",
+  jobTitle: "Associate UX Designer – Client Platform",
+  location: "Purchase, New York",
+  workMode: "On-site (4 days/week)",
+  workExperience: "2–5 years",
+  applyLink:
+    "https://morganstanley.eightfold.ai/careers/job?domain=morganstanley.com&pid=549796794272&src=JB-10147",
+  payRange: "$58,000 – $115,000 / year",
+  myNotes: "Wealth Management UX role focused on data-rich financial dashboards, portfolio visualization, and analytics tools. Strong emphasis on design systems, complex workflows, and translating business rules into intuitive UX. Requires collaboration with research, product, and engineering teams. Accessibility (WCAG), responsive design, and component-based design thinking are key.",
+  coverLetterText: `COVER LETTER
+Date: 05/12/2026
+
+Dear Hiring Team,
+
+Warm regards,
+John Doe`,
+  resumeFile: "Morgan_UX_Designer_Client_Falguni_Dekate_ Resume.pdf",
+  coverLetterFile: "Morgan_Client_Cover _Letter_Falguni Dekate.pdf",
+},
 ];
