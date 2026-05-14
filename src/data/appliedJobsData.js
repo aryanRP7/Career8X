@@ -445,4 +445,80 @@ John Doe`,
   resumeFile: "Morgan_UX_Designer_Client_Falguni_Dekate_ Resume.pdf",
   coverLetterFile: "Morgan_Client_Cover _Letter_Falguni Dekate.pdf",
 },
+
+
+{
+  id: 19,
+  companyName: "WESRAY CAPITAL CORPORATION",
+  jobTitle: "Web Developer and Designer",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  applyLink:
+    "https://www.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=4642e47b130c77fa&tk=1joimq9imgksj800",
+  payRange: "$50 – $75 / hour",
+  myNotes: "Hybrid role combining frontend development and UI/UX design. Strong focus on React, Angular, Django, and full-stack development. Requires experience with APIs, databases, DevOps (Docker, Jenkins, Azure/AWS), and CI/CD pipelines. Emphasis on scalable architecture, performance, SEO, and responsive design. Good fit for full-stack + design profile.",
+  coverLetterText: `Dear Hiring Team,
+
+Building modern digital experiences requires more than clean code or strong visuals alone. It requires creating responsive, scalable, and user-centered web applications that seamlessly combine technical performance with intuitive design. That intersection of frontend development and UX-driven thinking is where I bring the strongest value.
+
+With 2+ years of experience designing and developing responsive digital products, I have built scalable frontend workflows, implementation-ready UI systems, and high-fidelity web experiences across enterprise and product-driven environments. My experience includes translating wireframes into responsive interfaces using HTML, CSS, JavaScript, React, Framer, and modern frontend workflows while collaborating closely with engineers and cross-functional teams to improve usability, accessibility, SEO performance, and implementation quality.
+
+I am particularly excited about the opportunity at WESRAY CAPITAL CORPORATION because of the emphasis on combining innovative web development with high-quality user experiences. The opportunity to contribute across both design and frontend implementation strongly aligns with my technical background and product-focused approach to digital experiences.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "WESRAY_Web_Developer_and_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+{
+  id: 20,
+  companyName: "Judi Health",
+  jobTitle: "UX/UI Designer",
+  location: "New York, NY",
+  workMode: "Remote",
+  workExperience: "3–5 years",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=5ba64b32232f0bc8&from=shareddesktop_copy",
+  payRange: "$75,200 – $119,000 / year",
+  myNotes:
+    "Healthcare tech / enterprise platform role focused on UX/UI execution, usability testing, and design systems. Emphasis on accessibility, responsive design, and collaboration with product and engineering teams. Strong alignment with enterprise workflows, healthcare platforms, and scalable design systems. Desired Salary or Hourly Rate: $40",
+  coverLetterText: `Dear Hiring Team,
+
+Creating healthcare platforms that simplify complex workflows while maintaining usability, accessibility, and trust requires thoughtful UX execution and strong cross-functional collaboration. That combination of enterprise platform thinking and user-centered design is where I bring the strongest value.
+
+With 2+ years of experience designing responsive enterprise interfaces and scalable workflows, I have contributed across the full UX/UI lifecycle including wireframing, prototyping, usability testing, design system development, and developer handoff. My experience includes building accessible interfaces, reusable UI systems, and implementation-ready design solutions while collaborating closely with product managers, engineers, and stakeholders in fast-paced product environments.
+
+I am especially excited about Judi Health’s mission to rebuild trust in healthcare through scalable digital infrastructure and enterprise health platforms. The opportunity to contribute to healthcare workflows that improve usability, operational efficiency, and user experience at scale strongly aligns with my background in enterprise UX and responsive platform design.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Judi_Health_UXUI_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "",
+},
+{
+  id: 21,
+  companyName: "Ankaya",
+  jobTitle: "User Experience Designer",
+  location: "Remote",
+  workMode: "Remote",
+  workExperience: "Internship",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=c0a50f40bb618900&from=shareddesktop_copy",
+  payRange: "$90,877.62 – $109,444.01 / year",
+  myNotes:
+    "UX internship focused on end-to-end product design including user research, wireframing, prototyping, usability testing, A/B testing, and analytics-driven iteration. Strong emphasis on responsive design, accessibility (WCAG), and collaboration with frontend developers using React/Angular. Includes exposure to Agile workflows, SDLC, and data-informed UX decisions.",
+  coverLetterText: `Dear Hiring Team,
+
+Creating intuitive digital experiences requires more than visually polished interfaces. It requires understanding user behavior, simplifying complex workflows, and continuously improving usability through research, iteration, and collaboration. That balance of UX strategy and execution is where I bring the strongest value.
+
+With 2+ years of experience designing responsive web and mobile experiences, I have contributed across the full UX lifecycle including user research, wireframing, prototyping, usability testing, design systems, and developer handoff. My experience includes collaborating closely with front-end developers, engineers, and product teams to deliver scalable interfaces, responsive workflows, and implementation-ready solutions optimized for accessibility and engagement.
+
+I am especially excited about Ankaya’s focus on building user-centered digital experiences within fast-paced product environments. The opportunity to contribute through research-driven design thinking, responsive interface design, and cross-functional collaboration strongly aligns with both my technical background and product-focused UX approach.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Ankaya_User_Experience_Designer_Falguni Dekate_ Resume.pdf"
+},
+
 ];
