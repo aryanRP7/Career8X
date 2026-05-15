@@ -420,7 +420,7 @@ Dear Hiring Team,
 
 Warm regards,
 John Doe`,
-  resumeFile: "Morgan_UX_Designer_Equity_Falguni Dekate_ Resume.pdf",
+  resumeFile: "Morgan_UX_Designer_Equity_Falguni Dekate_ Resume (1).pdf",
   coverLetterFile: "Morgan_Equity_Cover _Letter_Falguni Dekate.pdf",
 },
 
@@ -442,8 +442,8 @@ Dear Hiring Team,
 
 Warm regards,
 John Doe`,
-  resumeFile: "Morgan_UX_Designer_Client_Falguni_Dekate_ Resume.pdf",
-  coverLetterFile: "Morgan_Client_Cover _Letter_Falguni Dekate.pdf",
+  resumeFile: "Morgan_UX_Designer_Client_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "Morgan_Client_Cover_Letter_Falguni Dekate.pdff",
 },
 
 
@@ -519,6 +519,103 @@ I am especially excited about Ankaya’s focus on building user-centered digital
 Warm regards,  
 Falguni Dekate`,
   resumeFile: "Ankaya_User_Experience_Designer_Falguni Dekate_ Resume.pdf"
+},
+{
+  id: 22,
+  companyName: "Gravity Well",
+  jobTitle: "UI/UX Artist",
+  location: "Remote (North America preferred)",
+  workMode: "Remote",
+  workExperience: "Mid–Senior (Game industry experience required)",
+  applyLink:
+    "https://job-boards.greenhouse.io/gravitywell/jobs/5138170007",
+  payRange: "$110,000 – $135,000 / year",
+  myNotes:
+    "Game UX/UI role focused on player experience, visual design, and interactive UI systems. Strong emphasis on typography, animation, composition, and in-game UI flows. Requires prior game industry experience and portfolio with shipped or production-ready work. Tools include Figma, Adobe Suite, After Effects, and Unreal Engine (UMG). Collaboration with designers, engineers, and artists is key.",
+  coverLetterText: `Dear Hiring Team,
+
+Designing game interfaces requires more than visual polish—it requires creating intuitive, immersive experiences that guide players seamlessly through gameplay while enhancing engagement and clarity. That balance between visual storytelling and user-centered interaction design is where I bring the strongest value.
+
+With 2+ years of experience designing responsive interfaces and scalable UI systems, I have developed strong skills in visual hierarchy, interaction design, and user flow optimization. My work focuses on creating intuitive experiences through structured information design, high-fidelity interfaces, and implementation-ready assets while collaborating closely with cross-functional teams.
+
+I am particularly excited about Gravity Well’s focus on delivering exceptional player experiences through thoughtful UI/UX design. The opportunity to contribute to game interfaces, interaction flows, and immersive visual systems strongly aligns with my passion for crafting engaging digital experiences and my growing interest in game UX.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "Gravity_well_UX_Artist_Falguni Dekate_ Resume.pdf"
+},
+{
+  id: 23,
+  companyName: "FocusPointSAP",
+  jobTitle: "UI/UX Designer/Developer",
+  location: "United States",
+  workMode: "Remote",
+  workExperience: "4+ years",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=0eb0cb3493dd5570&from=shareddesktop_copy",
+  payRange: "$50 – $55 / hour",
+  myNotes:
+    "Strong hybrid UX + frontend role focused on real production implementation. Emphasis on building B2B/B2C customer portals, data-dense interfaces, and complex workflows. Requires hands-on HTML, CSS, JavaScript, jQuery, and API integration experience. Focus on SaaS platforms, scalability, design systems, and ownership from concept to release. High alignment with frontend-heavy UX profiles.",
+  coverLetterText: `Dear Hiring Team,
+
+Building customer portals that reduce friction, simplify complex workflows, and scale across B2B and B2C experiences requires more than strong UX design. It requires someone who can bridge design and frontend implementation to deliver production-ready interfaces that work in real environments.
+
+With 2+ years of experience designing and implementing responsive web applications, I have contributed across the full product workflow including wireframing, frontend implementation collaboration, usability testing, scalable UI systems, and developer handoff. My experience includes designing data-dense interfaces, responsive workflows, and customer-facing portal experiences using Figma, HTML, CSS, JavaScript, and frontend-focused UX practices.
+
+I am especially excited about FocusPointSAP’s emphasis on real implementation ownership and production impact. The opportunity to contribute to scalable SaaS platforms, customer portal workflows, and implementation-focused UX solutions aligns strongly with my background in frontend-aware product design and enterprise workflow optimization.
+
+Warm regards,  
+Falguni Dekate`,
+  resumeFile: "FocusPointSAP_UIUX_Designer_Developer_Falguni Dekate_ Resume.pdf"
+},
+{
+  id: 24,
+  companyName: "ServiceLink",
+  jobTitle: "Design Engineer",
+  location: "Moon Township, PA, USA",
+  workMode: "Remote",
+  workExperience: "2+ years",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=f33cddff2c494197&from=shareddesktop_copy",
+  payRange: "$100,000 – $130,000 / year",
+  myNotes:
+    "Desired Salary or Hourly Rate: $40 | How many years of technical design experience: 2 | Tech packs experience: 2 | Fashion design experience: 2 | Adobe Illustrator/CAD/PLM experience: 2 | Authorized to work in the United States: Yes",
+  resumeFile: "ServiceLink_Design_Engineer_Falguni Dekate_ Resume.pdf",
+  coverLetterText: `Dear Hiring Team,
+
+Building trustworthy AI experiences requires more than intelligent systems. It requires interfaces that make complex workflows intuitive, transparent, and reliable for real users. That intersection of AI product design and implementation is where I bring the strongest value.
+
+With 2+ years of experience designing AI-native enterprise experiences, I have contributed across human-in-the-loop workflows, scalable UI systems, rapid prototyping, and implementation-focused product design. My experience includes translating ambiguous technical constraints such as latency, retrieval behavior, and dynamic system states into responsive, user-centered interfaces using Figma, Framer, HTML/CSS workflows, and AI-assisted development tools including Claude and Cursor.
+
+I am especially excited about ServiceLink’s focus on AI-ready design systems and scalable enterprise workflows. The opportunity to collaborate closely with product, engineering, and operations teams to shape intuitive AI-powered interfaces strongly aligns with my background in design engineering, reusable component systems, and AI-centered UX strategy.
+
+Warm regards,  
+Falguni Dekate`
+},
+{
+  id: 25,
+  companyName: "Unrivaled Sports",
+  jobTitle: "Contract Graphic Designer",
+  location: "Remote",
+  workMode: "Remote",
+  workType: "Full-time / Contract (40 hrs/week)",
+  payRange: "$10,000 / month",
+  contractLength: "3 months (renewable)",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=9d5463a848bd5009&from=shareddesktop_copy",
+  myNotes:
+    "Desired Compensation Rate: $40 | Sports-focused visual design role centered on social-first creative, motion graphics, branding systems, and campaign storytelling. Strong emphasis on sports culture, fast-paced content production, and multi-brand visual identity execution. Requires Adobe Creative Suite, Figma, Canva, and motion design capability. Ideal for designers who can translate sports narratives into engaging digital and social experiences.",
+  resumeFile: "Unrivaled_Sports_Graphic_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterText: `Dear Hiring Team,
+
+Great sports brands create more than content. They create energy, identity, and emotional connection that fans instantly recognize across every touchpoint. That ability to combine storytelling, motion, and visually engaging design is where I bring the strongest value.
+
+With 2+ years of experience creating social-first creative, branded campaign assets, motion-enhanced graphics, and scalable visual systems, I have contributed across digital storytelling, event branding, motion graphics, and high-impact campaign execution. My background includes designing responsive social assets, animated graphics, reusable design toolkits, and branded experiences using Adobe Creative Suite, Figma, Canva, Framer, and After Effects.
+
+I am especially excited about Unrivaled Sports’ focus on community-driven sports culture and visually dynamic fan experiences. The opportunity to contribute across social content, tournament branding, motion graphics, and fast-paced multi-brand creative campaigns strongly aligns with both my visual design background and passion for engaging digital storytelling.
+
+Warm regards,  
+Falguni Dekate`
 },
 
 ];
