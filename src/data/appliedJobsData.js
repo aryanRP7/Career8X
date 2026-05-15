@@ -617,5 +617,32 @@ I am especially excited about Unrivaled Sports’ focus on community-driven spor
 Warm regards,  
 Falguni Dekate`
 },
+{
+  id: 27,
+  companyName: "Go Fish Digital",
+  jobTitle: "Associate Designer",
+  location: "Remote",
+  workMode: "Remote",
+  workType: "Full-time",
+  payRange: "Not specified",
+  contractLength: "N/A",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=6e5d19352b26a796&from=shareddesktop_copy",
 
+  myNotes:
+    "Desired Compensation Range: $81,000 - $100,000 | Digital-first associate designer role focused on multi-channel creative execution across social, web, email, print, and campaign assets. Strong emphasis on brand systems, performance-driven creative, and cross-functional collaboration with strategy, marketing, and design teams. Ideal for designers who can translate concepts into polished, production-ready visuals while maintaining consistency across brand systems and supporting scalable creative workflows.",
+
+  resumeFile: "Go_Fish_Associate_Designer_Falguni Dekate_ Resume.pdf",
+
+  coverLetterText: `Dear Hiring Team,
+
+Strong brands are built when strategy, storytelling, and design work together to create experiences people remember. That ability to turn ideas into polished, performance-driven creative across every channel is where I bring the strongest value.
+
+With 2+ years of experience designing digital campaigns, branded marketing assets, responsive web visuals, and motion-enhanced creative, I have contributed across social media, email, web, print, and cross-channel campaign execution. My background includes building scalable brand systems, creating production-ready creative assets, and collaborating closely with strategists, marketers, copywriters, and designers to deliver measurable campaign outcomes using Adobe Creative Suite, Figma, Framer, and motion design workflows.
+
+I am especially excited about Go Fish Digital’s collaborative and strategy-driven creative culture. The opportunity to contribute to high-impact campaigns, evolve brand systems, and create thoughtful design that performs across multiple touchpoints strongly aligns with both my creative approach and passion for meaningful visual storytelling.
+
+Warm regards,  
+Falguni Dekate`
+}
 ];
