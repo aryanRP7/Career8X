@@ -122,11 +122,11 @@ export default function GameSection() {
   const lockedRef = useRef(false);
   const qNumRef   = useRef(0);
 
-  const spawnQuestion = useCallback(() => {
-  qNumRef.current += 1;
+ const spawnQuestion = useCallback(() => {
   setSelected(null);
   setLocked(false);
   lockedRef.current = false;
+  qNumRef.current += 1;
   setQuestionNum(qNumRef.current);
   setQuestion(makeQuestion(qNumRef.current));
 }, []);
@@ -360,9 +360,9 @@ export default function GameSection() {
               )}
             </div>
 
-            <div className="game-options" key={questionNum}>
+            <div className="game-options">
   {question.options.map((o, i) => (
-    <button key={i} className={optClass(o)} onClick={() => handleAnswer(o)} disabled={locked}>
+    <button key={`${questionNum}-${i}`} className={optClass(o)} onClick={() => handleAnswer(o)} disabled={locked}>
       {o}
     </button>
   ))}
