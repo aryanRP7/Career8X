@@ -725,5 +725,101 @@ Falguni Dekate`
 
   coverLetterFile: "WGACA_Cover_Letter_Falguni Dekate.pdf"
 },
+{
+  id: 32,
+  companyName: "2×4",
+  jobTitle: "Designer (Branding Team)",
+  location: "New York, NY, USA",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$70,000 - $80,000 / yr",
+  applyLink: "https://2x4.org/about/jobs/designer/",
+  myNotes: `
+Email Application:
+Email To: jobinquiries@2x4.org
+Attach Resume and CV file
 
+
+''''''''
+Subject: Designer / Branding – Falguni Dekate
+
+
+Dear Hiring Team,
+I hope you are doing well. Please find attached my CV, portfolio, and letter of interest for the Designer / Branding position at 2x4.
+I am a UI/UX and digital designer with experience creating responsive digital experiences, branding systems, and visual design solutions across web and product environments. I am excited about the opportunity to contribute to your team and would welcome the chance to discuss my background further.
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Best regards,
+Falguni Dekate
+Portfolio: https://falgunidekate.framer.website/
+''''''''
+  
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Full-time branding designer role — motion graphics, conceptual design, studio-based branding work.
+
+Key Requirements:
+- Collaborate with Creative Director and Design Director across client projects
+- End-to-end execution: strategy, design, production, delivery
+- Adobe After Effects: min 24 months experience required
+- Graphic design for high-profile arts/cultural institutions: min 24 months
+- Strong presentation, communication, and client collaboration skills
+- Portfolio + CV + letter of interest required
+- Desired Rate: $40/hr
+
+`,
+  resumeFile: "2x4_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: "2x4_Cover_Letter_Falguni Dekate.pdf",
+},
+
+{
+  id: 34,
+  companyName: "Intrepid Museum",
+  jobTitle: "Junior Digital Web Designer",
+  location: "New York, NY, USA",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "$80,000 / yr",
+  applyLink: "https://www.indeed.com/viewjob?jk=d365680a57488497&from=shareddesktop_copy",
+  myNotes: `
+Desired Annual Pay: $80,000
+
+Do you want to tell us anything else about yourself?
+I am deeply passionate about creating digital experiences that balance usability, storytelling, and visual clarity. Beyond design execution, I enjoy understanding how people interact with technology and translating complex ideas into intuitive experiences that feel accessible and engaging. I thrive in collaborative, fast-paced environments where design, strategy, and technology intersect, and I am always eager to learn new tools, workflows, and emerging design trends. I also value thoughtful feedback, continuous improvement, and contributing positively to team culture while delivering polished, high-quality work.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Junior web design role focused on website maintenance, front-end development, and digital marketing support.
+
+Key Responsibilities:
+- Build, update, and maintain website pages using Drupal 10
+- Support email marketing campaigns and digital initiatives
+- Maintain visual consistency and UX across site (brand guidelines)
+- Implement SEO best practices
+- Manage Google Analytics and performance reporting
+- Ensure accessibility, code quality, and cross-browser compatibility
+- Troubleshoot site issues and maintenance problems
+- Stay updated with emerging web technologies and trends
+
+Key Requirements:
+- 3+ years experience in web design and development
+- Strong experience with Drupal (required), HTML5, CSS, JavaScript/jQuery
+- Experience with Adobe Creative Suite for graphic design
+- Knowledge of CMS management and backend updates
+- Understanding of SEO and analytics tools
+- Strong troubleshooting, analytical, and communication skills
+- Ability to manage multiple projects and deadlines
+- Team-oriented with strong collaboration skills
+
+Preferred:
+- Experience in museum/cultural institutions
+- Strong storytelling and visual design thinking
+`,
+  resumeFile: "Intrepid_Museum_Junior_Digital_Web_Designer_Falguni Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];

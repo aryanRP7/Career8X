@@ -14,9 +14,9 @@ export default function MyNotes({ text }) {
   return (
     <div className="card-my-notes">
       <span className="card-my-notes-label">My Notes</span>
-      <span className={`card-my-notes-text${expanded ? " expanded" : ""}`}>
+      <pre className={`card-my-notes-text${expanded ? " expanded" : ""}`} style={{ whiteSpace: "pre-wrap", fontFamily: "inherit", fontStyle: "inherit" }}>
         {text}
-      </span>
+      </pre>
       {needsToggle && (
         <button
           className="card-my-notes-toggle"
