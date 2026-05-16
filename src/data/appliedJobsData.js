@@ -644,5 +644,86 @@ I am especially excited about Go Fish Digital’s collaborative and strategy-dri
 
 Warm regards,  
 Falguni Dekate`
-}
+},
+{
+  id: 28,
+  companyName: "Conde Nast",
+  jobTitle: "Web Producer, GQ",
+  location: "New York, NY, USA",
+  workMode: "On-site",
+  workType: "Full-time",
+  payRange: "$72,000 - $76,000 / year",
+  contractLength: "N/A",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=793412d657a27180&from=shareddesktop_copy",
+
+  myNotes:
+    "Desired Compensation Range: $81,000 - $100,000 | Editorial web production role focused on CMS management, digital content publishing, and site maintenance. Strong emphasis on building and formatting articles, managing digital assets, SEO updates, and ensuring content readiness for publication. Requires knowledge of HTML, XML, Adobe Photoshop, CMS workflows, and collaboration with editorial, product, and content strategy teams. Ideal for candidates interested in media, publishing, and design-driven digital content production.",
+
+  resumeFile: "Conde_Nest_Web_Producer_Falguni Dekate_ Resume.pdf",
+
+  coverLetterFile: "Conde_nest_Cover_Letter_Falguni Dekate.pdf"
+},
+{
+  id: 29,
+  companyName: "DailyPay",
+  jobTitle: "Product Designer",
+  location: "New York, NY, USA",
+  workMode: "Hybrid",
+  workType: "Full-time",
+  payRange: "$115,000 - $150,000 / year",
+  contractLength: "N/A",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=567e5be5a2580fe0&from=shareddesktop_copy",
+
+  myNotes:
+    "Desired Compensation Rate: $40/hour | Base Salary Expectation: $75,000 - $100,000 | Strong product design role focused on B2B platform experiences and fintech solutions. Requires 3+ years of UX/Product Design experience with emphasis on research, data-driven design, and cross-functional collaboration. Key skills include Figma, Sketch, prototyping, responsive design, and accessibility. Involves working closely with product managers and engineers to shape product strategy and user experience. Ideal for designers looking to grow impact across multiple product areas in a fast-paced, high-trust environment.",
+
+  resumeFile: "DailyPay_Product_Designer_Falguni Dekate_ Resume.pdf",
+
+},
+{
+  id: 30,
+  companyName: "Mobility Ideal Health",
+  jobTitle: "Digital Designer 1",
+  location: "Edison, NJ, USA",
+  workMode: "On-site",
+  workType: "Full-time",
+  payRange: "Not specified",
+  contractLength: "N/A",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=98cbbe29e2d25069&from=shareddesktop_copy",
+
+  myNotes:
+    "Desired Compensation Rate: $40/hour | Base Salary Expectation: $75,000 - $100,000 | Entry-level digital design role (0–2 years) focused on creating social media graphics, website banners, email templates, and ads. Requires strong skills in Adobe Creative Suite (Photoshop, Illustrator, XD), with knowledge of Figma and basic HTML/CSS as a plus. Emphasis on brand consistency, collaboration with marketing and development teams, and ability to manage multiple projects under deadlines. Bonus skills include motion graphics, video editing, UI/UX design, and CMS tools like WordPress or Squarespace. Ideal for early-career designers building a strong digital and visual design foundation.",
+
+  resumeFile: "Mobility_IdealHealth_Digital_Designer_Falguni Dekate_ Resume.pdf",
+
+  coverLetterFile: ""
+},
+{
+  id: 31,
+  companyName: "WGACA LLC",
+  jobTitle: "Senior Digital Designer",
+  location: "Jersey City, NJ, USA",
+  workMode: "On-site",
+  workType: "Full-time",
+  payRange: "From $95,000 / year",
+  contractLength: "N/A",
+  applyLink:
+    "https://www.indeed.com/viewjob?jk=39231acc3b5ae2aa&from=shareddesktop_copy",
+
+  myNotes:
+    "Desired Compensation Rate: $40/hour | Desired Salary: $85,000/year | No security question selected | Senior-level digital design role focused on luxury eCommerce and conversion-driven UX/UI design. Emphasis on end-to-end customer journey design including homepage, PDP, collection pages, cart, and checkout flows. Requires strong expertise in Figma, Adobe Creative Suite (Photoshop, Illustrator, InDesign), responsive design, typography, motion graphics, and design systems. Strong focus on A/B testing, performance optimization, and cross-functional collaboration with marketing and development teams. Ideal for designers experienced in luxury branding, eCommerce UX, and revenue-focused digital experiences.",
+
+  resumeSummary:
+    "Senior Digital / Product Designer with 2+ years of experience creating luxury-focused, conversion-driven digital experiences across eCommerce, fashion, lifestyle, and tech domains. Skilled in designing end-to-end customer journeys including homepage, PDP, collection pages, cart, and checkout flows with a strong focus on usability, engagement, and revenue impact. Experienced in translating creative direction into high-quality digital assets such as email campaigns, paid social ads, landing pages, and brand marketing collateral while maintaining a refined luxury aesthetic. Strong expertise in Figma, Adobe Creative Suite (Photoshop, Illustrator, InDesign, After Effects), responsive UX/UI design, motion graphics, typography, and design systems. Proven ability to collaborate with cross-functional teams including creative directors, marketers, and developers, using A/B testing and performance insights to continuously improve conversion and user experience. Passionate about balancing visual storytelling with business goals to deliver polished, scalable, and performance-oriented digital design solutions.",
+
+  citizenship: "Alien with Temporary or Indefinite Work Permit",
+
+  resumeFile: "WGACA_Senior_Digital_Designer_Falguni Dekate_ Resume.pdf",
+
+  coverLetterFile: "WGACA_Cover_Letter_Falguni Dekate.pdf"
+},
+
 ];
