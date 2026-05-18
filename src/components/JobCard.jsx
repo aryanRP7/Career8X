@@ -153,9 +153,9 @@ export default function JobCard({
         </div>
       )}
 
-      {/* File chips — Resume + Cover Letter */}
+{/* File chips — Resume + Cover Letter */}
       {(job.resumeFile || job.coverLetterFile) && (
-        <div style={{ display: "flex", gap: "6px", flexWrap: "wrap" }}>
+        <div className="jobcard-filechips" style={{ display: "flex", gap: "6px", flexWrap: "wrap" }}>
           <FileChip file={job.resumeFile} label="Resume" company={job.companyName} role={job.jobTitle} />
           <FileChip file={job.coverLetterFile} label="Cover Letter" company={job.companyName} role={job.jobTitle} />
         </div>

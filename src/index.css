@@ -1223,6 +1223,12 @@ grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   max-width: calc(100vw - 32px);
   z-index: 9999;
 }
+
+.jobcard-filechips .file-chip-dropdown {
+    left: 0 !important;
+    right: auto;
+    transform: none;
+  }
 }
 
 /* Tablet tweaks */

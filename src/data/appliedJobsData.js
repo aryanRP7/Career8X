@@ -822,4 +822,195 @@ Preferred:
   resumeFile: "Intrepid_Museum_Junior_Digital_Web_Designer_Falguni Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 34,
+  companyName: "MaleMD",
+  jobTitle: "UI/UX Designer — Landing Pages",
+  location: "USA (Remote)",
+  workMode: "Remote",
+  workExperience: "3+ years (D2C required)",
+  payRange: "$90,000 - $115,000 / yr",
+  applyLink: "https://www.indeed.com/viewjob?jk=e0089a6d09919e0a&from=shareddesktop_copy",
+  myNotes: `
+Desired Annual Pay: $90,000 - $115,000
+
+Resume File: MaleMD_UIUX_Designer_Falguni Dekate_Resume.pdf
+
+Custom CV / Email Response:
+Dear Hiring Team,
+
+High-performing landing pages do more than look polished. They drive action, build trust instantly, and turn paid traffic into measurable revenue. Designing conversion-focused digital experiences that balance clarity, persuasion, and mobile-first usability is where I bring the strongest value.
+
+With 2+ years of experience designing responsive landing pages, performance-focused campaigns, and customer acquisition experiences, I have contributed across product pages, advertorial layouts, paid media assets, and conversion-focused digital workflows. My background includes creating scalable Figma systems, developer-ready handoffs, trust-centered UI patterns, and responsive experiences optimized for CTR, CVR, engagement, and customer acquisition. I have also collaborated closely with developers, marketing teams, and creative stakeholders to iterate designs using usability insights and campaign performance feedback.
+
+I am especially excited about MaleMD’s fast-moving, performance-driven approach to D2C growth. The opportunity to design landing pages that directly influence acquisition, conversion, and product expansion strongly aligns with both my design background and passion for measurable digital experiences.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Performance-driven UI/UX role focused on designing high-converting landing pages for paid traffic campaigns.
+
+Key Responsibilities:
+- Design landing pages, product pages, and campaign pages for paid traffic (Meta, Google, email)
+- Redesign homepage and product pages
+- Create email templates (promotional, transactional, abandoned cart)
+- Design ad creatives (static assets)
+- Deliver clean, developer-ready Figma files
+- Iterate designs based on performance metrics (CTR, CVR, scroll data)
+
+Key Requirements:
+- 3+ years experience in D2C landing page design (required)
+- Strong portfolio with real D2C landing pages (not SaaS/app UI)
+- Strong understanding of conversion design (CTA, hierarchy, trust signals)
+- Advanced Figma proficiency
+- Mobile-first design mindset
+- Ability to work with performance data and iterate
+- Self-sufficient and execution-focused
+
+Bonus:
+- Experience in telehealth / men's health / wellness
+- Familiarity with Meta Ads Manager or analytics tools
+- Basic HTML/CSS understanding
+
+Important Notes:
+- Must apply via email (NOT Indeed)
+- Send application to: creative@malemd.com
+- Include responses to 3 D2C-related questions (300 words max each)
+- Portfolio optional but helpful
+`,
+  resumeFile: "MaleMD_UIUX_Designer_Falguni Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 35,
+  companyName: "Storm Brain",
+  jobTitle: "UI/UX Website Designer",
+  location: "USA (Remote)",
+  workMode: "Remote",
+  workExperience: "3-5 years",
+  payRange: "Not specified",
+  applyLink: "https://stormbrain.com/jobs/ui-ux-website-designer/",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+
+Resume File: stormBrainUIUX_Web_Designer_Falguni Dekate_Resume.pdf
+
+Custom CV / Email Response:
+Dear Hiring Team,
+
+Great digital experiences do more than look polished. They solve real business challenges through strategic thinking, clean execution, and user-centered design that creates measurable impact. Designing those scalable, high-performing experiences is where I bring the strongest value.
+
+With 2+ years of experience designing responsive websites, scalable UI systems, and conversion-focused digital experiences, I have contributed across web platforms, interactive experiences, design systems, and developer-ready production workflows. My background includes creating strategic website concepts, responsive layouts, information architecture systems, and polished visual experiences using Figma, Framer, Photoshop, Illustrator, and InDesign. I have also collaborated closely with developers, strategists, and stakeholders to guide projects from concept through implementation while maintaining usability, visual consistency, and production quality.
+
+What especially excites me about Storm Brain is the emphasis on thoughtful strategy, collaboration, and solving client challenges through intentional UX/UI design. The opportunity to contribute across web, branding, and interactive experiences strongly aligns with both my design background and passion for creating meaningful digital solutions.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UI/UX role focused on end-to-end design execution across web, branding, and digital experiences for client projects.
+
+Key Responsibilities:
+- Lead design process from concept to completion
+- Collaborate with developers, strategists, and stakeholders
+- Design websites, branding, and interactive experiences
+- Present design concepts and articulate ideas clearly
+- Translate client requirements into functional design solutions
+- Manage multiple projects and meet deadlines
+- Create user flows, IA, and UX strategies
+- QA designs during development and launch
+- Maintain brand consistency and high design quality
+
+Key Requirements:
+- 3-5 years of agency or digital design experience
+- Strong UX/UI skills with typography focus
+- Expertise in Figma, Photoshop, Illustrator, InDesign, Sketch
+- Understanding of user flows and information architecture
+- Ability to handle multiple projects in fast-paced environment
+- Strong communication and collaboration skills
+- Familiarity with HTML/CSS (plus)
+
+Preferred:
+- Experience building brand systems
+- Strong strategic thinking and problem-solving ability
+- Continuous learning mindset (design trends & tools)
+`,
+  resumeFile: "stormBrainUIUX_Web_Designer_Falguni Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 36,
+  companyName: "Dashing Diva",
+  jobTitle: "Web Designer",
+  location: "Port Washington, NY, USA",
+  workMode: "On-site",
+  workExperience: "3-5 years",
+  payRange: "$80,000 - $100,000 / yr",
+  applyLink: "https://www.indeed.com/viewjob?jk=611271a1263c3865&from=shareddesktop_copy",
+  myNotes: `
+Expected Salary: $85,000
+
+Have you worked on e-commerce websites? (Shopify experience preferred):
+Yes
+
+How many years of work experience do you have in beauty, fashion, or CPG industry?
+1-2 years
+
+Resume File: DashingDiva_Web_Designer_Falguni Dekate_Resume.pdf
+
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Hybrid web design + front-end development role focused on ecommerce storefront design, AI-assisted workflows, and conversion optimization.
+
+Key Responsibilities:
+- Own redesign and evolution of DashingDiva.com
+- Design and build responsive pages using Shopify (Liquid), HTML, CSS, JavaScript
+- Create product detail pages (PDPs) and campaign landing pages
+- Maintain and scale design system across digital touchpoints
+- Use AI tools (Claude, Cursor, Figma AI, etc.) for rapid prototyping and development
+- Build reusable components and templates
+- Conduct A/B testing and optimize conversion performance
+- Analyze GA4, heatmaps, and session data for improvements
+- Ensure Core Web Vitals and mobile-first optimization
+
+Key Requirements:
+- 3-5 years web design + front-end experience
+- Strong portfolio (design + functional builds)
+- Shopify or ecommerce platform experience
+- Experience with AI-assisted design/coding tools
+- Strong Figma skills
+- Mobile-first and responsive design expertise
+- Understanding of UX principles and accessibility
+- Experience with analytics tools (GA4, Hotjar)
+
+Preferred:
+- Beauty / fashion / CPG ecommerce experience
+- AI image generation tools (Midjourney, Firefly, DALL-E)
+- Email/CRM design (Klaviyo)
+- Motion/animation skills
+- Experience with offshore teams
+
+Perks:
+- Health, dental, vision, AD&D insurance
+- 401(k) matching
+- PTO, holidays, Summer Fridays
+- Team events (Beautycon, NYFW)
+`,
+  resumeFile: "DashingDiva_Web_Designer_Falguni Dekate_Resume.pdf",
+  coverLetterFile: ""
+}
 ];
