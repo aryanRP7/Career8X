@@ -1012,5 +1012,674 @@ Perks:
 `,
   resumeFile: "DashingDiva_Web_Designer_Falguni Dekate_Resume.pdf",
   coverLetterFile: ""
-}
+},
+{
+  id: 37,
+  companyName: "Cro Metrics",
+  jobTitle: "UX/UI Designer - Direct Contract",
+  location: "USA (Remote)",
+  workMode: "Remote",
+  workExperience: "2-4 years",
+  payRange: "Not specified (Contract)",
+  applyLink: "https://crometrics.com/careers/?gh_jid=5993622004&gh_src=1uzqqm5j4us",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+
+Resume File: Cro_Metrics_UXUI_designer_Falguni Dekate_Resume.pdf
+Cover Letter File: Cro_Metrics_Cover_Letter_Falguni Dekate.pdf
+
+AI Usage Question Response:
+I use AI tools as accelerators for production speed, ideation, and workflow efficiency while keeping design judgment, UX decisions, and final execution fully human-led. My primary tools include ChatGPT, Claude, Cursor, and Figma AI.
+
+In daily workflows, I use AI for rapid concept exploration, layout variations, UX copy refinement, responsive content structuring, component naming suggestions, and generating early interface directions. I also use AI to speed up repetitive production tasks such as organizing design systems, brainstorming experiment variations for A/B testing, and creating implementation-ready annotations for developer handoff. In Cursor specifically, I use AI to better understand front-end feasibility, responsive behaviors, and HTML/CSS implementation logic.
+
+Where I draw the line is in strategic thinking, UX problem-solving, visual hierarchy, experimentation decisions, accessibility, and final design quality. AI helps me move faster, but it does not replace critical thinking, conversion strategy, brand judgment, or polished execution. Every final deliverable is reviewed, refined, and intentionally crafted by me to ensure it aligns with user needs, business goals, and production standards.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Production-focused UX/UI role centered on high-volume, high-quality design execution for CRO, experimentation, and growth marketing.
+
+Key Responsibilities:
+- Create high-fidelity mockups for A/B tests, landing pages, funnels, emails, and paid media
+- Translate briefs, hypotheses, and creative direction into polished designs
+- Work within design systems and brand guidelines
+- Deliver rapid design iterations for experimentation cycles
+- Prepare clean, developer-ready Figma files
+- Manage multiple projects across clients simultaneously
+- Collaborate with strategists, engineers, and analysts
+- Adapt quickly to different brand styles and requirements
+- Contribute to reusable components and templates
+
+Key Requirements:
+- 2-4 years UX/UI or production design experience
+- Strong Figma skills (auto-layout, components, structured files)
+- Portfolio with web, email, or paid media design
+- Experience with conversion-focused design (CRO, landing pages, testing)
+- Ability to manage high volume work with consistency
+- Strong attention to detail and communication skills
+- Active use of AI tools in workflow (required)
+- Self-directed and reliable
+
+Must Haves:
+- Experience in CRO / experimentation / growth marketing agency
+- Familiarity with A/B testing tools (Optimizely, VWO)
+- Basic HTML/CSS understanding
+- Email design experience (Klaviyo, Braze, etc.)
+- Paid media creative experience
+
+Success Indicators:
+- Consistent delivery of high-quality, test-ready designs
+- Strong collaboration with strategists and developers
+- Ability to handle multiple clients without quality drop
+- Clean, organized design files for seamless handoff
+`,
+  resumeFile: "Cro_Metrics_UXUI_designer_Falguni Dekate_Resume.pdf",
+  coverLetterFile: "Cro_Metrics_Cover_Letter_Falguni Dekate.pdf"
+},
+{
+  id: 38,
+  companyName: "CloudZero",
+  jobTitle: "Product Designer, AI Native UX",
+  location: "Boston, MA",
+  workMode: "Hybrid",
+  workExperience: "1-3 years",
+  payRange: "Not specified",
+  applyLink: "https://jobs.ashbyhq.com/CloudZero/211983fc-eb10-4373-9c63-35088ad302db?utm_source=kBJ3rZvyZK",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+
+Resume File: CloudZero_Product_Designer_Falguni Dekate_Resume.pdf
+
+CloudZero Interest Question:
+I’m excited about CloudZero because the role combines AI-native product design, rapid prototyping, and end-to-end ownership in a fast-moving SaaS environment where design directly influences shipped product outcomes. I’m especially drawn to the opportunity to use AI-assisted workflows, scalable design systems, and collaborative product triads to turn complex data-driven experiences into intuitive and high-impact user experiences.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+End-to-end product design role focused on building AI-native, data-driven SaaS experiences with strong ownership and rapid execution.
+
+Key Responsibilities:
+- Design complete UX flows, wireframes, high-fidelity UI, and prototypes
+- Deliver production-ready Figma designs using components, tokens, and design systems
+- Contribute to and scale design systems for consistency
+- Rapidly iterate based on feedback, data, and user insights
+- Prototype quickly using AI-assisted tools and lightweight front-end builds
+- Translate concepts into working demos for testing and iteration
+- Collaborate closely with product managers and engineers (triad model)
+- Ensure designs are implementation-ready for engineering teams
+
+AI Native Workflow:
+- Use AI tools (ChatGPT, Claude, etc.) for ideation, research, and execution
+- Accelerate workflows while maintaining strong product judgment
+- Apply AI to improve speed, quality, and decision-making
+
+Key Requirements:
+- 1-3 years of product/UX design experience
+- Strong Figma expertise (components, variables, tokens)
+- Experience with design systems and scalable design patterns
+- Solid UX fundamentals (flows, hierarchy, usability, interaction design)
+- Ability to move from problem → concept → execution collaboratively
+- Active use of AI tools in workflow
+
+Prototyping & Technical Skills:
+- Ability to create interactive prototypes or working demos
+- Experience with AI-assisted or low-code prototyping
+- Familiarity with structured data (JSON)
+- Basic front-end knowledge (HTML, CSS, JS/React preferred)
+
+Bonus Skills:
+- SaaS or data product experience
+- Familiarity with Storybook or dev workflows
+- Accessibility best practices knowledge
+
+Success Indicators:
+- Fast delivery of high-quality, production-ready designs
+- Strong collaboration with product and engineering
+- Ability to ship real product impact, not just design artifacts
+- Increasing ownership and measurable impact over time
+`,
+  resumeFile: "CloudZero_Product_Designer_Falguni_Dekate_ Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 39,
+  companyName: "Manifold Labs, Inc.",
+  jobTitle: "UX/UI Designer",
+  location: "Austin, TX",
+  workMode: "On-site",
+  workExperience: "Not explicitly stated",
+  payRange: "$75,000 - $85,000",
+  applyLink: "",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+Desired Salary: $85,000
+
+Resume File: Manifold_Labs_UXUI_Designer_Designer_Equity_Falguni Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+End-to-end UX/UI design role focused on leading product design, building scalable design systems, and creating user-centered AI-driven experiences in a fast-paced startup.
+
+Key Responsibilities:
+- Lead UX/UI design strategy across all products
+- Own full design process from concept to implementation
+- Develop and maintain cohesive design systems and language
+- Collaborate with engineering and leadership teams
+- Use user data and research to inform design decisions
+- Create wireframes, prototypes, and high-fidelity designs
+- Continuously iterate and improve user experience
+- Contribute to new product ideas and innovation
+
+Key Requirements:
+- Strong UX/UI or graphic design experience with portfolio
+- Proficiency in Figma, Sketch, Adobe Creative Suite
+- Strong understanding of UX principles, usability, accessibility
+- Ability to balance creativity with functional design
+- Strong collaboration and communication skills
+- Ability to manage multiple projects in fast-paced environment
+
+Technical / Bonus Skills:
+- Basic HTML/CSS and JavaScript knowledge
+- Experience with React (bonus)
+- Startup environment experience
+- Web3 / blockchain / decentralized systems experience (bonus)
+
+Company Context:
+- AI startup focused on decentralized AI (Bittensor ecosystem)
+- Products include decentralized search and AI deployment platforms
+- Fast-paced, innovation-driven environment
+
+Success Indicators:
+- High-quality, user-centered design execution
+- Strong ownership and leadership in design decisions
+- Ability to deliver scalable and consistent design systems
+- Continuous improvement through testing and iteration
+`,
+  resumeFile: "Manifold_Labs_UXUI_Designer_Falguni_Dekate_ Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 40,
+  companyName: "United Cote Inc.",
+  jobTitle: "Junior Designer – Licensed Product & Merchandising",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "Entry Level / Junior",
+  payRange: "$55,000 - $60,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=daa7657b8f21082d&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+
+Resume File: United_Cote_Junior_Designer_Designer_Equity_Falguni Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Entry-level fashion and merchandising design role focused on licensed products, combining creative design with brand guidelines and product development.
+
+Key Responsibilities:
+- Assist in designing licensed fashion products
+- Create graphics using Adobe Illustrator and Photoshop
+- Support design team throughout creative process
+- Develop visual merchandising materials
+- Contribute to presentations and product concepts
+- Collaborate with cross-functional teams
+- Stay updated on trends, licensing, and product development
+
+Key Requirements:
+- Strong Adobe Illustrator and Photoshop skills
+- Interest in licensed products and brand guidelines
+- Willingness to learn merchandising and product development
+- Strong attention to detail
+- Creative mindset and passion for fashion design
+- Ability to work in team environment
+
+Additional Notes:
+- Requires relocation to New York
+- Strong growth opportunity in fashion + merchandising domain
+
+CV / Cover Letter Content:
+Dear Hiring Team,
+
+Great licensed products succeed when strong branding, visual storytelling, and merchandising strategy come together to create products consumers instantly connect with. That combination of creative design and brand-focused execution is where I bring the most value.
+
+With experience creating branded graphics, merchandising-focused visuals, high-fidelity mockups, and customer-centered design concepts using Adobe Illustrator, Photoshop, Figma, and Framer, I have developed visually compelling solutions aligned with brand identity and consumer preferences. My background includes collaborating with product teams, stakeholders, and cross-functional partners to deliver scalable visual systems, production-ready assets, and trend-focused design solutions in fast-paced creative environments.
+
+I am especially excited about the opportunity to contribute to licensed fashion products while learning and growing within merchandising and product development. My strengths in typography, graphic composition, color theory, visual merchandising, and trend research would allow me to contribute immediately while supporting engaging and on-brand product experiences.
+
+I would welcome the opportunity to further discuss how my creative mindset and design experience can support United Cote’s growing team.
+
+Warm regards,  
+Falguni Dekate
+
+Success Indicators:
+- Strong support to senior designers
+- High-quality branded and licensed product designs
+- Growth in merchandising and product development skills
+- Ability to follow brand guidelines while contributing creatively
+`,
+  resumeFile: "United_Cote_Junior_Designer_Falguni Dekate_ Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 41,
+  companyName: "Metro1 Solutions, LLC",
+  jobTitle: "Junior Packaging Designer",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "1 year required",
+  payRange: "$54,000 - $69,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=ca8b9fca8538fbab&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Junior packaging design role focused on creating visually appealing and functional packaging solutions for cosmetic beauty products.
+
+Key Responsibilities:
+- Design innovative packaging under guidance of art director
+- Collaborate with product development, marketing, and manufacturing teams
+- Create packaging using Adobe Photoshop and Illustrator
+- Conduct design research on trends and consumer preferences
+- Apply design thinking to solve packaging challenges
+- Develop dielines and packaging structures
+- Ensure designs meet both aesthetic and functional requirements
+
+Key Requirements:
+- Minimum 1 year experience with Adobe Photoshop
+- Strong skills in Adobe Illustrator and graphic design
+- Experience with packaging design and dieline creation
+- Understanding of product development and manufacturing processes
+- Knowledge of fabrication and mechanical design principles
+- Strong communication and collaboration skills
+
+Additional Notes:
+- Cosmetic/beauty industry focus
+- Requires relocation/commute to New York
+- In-office full-time role
+
+Success Indicators:
+- High-quality, production-ready packaging designs
+- Strong collaboration with cross-functional teams
+- Ability to balance aesthetics with functionality
+- Effective use of design research and trends
+`,
+  resumeFile: "Metro1_Solutions_Junior_Packaging_Designer_Falguni_Dekate_ Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 42,
+  companyName: "Nightwing Intelligence Solutions, LLC",
+  jobTitle: "UX/UI Expert",
+  location: "Sterling, VA",
+  workMode: "On-site",
+  workExperience: "Not explicitly stated (Mid-Senior level)",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=84ecef81fa87b478&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+Desired Annual Salary: $85,000
+
+Clearance Status: None / Not Required
+Availability to Start: 05/25/2026
+Willingness to Travel (OCONUS): Up to 50%
+
+Resume File: Nightwing_UXUI_Designer_Falguni_Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UX/UI role focused on designing intuitive, data-driven interfaces for cybersecurity, intelligence, and mission-critical systems.
+
+Key Responsibilities:
+- Design user-friendly interfaces to improve usability and experience
+- Translate complex data and workflows into intuitive UI
+- Conduct user research, interviews, and usability testing
+- Create user flows, journey maps, wireframes, and prototypes
+- Develop high-fidelity mockups using Figma, Sketch, Adobe XD
+- Iterate designs based on stakeholder feedback
+- Maintain design systems, component libraries, and style guides
+- Solve complex UX challenges in data-heavy environments
+
+Key Requirements:
+- Strong UX problem-solving and analytical thinking
+- Experience with data visualization and dashboard UX
+- Ability to simplify complex workflows and reporting systems
+- Proficiency in Figma, Sketch, Adobe XD
+- Strong collaboration and communication skills
+
+Technical / Domain Skills:
+- Experience with analytics, dashboards, and reporting systems
+- UX improvements for workflow optimization
+- Data accuracy and UI validation understanding
+- Cybersecurity / intelligence domain exposure (preferred)
+
+Critical Requirement:
+- TS/SCI with Polygraph required (Note: You selected None)
+
+CV / Cover Letter Content:
+Dear Hiring Team,
+
+Exceptional UX in cybersecurity and intelligence environments depends on transforming complex data, workflows, and technical systems into interfaces that are intuitive, efficient, and mission-focused. That balance of usability, clarity, and operational performance is where I bring the most value.
+
+With experience designing enterprise dashboards, analytics-driven workflows, and scalable UX systems across AI-native and data-intensive platforms, I have developed user-centered solutions that improve workflow efficiency, reporting usability, and interface consistency. My background includes conducting user research, usability testing, UI audits, and rapid prototyping using Figma, Framer, and Adobe XD while collaborating closely with engineering, analytics, and leadership teams to solve complex design challenges.
+
+I am especially excited about Nightwing’s focus on cybersecurity, intelligence operations, and mission-critical systems. My ability to translate technical requirements and complex reporting workflows into highly functional and visually compelling interfaces would allow me to contribute immediately to your collaborative and innovation-driven environment.
+
+I would welcome the opportunity to further discuss how my UX expertise and problem-solving approach can support Nightwing’s mission-focused initiatives.
+
+Warm regards,  
+Falguni Dekate
+
+Success Indicators:
+- Effective UX solutions for complex, data-heavy systems
+- Strong collaboration across technical teams
+- High-quality, scalable design systems
+- Improved usability and workflow efficiency in applications
+`,
+  resumeFile: "Nightwing_UXUI_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 43,
+  companyName: "UNIS, LLC",
+  jobTitle: "AI UI/UX Designer",
+  location: "Buena Park, CA",
+  workMode: "On-site",
+  workExperience: "3-5 years",
+  payRange: "Not specified",
+  applyLink: "https://design.unisco.com/careers/ui-ux-designer",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $100,000
+
+Resume File: Unis_UIUX_Designer_Falguni_Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+AI-focused UI/UX design role centered on creating user-centric web and mobile experiences using modern design systems and AI-powered tools.
+
+Key Responsibilities:
+- Design intuitive interfaces for web and mobile platforms
+- Conduct user research, personas, wireframes, prototypes, and usability testing
+- Collaborate with product managers, engineers, and designers
+- Maintain and enhance design systems in React and Vue ecosystems
+- Iterate designs based on feedback and analytics
+- Advocate for user-centered design across all touchpoints
+
+AI & Tools Focus:
+- Use AI tools like Midjourney, Stable Diffusion, and LDMs
+- Leverage tools like Cursor, shadcn, Element Plus
+- Rapid prototyping with bolt.new, v0, Replit, Relume, Framer Motion
+- Combine traditional UX methods with AI-accelerated workflows
+
+Key Requirements:
+- 3-5 years UI/UX design experience
+- Strong portfolio demonstrating interaction + visual design
+- Proficiency in Figma, Sketch, Adobe XD
+- Experience with research, prototyping, and usability testing
+- Understanding of design systems and accessibility
+- Ability to communicate design decisions clearly
+
+Technical Skills:
+- Familiarity with React and Vue-based design systems
+- Experience with modern prototyping and dev-adjacent tools
+- AI-assisted design workflow experience
+
+Success Indicators:
+- High-quality, user-friendly interfaces
+- Effective use of AI tools to accelerate design workflows
+- Strong collaboration across teams
+- Scalable and consistent design systems
+`,
+  resumeFile: "Unis_UIUX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 45,
+  companyName: "Cella",
+  jobTitle: "Experience Designer",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$50 - $55/hr (Contract)",
+  applyLink: "https://cellainc.com/jobs/detail/experience-designer-onsite/1333158/",
+  myNotes: `
+Desired Compensation Rate: $50/hour
+Contract Role (6 months, potential extension/convert)
+
+Resume File: Cella_Experience_Designer_Falguni_Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Experience Designer role focused on employee-facing tools within a financial services (credit card) environment. Emphasis on service design, systems thinking, and simplifying complex workflows into intuitive interfaces.
+
+Key Responsibilities:
+- Design elegant, user-centric solutions for complex interaction problems
+- Ensure consistency across multiple products and platforms
+- Apply information architecture and storyboarding for better navigation and usability
+- Conduct data-driven design analysis and derive actionable insights
+- Collaborate with cross-functional teams (product, engineering, research)
+- Incorporate accessibility and inclusive design principles
+- Iterate designs based on user feedback and behavioral insights
+- Support research, market trends, and strategic design initiatives
+
+Domain Focus:
+- Financial services (credit card rewards systems)
+- Internal enterprise tools for customer service representatives
+- Complex workflows and service design systems
+
+Key Requirements:
+- 3+ years UX/Experience Design experience
+- Strong portfolio demonstrating end-to-end design
+- Experience designing for web, mobile, and digital platforms
+- Ability to translate complex data into design decisions
+- Strong understanding of accessibility and inclusive design
+
+Design & Tools:
+- Figma, Sketch, Adobe Creative Suite
+- Wireframing, prototyping, and interaction design
+- Information architecture and service design methodologies
+
+Preferred Skills:
+- Experience in financial services or enterprise IT systems
+- Systems thinking and service design mindset
+- Experience with customer support or internal tooling interfaces
+
+Soft Skills:
+- Strong collaboration and communication skills
+- Strategic thinking and problem-solving ability
+- Ability to work in fast-paced, iterative environments
+
+Additional Notes:
+- Onsite in Manhattan, NY (5 days/week)
+- W2 contract role (6 months, possible extension/conversion)
+- High-impact role supporting credit card portfolio transition
+
+Benefits:
+- Health, dental, vision insurance
+- 401(k)
+- Additional contractor benefits via Cella/Randstad
+
+Success Indicators:
+- Simplified and efficient workflows for internal users
+- High usability and accessibility standards
+- Strong alignment between user needs and business goals
+`,
+  resumeFile: "Cella_Experience_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 46,
+  companyName: "Jemm Tec LLC",
+  jobTitle: "UI Designer",
+  location: "Miami, FL",
+  workMode: "On-site",
+  workExperience: "Not specified",
+  payRange: "$110,000/year",
+  applyLink: "https://www.indeed.com/viewjob?jk=171c376011e38b72&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $50/hour
+Base Salary Expectations: $100,000 - $115,000
+
+Resume File: Jemm_UI_Designer_Falguni_Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UI Designer role at an early-stage consumer tech startup focused on shaping product vision, user interaction, and visual identity. High ownership and impact on product direction.
+
+Key Responsibilities:
+- Collaborate with leadership to define product vision and user experience
+- Design and refine user interfaces for core product features
+- Create design assets for engineering implementation
+- Contribute to overall product look and feel
+
+Startup Environment:
+- Early-stage company with high ownership and autonomy
+- Fast-paced, low-bureaucracy environment
+- Opportunity to directly influence product direction and growth
+
+Key Requirements:
+- Strong design intuition and portfolio demonstrating UI work
+- Experience with Figma, Adobe tools
+- Ability to translate product ideas into usable interfaces
+
+AI & Tools Focus:
+- Familiarity with AI coding/design tools (Claude Code, Cursor, ChatGPT)
+- AI-assisted design workflows for rapid iteration and prototyping
+
+Design Strengths Highlighted (from CV):
+- Experience designing AI-native and enterprise products
+- Strong in Figma and Framer for high-fidelity UI and prototyping
+- Experience building scalable design systems
+- Focus on usability, engagement, and workflow efficiency
+- Ability to rapidly iterate using AI tools
+
+Soft Skills:
+- Strong product thinking and ownership mindset
+- Ability to work closely with leadership in a startup setting
+- Collaborative and adaptable in fast-moving environments
+
+Hiring Process:
+- Introductory interview
+- Product-focused interview
+
+Benefits:
+- 401(k)
+- Health, dental, vision insurance
+
+Success Indicators:
+- Clear, intuitive UI aligned with product vision
+- Strong contribution to product identity and growth
+- Effective collaboration with engineering and leadership
+`,
+  resumeFile: "Jemm_UI_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 47,
+  companyName: "Boll & Branch",
+  jobTitle: "Jr. Visual Designer",
+  location: "Summit, NJ",
+  workMode: "Hybrid",
+  workExperience: "2+ years",
+  payRange: "$55,000 - $85,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=13d69834d1de2fcd&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $35 - $45/hour
+Base Salary Expectations: $65,000 - $80,000
+
+Resume File: Boll_&_Branch_Visual_Designer_Falguni_Dekate_Resume.pdf
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Junior Visual Designer role focused on executing high-quality, premium visual assets across digital and print channels. Emphasis on luxury brand aesthetics, consistency, and storytelling.
+
+Key Responsibilities:
+- Design visual assets for email, website, paid/organic social, and direct mail
+- Support retail, wholesale, and print design needs
+- Work with photography and video assets for polished multimedia content
+- Utilize AI tools for asset generation and creative experimentation
+- Maintain brand consistency and extend established art direction
+- Collaborate with copywriters and marketing teams
+- Deliver high-quality work under tight deadlines
+
+Domain Focus:
+- Luxury/lifestyle brand (home, bedding, fashion aesthetics)
+- Digital marketing channels and brand storytelling
+- Premium visual design execution
+
+Key Requirements:
+- 2+ years of visual design experience
+- Strong portfolio with focus on typography, layout, and color
+- Experience in luxury/lifestyle/consumer brands (preferred)
+- Proficiency in Figma and Adobe Creative Suite
+
+Design & Tools:
+- Figma, Adobe Photoshop, Illustrator, InDesign
+- AI tools: Midjourney, Gemini (preferred)
+- Motion tools (After Effects, Premiere Pro) – plus
+
+Preferred Skills:
+- Experience with multimedia (photo/video-based design)
+- Understanding of luxury visual trends and branding
+- Ability to manage high-volume, fast-paced design work
+
+Soft Skills:
+- Strong attention to detail and execution quality
+- Time management and ability to meet tight deadlines
+- Collaborative mindset with openness to feedback
+- Ability to balance independent work with team alignment
+
+Additional Notes:
+- Hybrid model (minimum 2 days/week in office)
+- No relocation or visa sponsorship
+- Focus on maintaining premium brand consistency
+
+Benefits:
+- Work from home flexibility (hybrid)
+
+Success Indicators:
+- Consistent, high-quality visual outputs aligned with brand
+- Strong contribution to brand storytelling across channels
+- Efficient execution in a fast-paced creative environment
+`,
+  resumeFile: "Boll_&_Branch_Visual_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
 ];
