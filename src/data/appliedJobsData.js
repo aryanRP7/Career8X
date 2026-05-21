@@ -1681,5 +1681,408 @@ Success Indicators:
   resumeFile: "Boll_&_Branch_Visual_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 48,
+  companyName: "Foodie Card",
+  jobTitle: "Product Designer",
+  location: "New York, NY",
+  workMode: "Remote",
+  workExperience: "2+ years",
+  payRange: "$30 - $50/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=dd9cc776fbe413ab&from=shareddesktop_copy",
+  myNotes: `
+Desired Compensation Rate: $40 - $50/hour
+Preferred Work Type: Full-time
+Location Preference: Tri-State NY Area
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Product Designer role focused on improving customer-facing and internal product experiences across responsive web, mobile apps, rewards systems, restaurant discovery, onboarding, and operational workflows.
+
+Key Responsibilities:
+- Lead end-to-end UX/UI design for responsive web, mobile apps, and internal tools
+- Create wireframes, user flows, prototypes, high-fidelity UI, and production-ready specs
+- Improve onboarding, rewards, membership, account management, and restaurant discovery experiences
+- Design internal CRM/admin tools supporting operations, support, sales, and marketing teams
+- Define scalable interaction patterns, edge cases, product logic, and failure states
+- Translate ambiguous business and product requirements into intuitive UX solutions
+- Use usability testing, customer feedback, analytics, and behavioral insights to improve retention and conversion
+- QA implemented designs across devices and real-world usage conditions
+- Document user journeys, product behavior, workflows, and design decisions
+- Use AI tools for research, prototyping, workflow optimization, and iteration
+
+Domain Focus:
+- Restaurant discovery and rewards platform
+- Membership and loyalty experiences
+- Consumer-facing mobile and web applications
+- Internal operational and CRM systems
+
+Key Requirements:
+- 2+ years of UX/UI or product design experience
+- Strong portfolio demonstrating responsive web and mobile product design
+- Expertise in Figma, prototyping, wireframes, and design systems
+- Strong understanding of UX principles, usability, information architecture, and interaction design
+- Ability to turn vague concepts into clear user flows and interfaces
+- Strong attention to detail and implementation QA
+- Ability to manage multiple product priorities
+
+Preferred Skills:
+- Experience with marketplaces, rewards systems, memberships, or restaurant-focused products
+- Experience designing internal tools and operational dashboards
+- Product strategy and roadmap planning experience
+- Strong visual design skills including typography, hierarchy, layout, and interaction states
+- Ability to document product requirements and engineering handoff notes
+- Comfort handling edge cases, workflows, and business logic
+
+AI & Workflow Tools:
+- AI-assisted research and prototyping workflows
+- Workflow optimization and rapid iteration using AI tools
+
+Soft Skills:
+- Strong ownership and product thinking
+- Organized and proactive work style
+- Clear communication and collaboration skills
+- Ability to learn product ecosystems quickly
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great product design removes friction before users notice it, turning complex workflows into seamless customer experiences that improve engagement, retention, and business growth. That is the approach I bring to product design.
+
+With 2+ years of experience designing responsive web, mobile, and internal product experiences, I have built onboarding flows, account management systems, scalable design systems, and operational workflows focused on usability and conversion optimization. My experience creating wireframes, prototypes, interaction flows, and responsive interfaces aligns directly with your need for a Product Designer who can improve both customer-facing and internal experiences.
+
+At CX by Design and MyRentalSpot, I collaborated closely with product managers, engineers, marketing, and operations teams to translate business requirements into intuitive product solutions while improving workflow efficiency and customer engagement. I also bring strong expertise in Figma, usability testing, QA validation, and AI-assisted workflow optimization.
+
+Foodie Card’s focus on rewards, discovery, memberships, and customer engagement strongly aligns with my experience and passion for designing high-impact digital experiences.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Initially part-time with opportunity to grow into full-time role
+- Looking for candidates in Tri-State NY area
+- Strong emphasis on ownership, product thinking, and operational workflows
+
+Success Indicators:
+- Reduced friction across customer and internal product experiences
+- Improved user engagement, retention, and conversion
+- High-quality responsive product experiences
+- Strong collaboration across product, engineering, and operations teams
+- Clear documentation and scalable design systems
+`,
+  resumeFile: "Foodie_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 49,
+  companyName: "Everforth ECS",
+  jobTitle: "Junior UX Designer",
+  location: "New York, NY",
+  workMode: "Not specified",
+  workExperience: "2+ years",
+  payRange: "Not specified",
+  applyLink: "",
+  myNotes: `
+Desired Compensation Rate: $40/hour
+Base Salary Expectations: $75,000 - $95,000
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Junior UX Designer role focused on designing enterprise and mission-critical operational platforms, improving workflow efficiency, usability, accessibility, and scalable user experiences across data-intensive systems.
+
+Key Responsibilities:
+- Design responsive enterprise product experiences and operational workflows
+- Create wireframes, interactive prototypes, workflow mappings, and high-fidelity interfaces
+- Improve navigation clarity, usability consistency, and workflow efficiency
+- Develop scalable design systems, reusable components, and UI specifications
+- Collaborate with engineers and stakeholders during Agile sprint cycles
+- Conduct usability testing, workflow analysis, and UX research activities
+- Document workflows, interaction models, interface mappings, and annotated specifications
+- Translate operational requirements into intuitive UX solutions
+- Support accessibility compliance and enterprise UX consistency
+
+Domain Focus:
+- Enterprise and operational platforms
+- Mission-critical workflow systems
+- Data-intensive dashboards and analytics experiences
+- Multi-user operational environments
+
+Key Requirements:
+- 2+ years of UX/Product Design experience
+- Strong experience with responsive web and operational UX systems
+- Expertise in Figma, Adobe XD, Framer, and prototyping tools
+- Understanding of UX research, workflow mapping, and usability testing
+- Experience creating scalable design systems and UI specifications
+- Strong collaboration skills across engineering and product teams
+- Ability to improve usability, accessibility, and operational efficiency
+
+Design & Technical Skills:
+- Figma, Adobe XD, Framer
+- Interaction design and information architecture
+- UX research artifacts and usability testing
+- Operational dashboards and workflow systems
+- Design systems and responsive layouts
+- Accessibility and Section 508 principles
+- QA validation and implementation documentation
+
+Soft Skills:
+- Strong analytical and problem-solving mindset
+- Clear communication and stakeholder collaboration
+- Ability to work in Agile and cross-functional environments
+- Detail-oriented documentation and workflow thinking
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Mission-critical platforms succeed when complex operational workflows become intuitive, scalable, and efficient for the analysts and decision-makers relying on them every day. Designing user-centered experiences that improve usability across enterprise systems is what excites me most about the Junior UX Designer opportunity at Everforth ECS.
+
+With a background in Computer Science and a Master’s in Human-Centered Design, I design enterprise product experiences across responsive web and operational platforms. My experience includes building wireframes, interactive prototypes, workflow mappings, scalable design systems, and implementation-ready UI specifications using Figma, Adobe XD, and Framer while supporting usability testing, UX documentation, and iterative workflow improvements.
+
+I have collaborated closely with engineers, stakeholders, and cross-functional teams during Agile sprints to translate operational requirements into intuitive interfaces optimized for usability, navigation clarity, accessibility, and workflow efficiency. Through enterprise and research-driven projects, I have developed strong experience in UX research artifacts, dashboard interfaces, interaction design, Section 508 accessibility principles, and scalable enterprise workflows.
+
+What especially draws me to Everforth ECS is the opportunity to contribute mission-focused UX solutions supporting operational efficiency across the War Data Platform environment.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise and operational UX systems
+- Focus on mission-critical workflow optimization
+- Research-driven and accessibility-focused UX approach
+- Experience supporting Agile product environments
+
+Success Indicators:
+- Improved usability across enterprise operational systems
+- Scalable and accessible workflow experiences
+- Strong collaboration with engineering and stakeholders
+- High-quality UX documentation and implementation support
+- Reduced friction and improved workflow efficiency
+`,
+  resumeFile: "Everforth_Junior_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 50,
+  companyName: "Halliburton",
+  jobTitle: "Junior UX Designer",
+  location: "Not specified",
+  workMode: "Not specified",
+  workExperience: "2+ years",
+  payRange: "$31/hour",
+  applyLink: "",
+  myNotes: `
+Desired Annual Salary: $80,000
+Desired Compensation Rate: $40/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Junior UX Designer role focused on designing enterprise operational platforms, dashboards, and scalable user experiences supporting mission-critical workflows across responsive enterprise systems.
+
+Key Responsibilities:
+- Design enterprise web applications and operational UX experiences
+- Create wireframes, interaction models, high-fidelity prototypes, and scalable design systems
+- Improve workflow efficiency, navigation clarity, and usability across operational platforms
+- Collaborate with engineers and product teams during Agile sprint cycles
+- Conduct usability testing, UX research synthesis, and workflow analysis
+- Build implementation-ready UI assets and developer handoff documentation
+- Support accessibility validation and responsive interaction behaviors
+- Design operational interfaces and data visualization experiences
+
+Domain Focus:
+- Enterprise SaaS and operational systems
+- Data-dense dashboards and reporting interfaces
+- Mission-critical workflow environments
+- Operational UX and scalable enterprise platforms
+
+Key Requirements:
+- 2+ years of UX/Product Design experience
+- Strong expertise in enterprise and dashboard UX
+- Experience designing responsive operational interfaces
+- Expertise in Figma, design systems, and prototyping
+- Strong understanding of usability, interaction design, and workflow optimization
+- Ability to collaborate closely with engineering and product teams
+- Experience supporting accessibility and implementation consistency
+
+Design & Technical Skills:
+- Figma, Framer, Adobe XD
+- Design systems, design tokens, and UI governance
+- AI-assisted prototyping workflows
+- GitHub Copilot, Claude, Bolt, v0
+- HTML, CSS, JavaScript, Angular, PrimeNG
+- UX research and usability testing
+- Operational dashboards and enterprise UI
+- Accessibility validation and WCAG standards
+- Developer handoff documentation and implementation support
+
+Soft Skills:
+- Strong analytical and workflow-oriented thinking
+- Clear communication and stakeholder collaboration
+- Agile and cross-functional teamwork experience
+- Detail-oriented problem solving and UX documentation
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Operational platforms are most effective when complex workflows become intuitive, efficient, and reliable for the engineers and field teams depending on them in real time. Designing scalable UX solutions that improve clarity across data-dense enterprise systems is what excites me most about the Junior UX Designer opportunity at Halliburton.
+
+With 2+ years of experience designing enterprise web applications and operational dashboards, I have built wireframes, interaction models, high-fidelity prototypes, and scalable design systems supporting usability, workflow efficiency, and implementation consistency across responsive platforms. My experience collaborating with engineers and product teams during Agile sprints aligns closely with Halliburton’s fast-paced operational environment.
+
+At CX by Design and Lighthouse Info System, I designed operational interfaces, enterprise workflows, and data visualization experiences while contributing to usability testing, UX research synthesis, accessibility validation, and developer handoff documentation. I also bring strong expertise in Figma, AI-assisted prototyping workflows, GitHub Copilot, responsive UI systems, and front-end collaboration.
+
+What especially draws me to Halliburton is the opportunity to contribute user-centered enterprise experiences supporting mission-critical operational workflows at global scale.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise operational UX systems
+- Experience with Agile product and engineering collaboration
+- Focus on scalable workflow optimization and usability
+- Experience with AI-assisted prototyping and front-end collaboration
+
+Success Indicators:
+- Improved workflow efficiency across enterprise platforms
+- Scalable and user-centered operational experiences
+- Strong usability and accessibility consistency
+- Effective engineering collaboration and implementation support
+- Reduced friction across operational workflows
+`,
+  resumeFile: "Halliburton_Junior_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 51,
+  companyName: "Fidelity Investments",
+  jobTitle: "Associate User Experience Designer",
+  location: "Westlake, TX",
+  workMode: "Hybrid",
+  workExperience: "Prior UX design experience preferred",
+  payRange: "Not specified",
+  applyLink: "",
+  myNotes: `
+Desired Annual Salary: $80,000
+Desired Compensation Rate: $40/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Associate User Experience Designer role focused on creating intuitive, accessible, and human-centered digital experiences supporting charitable giving journeys for donors, advisors, and internal associates.
+
+Key Responsibilities:
+- Design end-to-end user experiences across customer-facing and internal platforms
+- Create sketches, wireframes, user flows, mockups, and interactive prototypes
+- Translate customer needs, motivations, and behaviors into intuitive UX solutions
+- Ensure consistency across products, workflows, and digital experiences
+- Collaborate with analysts, product owners, developers, and UX stakeholders
+- Support Agile teams through iterative UX design and workflow improvements
+- Communicate design rationale and align UX solutions with product requirements
+- Contribute to accessible and scalable design systems
+
+Domain Focus:
+- Financial services and charitable giving platforms
+- Customer-facing enterprise experiences
+- Human-centered and accessibility-focused UX
+- Digital giving and donation workflows
+
+Key Requirements:
+- Prior UX design experience preferred
+- Strong portfolio demonstrating UX design process and outcomes
+- Experience creating wireframes, mockups, user flows, and prototypes
+- Strong understanding of customer-centered design principles
+- Ability to manage priorities and meet deadlines
+- Strong collaboration and communication skills
+- Experience working within Agile product environments
+
+Design & Technical Skills:
+- Figma and interactive prototyping
+- UX research and workflow optimization
+- Accessibility and usability standards
+- Design systems and responsive layouts
+- Interaction design and user flows
+- UX documentation and implementation-ready assets
+
+Soft Skills:
+- Strong organizational and prioritization skills
+- Creative and curious problem-solving mindset
+- Collaborative communication style
+- Human-centered design thinking
+- Ability to balance business goals with user needs
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Meaningful digital experiences are built when complex financial and giving journeys become intuitive, accessible, and genuinely human-centered for the people relying on them every day. Designing seamless user experiences that simplify customer interactions is what excites me most about the Associate User Experience Designer opportunity at Fidelity Charitable.
+
+With 2+ years of experience designing responsive web applications and enterprise product workflows, I have created wireframes, user flows, interactive prototypes, and scalable design systems supporting usability, accessibility, and workflow consistency across customer-facing platforms. My experience collaborating with product owners, analysts, developers, and cross-functional teams during Agile sprints aligns closely with Fidelity’s collaborative UX environment.
+
+At CX by Design and Lighthouse Info System, I designed customer-centered digital experiences while contributing to usability testing, UX research synthesis, workflow optimization, and implementation-ready design documentation. I also bring strong expertise in Figma, interaction design, accessibility standards, and end-to-end user experience design supporting scalable human-centered solutions.
+
+What especially draws me to Fidelity is the opportunity to create thoughtful digital experiences that make charitable giving more accessible, simple, and effective.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Fidelity Charitable UX team supports donors, advisors, and internal associates
+- Strong focus on accessibility, research, and human-centered design
+- Agile team environment with close stakeholder collaboration
+- Portfolio required using STAR methodology
+
+Success Indicators:
+- Simplified and intuitive charitable giving experiences
+- Strong consistency across digital workflows and platforms
+- Accessible and scalable UX solutions
+- Effective collaboration across Agile product teams
+- Improved usability and customer engagement
+`,
+  resumeFile: "Fidelity_Investments_Associate_User_Experience_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
