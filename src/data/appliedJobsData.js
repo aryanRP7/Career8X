@@ -2085,4 +2085,438 @@ Success Indicators:
   resumeFile: "Fidelity_Investments_Associate_User_Experience_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 52,
+  companyName: "Giga Soft Systems",
+  jobTitle: "UI/UX Designer",
+  location: "Not specified",
+  workMode: "Not specified",
+  workExperience: "2+ years",
+  payRange: "Not specified",
+  applyLink: "",
+  myNotes: `
+Desired Annual Salary: $80,000
+Desired Compensation Rate: $40/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UI/UX Designer role focused on designing responsive web applications, scalable user interfaces, and customer-centered digital experiences emphasizing usability, visual consistency, and intuitive interaction flows.
+
+Key Responsibilities:
+- Design responsive web applications and customer-facing digital experiences
+- Create wireframes, mockups, user flows, and high-fidelity interactive prototypes
+- Build scalable design systems, reusable Figma components, and component libraries
+- Improve usability, workflow clarity, navigation systems, and interaction patterns
+- Collaborate with product managers, developers, and cross-functional teams
+- Conduct usability testing, UX research synthesis, and workflow analysis
+- Produce implementation-ready UI specifications and developer handoff documentation
+- Contribute to responsive layouts, accessibility validation, and scalable product delivery
+
+Domain Focus:
+- Responsive web applications
+- Customer-centered digital products
+- Scalable design systems and UI consistency
+- Modern product and interface experiences
+
+Key Requirements:
+- 2+ years of UI/UX Design experience
+- Strong expertise in responsive web and interaction design
+- Experience building scalable Figma component systems
+- Strong visual design and usability optimization skills
+- Ability to collaborate closely with engineering and product teams
+- Experience with usability testing and UX research workflows
+- Strong understanding of interface consistency and workflow optimization
+
+Design & Technical Skills:
+- Figma, Framer, Adobe XD
+- Adobe Photoshop and Illustrator
+- Design systems and reusable component libraries
+- Interaction design and information architecture
+- Responsive layouts and mobile-first design
+- UX documentation and implementation support
+- AI-assisted prototyping workflows
+- Accessibility and usability validation
+
+Soft Skills:
+- Strong customer-centered design thinking
+- Clear communication and collaboration skills
+- Creative problem-solving and rapid ideation
+- Attention to visual hierarchy and interface consistency
+- Ability to balance usability with modern visual design
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great digital products succeed when intuitive design, visual consistency, and seamless user experiences work together to make every interaction effortless for users. Designing scalable and visually engaging interfaces that improve usability is what excites me most about the UI/UX Designer opportunity at Giga Soft Systems.
+
+With 2+ years of experience designing responsive web applications and customer-centered digital experiences, I have created wireframes, mockups, interactive prototypes, and scalable design systems supporting usability, workflow clarity, and interface consistency across modern platforms. My experience collaborating with product managers, developers, and cross-functional teams aligns closely with Giga Soft Systems’ collaborative product environment.
+
+At CX by Design and Lighthouse Info System, I designed intuitive interfaces, reusable Figma component systems, and implementation-ready UI specifications while contributing to usability testing, UX research synthesis, and workflow optimization. I also bring strong expertise in Figma, visual design, Adobe Creative Suite, responsive layouts, interaction design, and scalable user-centered experiences.
+
+What especially draws me to Giga Soft Systems is the opportunity to contribute thoughtful digital experiences that combine strong usability with modern visual design.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with responsive and customer-centered product experiences
+- Focus on scalable design systems and interface consistency
+- Experience with AI-assisted prototyping and rapid UX iteration
+- Strong collaboration across product and engineering teams
+
+Success Indicators:
+- Improved usability and workflow clarity across digital products
+- Scalable and visually consistent user experiences
+- Strong collaboration with developers and stakeholders
+- Effective implementation-ready design systems
+- Reduced friction across customer interaction flows
+`,
+  resumeFile: "Giga_UIUX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 53,
+  companyName: "Neuralink",
+  jobTitle: "UI Design Engineer",
+  location: "South San Francisco, CA",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$135,000 - $281,000",
+  applyLink: "https://job-boards.greenhouse.io/neuralink/jobs/6057476003?gh_jid=6057476003&gh_src=c1b9c08f3us",
+  myNotes: `
+Desired Annual Salary: $135,000+
+Desired Compensation Rate: $65 - $80/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UI Design Engineer role focused on designing and shipping next-generation computing interfaces for Brain-Computer Interface (BCI) systems. Emphasis on fluid interaction systems, rapid prototyping, motion behaviors, interface precision, and multidisciplinary collaboration across neuroscience, machine learning, and engineering.
+
+Key Responsibilities:
+- Design, prototype, build, and ship novel computing interfaces for BCI systems
+- Create interaction systems and high-fidelity prototypes for next-generation interfaces
+- Collaborate with neuroscience, machine learning, and implant engineering teams
+- Refine motion behaviors, interaction precision, and fluid interface responsiveness
+- Work directly with study participants to iterate and improve user experiences
+- Explore new interaction paradigms beyond traditional sensory feedback systems
+- Balance rapid ideation, prototyping, and production-level interaction fidelity
+- Contribute implementation-ready UI systems and scalable interaction patterns
+
+Domain Focus:
+- Brain-Computer Interface (BCI) systems
+- Human-computer interaction innovation
+- Motion-driven and precision-based interfaces
+- Accessibility and assistive technology experiences
+- Experimental computing interfaces and interaction systems
+
+Key Requirements:
+- Strong portfolio demonstrating end-to-end product and interface design
+- Experience designing and shipping high-fidelity interaction systems
+- Strong understanding of interaction design and motion behaviors
+- Ability to prototype and iterate rapidly across evolving workflows
+- Experience collaborating in multidisciplinary product environments
+- Strong empathy-driven and human-centered design approach
+
+Technical Skills:
+- Figma and interactive prototyping
+- React-based prototyping workflows
+- Motion-driven interface systems
+- Interaction animation behaviors
+- Scalable design systems and UI frameworks
+- Human-centered interaction design
+- Implementation-ready UI documentation
+- Rapid prototyping and interface iteration
+
+Preferred Technical Stack:
+- React, Three.js, WebGPU
+- SwiftUI, UIKit/AppKit, Metal
+- Objective-C, C, C++
+- AI-assisted prototyping workflows
+
+Soft Skills:
+- Strong experimentation and iterative problem-solving mindset
+- Ability to navigate ambiguous and highly technical design challenges
+- Collaborative communication across multidisciplinary teams
+- Curiosity and willingness to challenge traditional interaction paradigms
+- High attention to interaction fluidity and detail
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Please provide 3 concise examples highlighting your exceptional ability, using quantitative metrics and technical details to display the impact on a product or project related to the position you are applying for.
+
+First example:
+Built high-fidelity interactive prototypes and scalable Figma design systems for enterprise web applications, improving workflow clarity and interface consistency across customer-facing platforms. Collaborated directly with engineers during Agile sprints to refine responsive behaviors, interaction logic, and implementation feasibility. Reduced usability friction across multi-step workflows through iterative usability testing, workflow analysis, and rapid prototype validation.
+
+Second example:
+Designed 20+ responsive web and mobile product flows focused on navigation clarity, interaction responsiveness, and scalable UX systems across operational platforms. Leveraged AI-assisted prototyping workflows and browser-based interface exploration to accelerate rapid iteration and improve implementation efficiency. Improved workflow efficiency and usability consistency through reusable interaction patterns and scalable design components.
+
+Third example:
+Led usability testing and UX research synthesis for onboarding and workflow optimization initiatives, translating qualitative insights into actionable interface improvements across enterprise platforms. Developed wireframes, interaction models, and implementation-ready UI specifications supporting scalable product delivery and cross-functional alignment. Improved customer task completion and reduced friction across end-to-end user journeys through iterative workflow refinement and interaction validation.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Transformative computing experiences emerge when interface design feels fluid, intuitive, and almost invisible to the people relying on them. Designing next-generation interaction systems that push beyond traditional input limitations is what excites me most about the UI Design Engineer opportunity at Neuralink.
+
+With 2+ years of experience designing responsive interfaces and high-fidelity digital experiences, I have built wireframes, rapid prototypes, interaction systems, and scalable design frameworks supporting usability, responsiveness, and interaction precision across advanced technology platforms. My experience collaborating with engineers and cross-functional teams to refine motion behaviors, interaction flows, and implementation-ready systems aligns closely with Neuralink’s multidisciplinary design environment.
+
+At CX by Design and Lighthouse Info System, I designed scalable interfaces, interaction patterns, and prototype systems while contributing to usability testing, UX research synthesis, workflow optimization, and implementation documentation. I also bring strong expertise in Figma, React-based prototyping, motion-driven interfaces, animation behaviors, and human-centered interaction design supporting fluid next-generation digital experiences.
+
+What especially draws me to Neuralink is the opportunity to help redefine how humans interact with computing through entirely new forms of interface design.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with experimental interaction systems and advanced UX workflows
+- Focus on fluid motion behaviors and precision-based interaction design
+- Experience collaborating with engineers across implementation and prototyping cycles
+- Strong interest in human-centered and assistive technology experiences
+
+Success Indicators:
+- Fluid and intuitive next-generation interaction experiences
+- High-fidelity interfaces optimized for responsiveness and precision
+- Strong multidisciplinary collaboration across engineering and research
+- Rapid iteration and validation of experimental interface systems
+- Improved usability and accessibility across advanced computing workflows
+`,
+  resumeFile: "Neuralink_UI_Design_Engineer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 54,
+  companyName: "APG Packaging",
+  jobTitle: "Industrial Designer (Junior - Mid Level)",
+  location: "Azusa, CA",
+  workMode: "Hybrid",
+  workExperience: "1-3 years",
+  payRange: "$62,441.10 - $75,197.88",
+  applyLink: "https://www.indeed.com/viewjob?jk=7980d9f5bc604a4f&from=shareddesktop_copy",
+  myNotes: `
+Desired Annual Salary: $75,000
+Desired Compensation Rate: $40/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Industrial Designer role focused on creating innovative packaging concepts, photorealistic product renderings, and branded visual assets across physical and digital platforms for cosmetics and beauty products.
+
+Key Responsibilities:
+- Design primary and secondary packaging concepts
+- Create 3D models and production-ready CAD files
+- Develop photorealistic renders for presentations and marketing materials
+- Design website imagery, campaign visuals, and tradeshow banners
+- Collaborate with engineering, sales, and marketing teams
+- Support packaging visualization and scalable branding workflows
+- Create production-ready assets supporting packaging implementation
+
+Domain Focus:
+- Cosmetics and beauty packaging
+- Consumer-facing product experiences
+- Structural packaging and 3D visualization
+- Branding and marketing design systems
+
+Key Requirements:
+- 1-3 years of Industrial Design or related experience
+- Strong portfolio showcasing packaging and visualization work
+- Experience with CAD software and 3D rendering workflows
+- Proficiency in Adobe Creative Suite
+- Strong understanding of visual storytelling and branded experiences
+- Ability to collaborate across engineering and marketing teams
+
+Design & Technical Skills:
+- SolidWorks concepts and CAD workflows
+- Blender and KeyShot rendering
+- Adobe Creative Suite
+- 3D modeling and visualization
+- Packaging design systems
+- Production-ready asset development
+- Branding and visual storytelling
+- Presentation-ready rendering workflows
+
+Preferred Skills:
+- Beauty or cosmetics packaging experience
+- Tradeshow and campaign visual design
+- Structural packaging workflows
+- Consumer product visualization
+
+Soft Skills:
+- Strong visual communication and presentation skills
+- Creative problem-solving mindset
+- Cross-functional collaboration abilities
+- Attention to detail and production quality
+- Ability to balance aesthetics with functionality
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional packaging design transforms products into memorable brand experiences long before a customer interacts with what’s inside. Creating visually compelling and production-ready packaging systems that strengthen product presentation is what excites me most about the Industrial Designer opportunity at APG Packaging.
+
+With 2+ years of experience designing branded digital experiences and high-fidelity visual systems, I have developed packaging concepts, photorealistic renderings, scalable visual assets, and production-ready design workflows supporting strong brand consistency across physical and digital platforms. My experience collaborating with engineering, marketing, and cross-functional teams aligns closely with APG Packaging’s fast-paced creative environment.
+
+At CX by Design and Lighthouse Info System, I created product visualizations, branded assets, reusable design systems, and presentation-ready visuals while contributing to workflow optimization, visual refinement, and scalable design documentation. I also bring strong expertise in SolidWorks concepts, Blender, KeyShot, Adobe Creative Suite, rendering workflows, and visual storytelling supporting consumer-facing product experiences.
+
+What especially draws me to APG Packaging is the opportunity to create innovative packaging experiences that combine structural functionality with elevated visual design.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Remote/hybrid opportunity in cosmetics packaging domain
+- Strong focus on packaging visualization and photorealistic rendering
+- Opportunity to work across physical and digital branding systems
+- Collaborative workflow with engineering, sales, and marketing teams
+
+Success Indicators:
+- High-quality packaging concepts and product renderings
+- Strong visual consistency across marketing and packaging assets
+- Effective collaboration across cross-functional teams
+- Production-ready CAD and visualization workflows
+- Memorable consumer-facing packaging experiences
+`,
+  resumeFile: "Cosmetics_Industrial_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 55,
+  companyName: "Gensler",
+  jobTitle: "Technical Designer - Junior",
+  location: "Austin, TX",
+  workMode: "On-site",
+  workExperience: "0-5 years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=d52ae4f4d72976be&from=shareddesktop_copy",
+  myNotes: `
+Desired Annual Salary: $80,000
+Desired Compensation Rate: $40/hour
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Technical Designer role focused on combining creative design thinking with technical execution to deliver functionally refined and visually compelling architectural and spatial design solutions.
+
+Key Responsibilities:
+- Support conceptual designs, presentations, design development, and production workflows
+- Produce graphic presentations, 3D renderings, and construction documentation
+- Collaborate with project teams, consultants, contractors, and stakeholders
+- Resolve complex design challenges with practical and innovative solutions
+- Participate in all project phases from schematic design through production
+- Support project coordination, communication, and workflow management
+- Contribute to office initiatives, design programs, and collaborative activities
+- Assist with scalable project delivery and process improvement strategies
+
+Domain Focus:
+- Architectural and spatial design systems
+- Technical design and production workflows
+- 3D visualization and rendering
+- Construction documentation and project coordination
+
+Key Requirements:
+- 0-5 years of related design experience
+- Proficiency in Revit, 3D modeling, and visualization workflows
+- Strong understanding of technical and production-focused design
+- Ability to manage concurrent projects across multiple stages
+- Strong communication and collaboration abilities
+- Ability to work in fast-paced multidisciplinary environments
+- Strong organizational and problem-solving skills
+
+Design & Technical Skills:
+- Revit concepts and architectural workflows
+- 3D modeling and rendering systems
+- Graphic presentations and visualization tools
+- Construction documentation support
+- Scalable layout and production systems
+- Workflow coordination and implementation support
+- Visual communication and technical presentations
+
+Preferred Skills:
+- Knowledge of building codes and accessibility requirements
+- Experience supporting multidisciplinary project teams
+- Strong portfolio demonstrating technical and visual design execution
+- Experience balancing conceptual and production-focused workflows
+
+Soft Skills:
+- Strong collaborative communication skills
+- Creative and technical problem-solving mindset
+- Adaptability across fast-paced project environments
+- Strong organization and relationship management
+- Ability to rapidly communicate and iterate design ideas
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional spaces are created when technical precision and creative problem-solving work together to transform complex ideas into functional and visually compelling environments. Designing scalable spatial experiences that balance technical execution with strong visual communication is what excites me most about the Technical Designer opportunity at Gensler.
+
+With 2+ years of experience developing conceptual presentations, visualization systems, and production-ready design documentation, I have contributed to projects requiring strong coordination, rapid iteration, and clear communication across multidisciplinary teams. My experience collaborating with consultants, engineers, and cross-functional stakeholders aligns closely with Gensler’s highly collaborative project environment.
+
+At CX by Design and Lighthouse Info System, I created 3D visualizations, technical presentations, scalable layouts, and implementation-ready documentation while supporting workflow optimization, project coordination, and visual consistency across concurrent deliverables. I also bring strong expertise in Revit concepts, 3D modeling workflows, graphic presentations, visualization systems, and production-focused design execution.
+
+What especially draws me to Gensler is the opportunity to contribute innovative and technically refined design solutions within a globally recognized design culture.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with architectural visualization and technical production workflows
+- Collaborative multidisciplinary project environment
+- Focus on scalable project delivery and visual communication
+- Opportunity to contribute across conceptual and production phases
+
+Success Indicators:
+- High-quality technical presentations and visualization outputs
+- Effective collaboration across multidisciplinary project teams
+- Strong production-ready design documentation
+- Scalable and visually refined spatial solutions
+- Efficient coordination across concurrent project workflows
+`,
+  resumeFile: "Gensler_Technical_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
