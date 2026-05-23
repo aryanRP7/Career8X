@@ -2519,4 +2519,208 @@ Success Indicators:
   resumeFile: "Gensler_Technical_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 56,
+  companyName: "Triumph",
+  jobTitle: "Product Designer",
+  location: "San Francisco, CA",
+  workMode: "On-site",
+  workExperience: "1-2+ years",
+  payRange: "$140,000 - $210,000",
+  applyLink: "https://jobs.ashbyhq.com/triumph-arcade/5811befc-f251-40ec-919a-37d76e25e33b/application?utm_source=XJZNxKM0mM",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Product Designer role focused on shaping the mobile and web experience for Rips, a collectibles trading card app. Emphasis on gamified interaction systems, consumer engagement, motion-driven UX, scalable design systems, and rapid product iteration.
+
+Key Responsibilities:
+- Ship end-to-end product design for mobile and web experiences
+- Conduct user research, wireframing, prototyping, and high-fidelity UI design
+- Evolve and maintain scalable design systems
+- Design interaction patterns optimized for iOS and scalable across Android/web
+- Create intuitive consumer-facing experiences with game-like mechanics
+- Collaborate closely with product managers and engineering teams
+- Rapidly validate and iterate product concepts
+- Contribute to in-product brand moments including motion, illustration, and micro-copy
+
+Domain Focus:
+- Consumer-facing mobile applications
+- Gaming and collectibles ecosystems
+- Gamification and progression systems
+- High-engagement digital product experiences
+- Motion-driven and interaction-focused UX
+
+Key Requirements:
+- 1-2+ years of product design experience
+- Strong expertise designing consumer-facing iOS applications
+- Experience creating engaging interaction systems and user flows
+- Strong understanding of gamification, rewards, and progression systems
+- Passion for motion design, animation, and interaction quality
+- Ability to work in fast-paced and high-agency environments
+- Strong collaboration and rapid iteration skills
+
+Design & Technical Skills:
+- Figma and high-fidelity prototyping
+- Design systems and scalable UI frameworks
+- Motion design and interaction animation
+- Consumer engagement UX patterns
+- Mobile-first and responsive product design
+- User research and usability optimization
+- Production-ready asset delivery
+- Cross-platform design systems
+
+Preferred Skills:
+- Experience with gaming or entertainment-focused apps
+- Experience designing for iOS ecosystems
+- Knowledge of interactive engagement mechanics
+- Strong visual storytelling and interface polish
+
+Soft Skills:
+- Strong product thinking and ownership mindset
+- Ability to prioritize impactful work quickly
+- Creative problem-solving and experimentation
+- Collaborative communication skills
+- High adaptability in rapid-growth environments
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Why are you interested in a role at Triumph Labs?
+
+I’m excited about Triumph Labs because the role combines high-growth consumer product design with fast iteration, gamified experiences, and highly interactive mobile interfaces. The opportunity to shape engaging iOS and web experiences for a rapidly growing collectibles platform strongly aligns with my passion for designing intuitive, motion-driven products that improve user engagement and delight.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+What's your favorite app and why? What one change would you make to improve this app and why?
+
+My favorite app is Duolingo because it combines strong gamification, motion design, and progression systems to make learning feel engaging and rewarding rather than repetitive. The app’s use of streaks, visual feedback, animations, and bite-sized interactions creates a highly addictive and intuitive user experience while keeping navigation extremely simple. One improvement I would make is adding more personalized adaptive learning flows that dynamically adjust lesson difficulty and pacing based on user behavior in real time. This would make the experience feel even more tailored, motivating, and effective for long-term engagement.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Work Authorization / Relocation Notes:
+
+I am currently authorized to work in the U.S. on an F-1 visa and am eligible for OPT work authorization. I will require future employer sponsorship (e.g., H-1B) to continue working in the U.S. beyond my OPT period. No immigration applications are currently pending.
+
+I am currently based outside the Bay Area but am willing to relocate. I can relocate within a few weeks of receiving an offer and am open to moving based on the role’s start date.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with gamified and engagement-focused product experiences
+- Opportunity to work on one of the fastest-growing consumer apps
+- Focus on motion-driven interaction systems and delightful UX
+- Fast-paced and high-agency product environment
+
+Success Indicators:
+- Highly engaging and intuitive mobile/web experiences
+- Strong evolution of scalable design systems
+- Effective gamification and user retention mechanics
+- Rapid iteration and successful product experimentation
+- Seamless collaboration between design, product, and engineering teams
+`,
+  resumeFile: "Triumph_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 57,
+  companyName: "Ivo Inc.",
+  jobTitle: "Product Designer",
+  location: "San Francisco, CA",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$120,000 - $200,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=031b36f1e10bd3ba&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Product Designer role focused on shaping AI-powered contract negotiation products through end-to-end product design, rapid iteration, scalable UX systems, branding, and customer-centered workflows in a fast-paced startup environment.
+
+Key Responsibilities:
+- Lead the entire design and creative process across product, brand, web, and marketing
+- Define user interactions and scalable product experiences
+- Collaborate directly with founders on product strategy and roadmap priorities
+- Design intuitive and user-centered AI-native workflows
+- Optimize interfaces for usability, accessibility, and speed
+- Work in rapid iterative cycles with high ownership and autonomy
+- Create high-fidelity product experiences and production-ready assets
+- Contribute to branding, marketing collateral, and visual systems
+
+Domain Focus:
+- AI-powered contract negotiation platforms
+- Enterprise SaaS and workflow optimization
+- Productivity and legal-tech experiences
+- Fast-paced startup product environments
+
+Key Requirements:
+- 3+ years of product design experience
+- Strong 0-1 product design experience
+- Strong portfolio demonstrating shipped products and measurable outcomes
+- Expertise in Figma and modern prototyping tools
+- Ability to move quickly and iterate in high-velocity teams
+- Customer-first and ownership-oriented mindset
+- Strong interest in AI and the future of work
+
+Design & Technical Skills:
+- Figma and modern prototyping workflows
+- Product strategy and interaction design
+- Design systems and scalable UI frameworks
+- Branding and visual communication
+- Rapid UX iteration and usability optimization
+- AI-assisted workflows and productivity systems
+- Accessibility and implementation-ready documentation
+
+Soft Skills:
+- Strong ownership mentality
+- Resourceful and self-driven problem-solving
+- High adaptability in fast-moving startup environments
+- Customer-obsessed product thinking
+- Ability to prioritize impact and execution speed
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Describe something impressive you've built or done so far in your life.
+
+One of the most impressive things I’ve built so far is a research-driven AI and UX project focused on real-time human-AI co-creation and cognitive-load-aware design assistance, which was accepted as a poster presentation at the HCI International Conference (HCII 2026) and published through Springer CCIS. The project explored how AI can dynamically adapt interface behaviors and design recommendations based on user cognitive load, interaction patterns, and workflow context to improve usability and decision-making efficiency.
+
+What made the experience especially meaningful was combining UX design, AI-assisted workflows, and human-centered research into a scalable system that balanced technical complexity with intuitive interaction design. Building something at the intersection of emerging technology and real-world usability reinforced my passion for designing products that feel intelligent, fast, and genuinely helpful for users.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong emphasis on speed, ownership, and rapid product iteration
+- Opportunity to work directly with founders in an early-stage AI startup
+- Focus on AI-native product experiences and future-of-work tooling
+- In-person high-growth startup environment in San Francisco
+
+Success Indicators:
+- Fast shipping and rapid iteration of high-quality product experiences
+- Strong contribution to product strategy and UX direction
+- Scalable and intuitive AI-powered workflows
+- Effective collaboration across product, engineering, and leadership
+- Improved customer usability and workflow efficiency
+`,
+  resumeFile: "Ivo_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
 ];
