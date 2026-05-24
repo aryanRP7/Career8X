@@ -2721,6 +2721,855 @@ Success Indicators:
   coverLetterFile: ""
 },
 
+{
+  id: 58,
+  companyName: "Abacus Business Computer",
+  jobTitle: "Product Manager",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$75,000 - $120,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=791eb00d60e8e62b&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Product Manager role focused on leading next-generation POS product experiences across hardware and software platforms, combining product strategy, UX/UI design, operational workflows, and customer-centered product delivery.
+
+Key Responsibilities:
+- Own the end-to-end product lifecycle from ideation to launch
+- Define product strategy, roadmap priorities, and customer-driven solutions
+- Create PRDs, use cases, and product documentation
+- Lead UX/UI design workflows across POS terminals, mobile apps, and dashboards
+- Create wireframes, prototypes, and high-fidelity product experiences
+- Simplify complex operational workflows into intuitive user journeys
+- Collaborate with engineering teams across the US and China
+- Coordinate with QA, support, marketing, and sales teams
+- Conduct user research and gather customer insights
+- Support go-to-market strategy and product positioning
+
+Domain Focus:
+- POS systems and operational workflows
+- Hospitality, restaurant, and retail technology
+- Enterprise SaaS and customer engagement platforms
+- Hardware and software integrated product ecosystems
+
+Key Requirements:
+- 3+ years of product management or product design experience
+- Strong UX/UI and product strategy expertise
+- Experience managing products through full development lifecycle
+- Expertise in Figma, Sketch, or Adobe XD
+- Strong cross-functional collaboration and communication skills
+- Ability to thrive in fast-paced startup-like environments
+- Fluent in English and Mandarin Chinese preferred
+
+Design & Technical Skills:
+- Product strategy and roadmap planning
+- PRDs and implementation-ready documentation
+- Figma, Sketch, Adobe XD
+- UX/UI design and workflow optimization
+- Design systems and scalable UI frameworks
+- Operational workflow analysis
+- Customer research and usability optimization
+- Cross-platform product experiences
+
+Preferred Skills:
+- Experience with POS systems or hospitality products
+- Understanding of software development workflows
+- Startup or high-growth company experience
+- Strong operational and customer-centered thinking
+
+Soft Skills:
+- Strong ownership and product thinking mindset
+- Excellent cross-functional communication
+- Ability to balance business goals with user needs
+- Fast-paced problem-solving and prioritization skills
+- Collaborative stakeholder management
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional product experiences happen when complex operational workflows become intuitive, efficient, and genuinely customer-centered. Designing scalable products that balance usability, business impact, and rapid execution is what excites me most about the Product Manager opportunity at Abacus Business Computer.
+
+With 2+ years of experience leading UX-driven digital products and workflow-focused platform experiences, I have built wireframes, prototypes, PRDs, scalable design systems, and implementation-ready product documentation supporting customer engagement and operational efficiency across web and mobile platforms. My experience collaborating with engineering, QA, marketing, and cross-functional teams aligns closely with abcPOS’s fast-paced product environment.
+
+At CX by Design and Lighthouse Info System, I contributed to end-to-end product workflows, customer research initiatives, usability optimization, and scalable operational systems while refining interaction patterns and product delivery processes. I also bring strong expertise in Figma, product strategy, UX/UI design, workflow optimization, and customer-focused product thinking supporting scalable business growth.
+
+What especially draws me to abcPOS is the opportunity to shape next-generation POS experiences that directly improve how businesses operate and engage with customers.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with operational workflow optimization and customer-centered product strategy
+- Experience with UX-driven product management workflows
+- Focus on scalable POS and enterprise product systems
+- Collaborative environment involving engineering, QA, sales, and marketing teams
+
+Success Indicators:
+- Intuitive and scalable POS product experiences
+- Strong alignment between business goals and customer workflows
+- Efficient product lifecycle execution and roadmap planning
+- Improved operational usability and workflow efficiency
+- Effective cross-functional collaboration and product delivery
+`,
+  resumeFile: "Abacus_Product_Manager_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 
 
+{
+  id: 59,
+  companyName: "CallRail",
+  jobTitle: "Design Systems Designer",
+  location: "Atlanta, GA",
+  workMode: "Hybrid",
+  workExperience: "2-5 years",
+  payRange: "Not specified",
+  applyLink: "https://job-boards.greenhouse.io/callrail/jobs/7954525",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Design Systems Designer role focused on building, maintaining, documenting, and scaling reusable design system components across web and mobile platforms while improving consistency, usability, and scalable product workflows.
+
+Key Responsibilities:
+- Build and maintain Figma components using established design system standards
+- Create variants, states, properties, and scalable component libraries
+- Apply design tokens consistently across systems
+- Translate design system standards into clear documentation and usage guidance
+- Conduct design QA and identify inconsistencies across product experiences
+- Support migration from legacy patterns to scalable design system components
+- Collaborate with designers and engineers on implementation workflows
+- Audit product interfaces and improve system standardization
+- Support AI-assisted prototyping workflows and scalable design operations
+
+Domain Focus:
+- Design systems and scalable component libraries
+- Product consistency across web and mobile platforms
+- Design QA and system standardization
+- AI-assisted prototyping and workflow optimization
+
+Key Requirements:
+- 2-5 years of product design or related experience
+- Strong expertise in Figma components, variants, properties, and auto layout
+- Experience with component-based design systems and design libraries
+- Strong attention to visual and interaction consistency
+- Ability to work within established design standards
+- Collaborative experience with designers and engineers
+- Familiarity with developer handoff and front-end constraints
+
+Design & Technical Skills:
+- Figma variants and auto layout
+- Design systems and reusable component libraries
+- Design tokens and scalable UI systems
+- Design QA and interface audits
+- Developer handoff workflows
+- AI-assisted prototyping systems
+- Documentation and workflow standardization
+- Responsive web and mobile design systems
+
+Preferred Skills:
+- Exposure to token-based design systems
+- Experience scaling design operations
+- Interest in AI-assisted workflows
+- System migration and standardization experience
+
+Soft Skills:
+- Strong attention to detail and consistency
+- Collaborative and responsive communication
+- Structured and systems-oriented thinking
+- Ability to execute defined patterns accurately
+- Process improvement and workflow optimization mindset
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional product experiences scale when every component, interaction, and workflow feels consistent, intuitive, and effortless across platforms. Building scalable design systems that improve product quality, accelerate workflows, and support long-term product evolution is what excites me most about the Design Systems Designer opportunity at CallRail.
+
+With 2+ years of experience contributing to reusable component systems, scalable Figma libraries, and implementation-ready design documentation, I have supported cross-functional teams in improving consistency, usability, and workflow efficiency across responsive digital products. My experience aligns closely with CallRail’s focus on component architecture, design QA, token-based systems, and scalable prototyping workflows.
+
+At CX by Design and Lighthouse Info System, I built reusable Figma components, scalable interaction systems, and design documentation while supporting interface audits, workflow standardization, and developer collaboration across product ecosystems. I also bring strong expertise in Figma variants, auto layout, design tokens, design QA, AI-assisted prototyping workflows, and scalable design operations.
+
+What especially draws me to CallRail is the opportunity to help evolve a mature design system that supports both current product needs and future scalability.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with scalable design systems and component architecture
+- Focus on workflow standardization and product consistency
+- Experience supporting developer collaboration and design QA
+- Interest in AI-assisted prototyping and scalable design operations
+
+Success Indicators:
+- Consistent and scalable component-based product experiences
+- Improved adoption of design system standards
+- Effective migration from legacy UI patterns
+- Strong collaboration across design and engineering teams
+- Efficient documentation and reusable workflow systems
+`,
+  resumeFile: "CallRail_Design_Systems_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 60,
+  companyName: "WDG",
+  jobTitle: "Designer (Retail Merchandise)",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "3+ years preferred",
+  payRange: "Not specified",
+  applyLink: "",
+  myNotes: `
+How many years of Graphic design experience do you have?
+2
+
+How many years of Adobe Creative Suite experience do you have?
+2
+
+How many years of Adobe Illustrator experience do you have?
+2
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Graphic/Product Designer role focused on designing retail merchandise, museum gift products, repeat patterns, and branded retail experiences inspired by art, culture, and storytelling.
+
+Key Responsibilities:
+- Develop product designs and repeat patterns inspired by famous works of art
+- Create tech packs and production-ready files for overseas factories
+- Work with Pantone color guides and production color systems
+- Review lab dips and production samples from manufacturing partners
+- Prepare artwork and presentation assets for client reviews
+- Participate in brainstorming and product ideation sessions
+- Collaborate directly with business leadership and stakeholders
+- Design using Adobe Illustrator and Photoshop
+- Support multiple retail and product development projects simultaneously
+
+Domain Focus:
+- Museum gift shop merchandise
+- Retail and consumer product design
+- Fashion and private label product systems
+- Corporate gift and premium retail products
+- Art-inspired merchandise and storytelling
+
+Key Requirements:
+- Bachelor’s Degree in art or related field
+- Strong Adobe Illustrator and Photoshop expertise
+- Experience preparing production-ready artwork and tech packs
+- Strong understanding of color systems and Pantone workflows
+- Ability to multitask across multiple client projects
+- Strong organization and communication skills
+- Retail and product design experience preferred
+
+Design & Technical Skills:
+- Adobe Illustrator and Photoshop
+- Pantone color systems
+- Repeat pattern and merchandise design
+- Production-ready files and tech packs
+- Presentation and visual storytelling assets
+- Product visualization workflows
+- Retail branding and packaging systems
+- 3D CAD and AI exposure (plus)
+
+Preferred Skills:
+- Museum or retail merchandise experience
+- Product development workflow understanding
+- Overseas production coordination
+- Fashion or private label product design
+
+Soft Skills:
+- Strong creative and color sensibility
+- Excellent organization and multitasking abilities
+- Collaborative brainstorming mindset
+- Strong verbal and written communication skills
+- Attention to detail and production accuracy
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Strong retail products succeed when artistic storytelling, production precision, and visually compelling design come together to create memorable customer experiences. Designing scalable merchandise and branded product systems that transform creative concepts into production-ready retail products is what excites me most about the Graphic/Product Designer opportunity at WDG.
+
+With 2+ years of experience developing branded visual systems, repeat patterns, presentation assets, and production-ready artwork, I have contributed to projects requiring strong attention to detail, fast-paced collaboration, and multi-client coordination. My experience creating scalable graphics, tech-pack-ready assets, and presentation systems aligns closely with WDG’s product development and retail-focused environment.
+
+At CX by Design and Lighthouse Info System, I designed repeat patterns, branded product concepts, visual assets, and scalable presentation materials while collaborating with stakeholders to refine product direction, artwork consistency, and production workflows. I also bring strong expertise in Adobe Illustrator, Photoshop, Pantone color systems, production files, and presentation-ready design execution.
+
+What especially draws me to WDG is the opportunity to create visually rich merchandise inspired by art, culture, and storytelling across diverse retail products.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with art-inspired retail merchandise and product storytelling
+- Experience supporting production-ready design workflows
+- Focus on scalable presentation systems and branded retail assets
+- Opportunity to contribute across museum, fashion, and corporate product lines
+
+Success Indicators:
+- High-quality and visually compelling merchandise concepts
+- Strong consistency across production and presentation assets
+- Effective collaboration across product development workflows
+- Production-ready files optimized for overseas manufacturing
+- Engaging retail products inspired by art and storytelling
+`,
+  resumeFile: "WDG_Graphic_ProductDesigner_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 61,
+  companyName: "The Children's Place",
+  jobTitle: "Associate Designer, Baby",
+  location: "Secaucus, NJ",
+  workMode: "On-site",
+  workExperience: "0-3 years",
+  payRange: "$50,000 - $125,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=ed19d746a91f0e5e&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Associate Designer role focused on supporting the end-to-end baby apparel design process from concept development through final prototype execution while maintaining brand consistency, seasonal storytelling, and product quality.
+
+Key Responsibilities:
+- Support the design process under direction of senior designers
+- Create freehand sketches and Adobe Illustrator design concepts
+- Develop and maintain seasonal assortment boards
+- Color, detail, and update product lines
+- Create and maintain sampling sheets and detail packages
+- Support fittings and product execution workflows
+- Conduct trend research and category analysis
+- Maintain design development trackers and documentation
+- Collaborate with design and cross-functional teams to ensure alignment with brand vision
+
+Domain Focus:
+- Baby apparel and children’s fashion
+- Seasonal retail product design
+- Trend research and assortment development
+- Product sampling and production workflows
+
+Key Requirements:
+- Bachelor’s degree in design or related field
+- 0-3 years of design experience
+- Strong Adobe Illustrator and Photoshop skills
+- Ability to understand and execute design direction
+- Strong communication and organization abilities
+- Ability to manage multiple priorities and deadlines
+- Team-oriented collaborative mindset
+
+Design & Technical Skills:
+- Adobe Illustrator and Photoshop
+- Seasonal assortment boards
+- Apparel sketching and concept development
+- Sampling sheets and production packages
+- Trend research and category reviews
+- Product detailing and color systems
+- Microsoft Office and design documentation
+
+Preferred Skills:
+- Apparel or retail product design experience
+- Fashion trend analysis and storytelling
+- Product development workflow understanding
+- Collaborative retail design environment experience
+
+Soft Skills:
+- Strong organization and prioritization skills
+- Attention to detail and production accuracy
+- Collaborative communication abilities
+- Strong listening and problem-solving mindset
+- Ability to adapt quickly within fast-paced retail workflows
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with retail apparel and seasonal product workflows
+- Opportunity to contribute to baby apparel collections and product storytelling
+- Collaborative design environment focused on brand consistency
+- Hands-on involvement across concept, sampling, and production processes
+
+Success Indicators:
+- High-quality seasonal apparel concepts and design execution
+- Accurate and production-ready sampling packages
+- Strong collaboration across design and production teams
+- Effective trend research and category support
+- Consistent alignment with The Children’s Place brand identity
+`,
+  resumeFile: "Childrens_Associate_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: "Childrens_Cover_Letter_Falguni_Dekate.pdf"
+},
+
+{
+  id: 62,
+  companyName: "LexisNexis",
+  jobTitle: "UX Researcher II",
+  location: "New York, NY",
+  workMode: "Hybrid",
+  workExperience: "2+ years",
+  payRange: "$85,900 - $143,300",
+  applyLink: "",
+  myNotes: `
+I will require future employer sponsorship for a work visa (such as H-1B) to continue employment in the U.S. after my OPT work authorization period ends.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+UX Researcher II role focused on conducting qualitative and quantitative research for AI-powered legal product experiences, uncovering workflow pain points, and translating research insights into actionable product and design decisions.
+
+Key Responsibilities:
+- Plan and conduct qualitative and quantitative user research studies
+- Perform usability testing, interviews, surveys, diary studies, and workflow analysis
+- Conduct rapid discovery and evaluative research for AI-powered products
+- Engage directly with legal professionals and customers to understand workflows and challenges
+- Synthesize research findings into actionable insights and recommendations
+- Collaborate with product managers, designers, and engineers on iterative product improvements
+- Communicate research findings clearly to influence product decisions
+- Utilize AI-assisted tools for research planning, synthesis, and analysis
+- Support iterative validation and product optimization workflows
+
+Domain Focus:
+- AI-powered legal and enterprise products
+- User research and workflow analysis
+- Enterprise SaaS and professional productivity systems
+- Human-centered AI experiences
+
+Key Requirements:
+- Experience with qualitative and quantitative UX research methodologies
+- Ability to independently lead research projects
+- Experience synthesizing behavioral and usability insights
+- Familiarity with research and survey platforms
+- Experience with Generative AI and AI-enabled product experiences
+- Strong communication, analytical, and organizational skills
+- Ability to work within fast-paced iterative product environments
+
+Research & Technical Skills:
+- Usability testing and user interviews
+- Workflow analysis and evaluative research
+- Dovetail, Qualtrics, SurveyMonkey
+- Research synthesis and insight communication
+- AI-assisted research workflows
+- Behavioral analysis and product validation
+- UX documentation and stakeholder presentations
+- Iterative product research and optimization
+
+Preferred Skills:
+- Enterprise or legal-tech product research experience
+- AI-assisted workflow understanding
+- Customer-centered product optimization
+- Cross-functional product collaboration
+
+Soft Skills:
+- Strong analytical and problem-solving mindset
+- Clear communication and storytelling abilities
+- Collaborative cross-functional partnership skills
+- Strong organization and research planning
+- Curiosity-driven and human-centered thinking
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional AI-powered products succeed when deep user understanding translates into clear, actionable product decisions. Conducting research that uncovers complex workflows, behavioral patterns, and usability challenges to improve human-centered experiences is what excites me most about the UX Researcher II opportunity at LexisNexis.
+
+With 2+ years of experience supporting qualitative and quantitative UX research initiatives, I have conducted usability testing, user interviews, workflow analysis, rapid discovery research, and evaluative studies across enterprise and AI-assisted product environments. My experience synthesizing behavioral insights into actionable recommendations aligns closely with LexisNexis’s focus on AI-enabled legal product experiences and customer-centered innovation.
+
+At CX by Design and Lighthouse Info System, I collaborated with product managers, designers, and engineers to improve usability, workflow efficiency, and interaction quality through research-informed decision-making and iterative validation. I also bring strong expertise in Dovetail, Qualtrics, usability research methodologies, AI-assisted synthesis workflows, and insight communication supporting scalable product development.
+
+What especially draws me to LexisNexis is the opportunity to shape AI-powered experiences that meaningfully improve how professionals interact with complex information and workflows.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with AI-powered enterprise research environments
+- Focus on human-centered and workflow-driven product research
+- Experience supporting iterative and fast-paced product development
+- Strong interest in AI-enabled professional productivity systems
+
+Success Indicators:
+- Actionable research insights driving product improvements
+- Improved usability and workflow efficiency across AI-powered platforms
+- Strong collaboration between research, design, and engineering teams
+- Effective communication of behavioral and usability findings
+- Research-informed validation of scalable product experiences
+`,
+  resumeFile: "LexisNexis_UX_Researcher_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 63,
+  companyName: "AKA NYC Limited",
+  jobTitle: "Designer",
+  location: "New York, NY",
+  workMode: "Hybrid",
+  workExperience: "1-3 years",
+  payRange: "$55,000 - $75,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=0aed834d8f1e15ba&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Designer role focused on creating visually compelling entertainment and culture-driven campaigns across digital, social, print, experiential, and motion-based platforms for theater, arts, attractions, and live experiences.
+
+Key Responsibilities:
+- Develop campaign-focused visual design solutions across multiple clients and platforms
+- Collaborate with Creative Directors and Art Directors on campaign execution
+- Design assets for digital, social, print, experiential, and motion channels
+- Support concept development and brainstorming initiatives
+- Collaborate with strategy, media, production, and client services teams
+- Prepare organized and production-ready creative files
+- Maintain strong visual consistency across campaigns and brand systems
+- Manage multiple projects simultaneously in fast-paced agency workflows
+
+Domain Focus:
+- Entertainment and live experience marketing
+- Theater, arts, and culture campaigns
+- Cross-platform advertising and visual storytelling
+- Audience engagement and branded campaign systems
+
+Key Requirements:
+- 1-3 years of design experience in agency, entertainment, or media environments
+- Strong portfolio demonstrating branding, typography, and campaign execution
+- Expertise in Adobe Creative Suite
+- Understanding of visual storytelling and audience engagement
+- Ability to manage multiple projects and deadlines
+- Strong communication and collaboration abilities
+- Passion for entertainment, theater, and culture-driven experiences
+
+Design & Technical Skills:
+- Adobe Photoshop, Illustrator, and InDesign
+- Figma and presentation design workflows
+- Branding and campaign development
+- Typography and visual hierarchy
+- Production-ready creative systems
+- Multi-platform asset development
+- Motion design familiarity
+- Organized workflow and file management systems
+
+Preferred Skills:
+- After Effects and motion design exposure
+- Familiarity with project management platforms like Asana
+- Experience with experiential and entertainment marketing campaigns
+- Strong audience-centered storytelling approach
+
+Soft Skills:
+- Strong collaborative and creative mindset
+- Excellent organization and multitasking abilities
+- Attention to detail and production quality
+- Fast-paced creative problem-solving
+- Strong communication across cross-functional teams
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great entertainment campaigns do more than promote experiences. They create emotional connections that audiences remember long after the curtain closes. Designing visually compelling, story-driven campaigns across digital, social, print, and experiential platforms is what excites me most about the Designer opportunity at AKA NYC.
+
+With 2+ years of experience developing branded visual systems, campaign assets, and audience-centered creative experiences, I have contributed to fast-paced projects requiring strong visual storytelling, typography, and multi-platform execution. My background creating scalable campaign assets, presentation systems, and production-ready creative aligns closely with AKA’s entertainment and culture-focused work.
+
+At CX by Design and Lighthouse Info System, I collaborated with cross-functional teams, designers, and stakeholders to build cohesive visual campaigns, social assets, branded presentations, and high-fidelity creative systems supporting audience engagement and campaign consistency. I also bring strong expertise in Adobe Creative Suite, Illustrator, Photoshop, InDesign, Figma, and organized production workflows supporting high-quality creative execution.
+
+What especially draws me to AKA NYC is the opportunity to contribute design work that connects audiences with memorable live experiences, storytelling, and culture-driven campaigns.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with entertainment and culture-focused visual storytelling
+- Experience supporting multi-platform campaign execution
+- Focus on audience engagement and branded creative systems
+- Collaborative agency-style workflow environment
+
+Success Indicators:
+- Visually compelling and emotionally engaging campaigns
+- Strong consistency across multi-platform creative assets
+- Effective collaboration across creative and strategy teams
+- High-quality production-ready campaign systems
+- Memorable audience-centered storytelling experiences
+`,
+  resumeFile: "AKA_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 64,
+  companyName: "American Immersion Theater",
+  jobTitle: "Creative Experience Designer",
+  location: "Grand Rapids, MI",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$45,000 - $52,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=008d90c463c560c7&from=shareddesktop_copy",
+  myNotes: `
+How many years of Adobe Creative Cloud experience do you have?
+3
+
+How many years of professional experience in graphic design experience do you have?
+3
+
+How many years of Figma experience do you have?
+3
+
+How many years of Klaviyo or similar B2C CMS Platform experience do you have?
+3
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Creative Experience Designer role focused on combining graphic design, UX/UI design, digital marketing, branding, and immersive storytelling to create audience-centered experiences across digital and print platforms.
+
+Key Responsibilities:
+- Design digital and print marketing materials including signage, advertisements, event collateral, merchandise, and branded assets
+- Create landing pages, website mockups, and responsive web experiences
+- Develop UX wireframes, user flows, and scalable digital experiences
+- Design and execute email marketing campaigns within Klaviyo
+- Support campaign strategy, audience engagement, and conversion optimization
+- Conduct A/B testing and iterative UX improvements
+- Maintain visual consistency across campaigns and brand platforms
+- Create motion graphics and multimedia assets
+- Organize and manage creative asset systems and templates
+- Collaborate cross-functionally with leadership, developers, marketers, and stakeholders
+- Manage multiple projects simultaneously within fast-paced workflows
+
+Domain Focus:
+- Immersive entertainment and audience experiences
+- Digital marketing and campaign systems
+- UX/UI and responsive web experiences
+- Brand storytelling and engagement-driven design
+
+Key Requirements:
+- 3+ years of experience in graphic design, UX/UI, or digital marketing design
+- Strong portfolio demonstrating visual and UX/UI work
+- Strong understanding of typography, branding, layout, and user-centered design
+- Experience designing across digital and print mediums
+- Ability to balance creativity, usability, and business goals
+- Strong communication and project management skills
+- Ability to work independently and collaboratively
+
+Design & Technical Skills:
+- Adobe Creative Cloud (Photoshop, Illustrator, InDesign, After Effects)
+- Figma and responsive UX workflows
+- Klaviyo and B2C CMS campaign systems
+- Motion graphics and multimedia asset creation
+- Landing pages and web mockups
+- AI-assisted workflow optimization
+- Branding and visual storytelling systems
+- A/B testing and conversion optimization workflows
+
+Preferred Skills:
+- WordPress and Canva
+- Google Workspace and Sheets
+- Asana or project management systems
+- Cross-platform campaign strategy
+- Digital asset management workflows
+
+Soft Skills:
+- Strong storytelling and creative thinking
+- Excellent organization and multitasking abilities
+- Collaborative cross-functional communication
+- Ability to manage fast-paced creative workflows
+- Audience-centered and emotionally driven design mindset
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Memorable immersive experiences happen when storytelling, design, and audience interaction come together to create emotional connections people never forget. Designing visually engaging campaigns and user-centered experiences that transform digital and physical touchpoints into immersive brand moments is what excites me most about the Creative Experience Designer opportunity at American Immersion Theater.
+
+With 2+ years of experience developing multi-platform campaigns, UX/UI systems, digital marketing assets, and audience-focused visual experiences, I have contributed to projects requiring strong creative storytelling, responsive design thinking, and fast-paced collaboration. My experience creating landing pages, campaign visuals, motion-aware assets, and scalable design systems aligns closely with your focus on immersive entertainment and audience engagement.
+
+At CX by Design and Lighthouse Info System, I collaborated with marketers, developers, and cross-functional teams to build cohesive digital experiences, branded campaigns, UX wireframes, and production-ready assets supporting engagement and conversion optimization. I also bring strong expertise in Adobe Creative Cloud, Figma, motion graphics, AI-assisted workflows, responsive web experiences, and creative asset management.
+
+What especially draws me to American Immersion Theater is the opportunity to create experiences that make audiences feel like active participants in unforgettable stories.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with immersive storytelling and audience-centered campaign design
+- Experience supporting UX/UI, branding, and digital marketing workflows
+- Focus on emotionally engaging multi-platform experiences
+- Collaborative environment combining entertainment, marketing, and UX design
+
+Success Indicators:
+- Highly engaging and visually compelling audience experiences
+- Strong consistency across digital and print campaigns
+- Effective collaboration across creative, marketing, and development teams
+- Improved campaign engagement and conversion performance
+- Scalable and organized creative asset systems
+`,
+  resumeFile: "American_Immersion_Creative_Experience_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 65,
+  companyName: "Automated Building Control Solutions",
+  jobTitle: "User Interface Designer for HVAC Systems",
+  location: "San Jose, CA",
+  workMode: "On-site",
+  workExperience: "Entry Level",
+  payRange: "$45,000 - $55,000",
+  applyLink: "",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+User Interface Designer role focused on creating intuitive graphical user interfaces and operational dashboards for HVAC building automation systems, improving system visibility, workflow efficiency, and real-time operational monitoring.
+
+Key Responsibilities:
+- Design and develop graphical user interface screens for HVAC systems
+- Create operational dashboards using Tridium Niagara, Adobe Photoshop, and Microsoft Visio
+- Ensure interfaces accurately reflect real-time system data and functionality
+- Collaborate with internal teams to refine graphical displays and workflows
+- Support system setup tasks including point naming, data trending, and alarm configuration
+- Contribute to deployment coordination across project phases
+- Develop scalable and visually consistent interface systems for BMS operations
+
+Domain Focus:
+- HVAC building automation systems
+- Building Management Systems (BMS)
+- Operational dashboards and workflow visualization
+- Real-time system monitoring interfaces
+
+Key Requirements:
+- Strong proficiency with Adobe Photoshop and Microsoft Visio
+- Understanding of interface hierarchy and workflow visualization
+- Familiarity with HVAC automation and BMS workflows
+- Ability to collaborate with engineering and operations teams
+- Strong organizational and communication skills
+- Interest in operational and technical interface systems
+
+Design & Technical Skills:
+- Adobe Photoshop
+- Microsoft Visio
+- Tridium Niagara workflows
+- Operational dashboard design
+- Workflow visualization systems
+- Interface documentation and graphical layouts
+- Data visualization and alarm systems
+- AI-assisted workflow optimization
+
+Preferred Skills:
+- Experience with Distech and Facility Explorer platforms
+- Familiarity with HVAC control environments
+- Building automation workflow understanding
+- Operational system visualization experience
+
+Soft Skills:
+- Strong analytical and workflow-oriented mindset
+- Collaborative communication abilities
+- Attention to detail and operational consistency
+- Ability to work in fast-paced technical environments
+- Problem-solving and usability-focused thinking
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Effective HVAC automation interfaces succeed when complex operational data is transformed into intuitive, real-time visual experiences that improve system visibility, usability, and workflow efficiency. Designing responsive operational dashboards and graphical control systems that simplify technical workflows is what excites me most about the User Interface Designer opportunity at Automated Building Control Solutions.
+
+With 2+ years of experience developing operational interfaces, workflow-driven dashboards, and responsive visualization systems, I have contributed to projects requiring strong interface hierarchy, graphical consistency, and user-centered workflow optimization. My experience creating scalable UI systems, operational layouts, and implementation-ready graphical assets aligns closely with your focus on HVAC control visualization and BMS operations.
+
+At Lighthouse Info System and CX by Design, I collaborated with engineering teams and stakeholders to build responsive interface systems, operational dashboards, workflow visualizations, and scalable graphical layouts improving system usability and deployment readiness. I also bring strong expertise in Adobe Photoshop, Microsoft Visio, interface documentation, operational workflow analysis, and AI-assisted design workflows supporting scalable technical environments.
+
+What especially draws me to Automated Building Control Solutions is the opportunity to contribute intuitive interface systems that improve how teams monitor and interact with critical building automation operations.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with operational dashboard and workflow visualization systems
+- Experience supporting scalable technical and enterprise interface environments
+- Focus on real-time usability and system visibility optimization
+- Collaborative environment involving engineering and operations workflows
+
+Success Indicators:
+- Intuitive and scalable HVAC graphical interface systems
+- Improved operational visibility and workflow efficiency
+- Strong consistency across dashboard and monitoring interfaces
+- Effective collaboration across technical deployment teams
+- Reliable and user-friendly BMS interaction experiences
+`,
+  resumeFile: "HVAC_User_Interface_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
