@@ -3572,4 +3572,238 @@ Success Indicators:
   resumeFile: "HVAC_User_Interface_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+
+{
+  id: 66,
+  companyName: "Applied Intuition",
+  jobTitle: "Brand Designer",
+  location: "Sunnyvale, CA",
+  workMode: "On-site",
+  workExperience: "1-3 years",
+  payRange: "$120,000 - $160,000",
+  applyLink: "https://job-boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Brand Designer role focused on shaping and scaling visual brand systems across digital, print, web, mobile, and experiential platforms for advanced AI and autonomous technology products.
+
+Key Responsibilities:
+- Evolve and maintain scalable visual brand guidelines
+- Create digital assets for websites, social campaigns, email marketing, presentations, and reports
+- Design iconography, illustrations, infographics, and interactive brand elements
+- Develop visuals for physical environments including trade show booths, signage, and print collateral
+- Collaborate with marketing, product, and engineering teams on visual storytelling initiatives
+- Refine designs based on stakeholder feedback and campaign goals
+- Maintain organized libraries of reusable visual assets
+- Stay updated on modern design trends, workflows, and technologies
+
+Domain Focus:
+- AI and autonomous technology branding
+- Cross-platform visual communication systems
+- Digital and physical brand experiences
+- Technology-focused storytelling and campaign design
+
+Key Requirements:
+- 1-3 years of Brand or Production Design experience
+- Strong portfolio demonstrating digital and print design expertise
+- Strong typography, color theory, layout, and visual storytelling skills
+- Experience designing for web and mobile platforms
+- Understanding of UI/UX principles
+- Ability to create print-ready production files
+- Strong communication and collaboration abilities
+- Ability to manage multiple fast-paced projects simultaneously
+
+Design & Technical Skills:
+- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Figma and Sketch
+- Branding and scalable visual systems
+- Website and social campaign design
+- Presentation systems and infographic design
+- Print-ready production workflows
+- Motion-aware graphics and visual storytelling
+- AI-assisted design workflows
+
+Preferred Skills:
+- After Effects or Premiere Pro familiarity
+- Interest in autonomous systems, robotics, or AI technologies
+- Physical space and experiential design exposure
+- Cross-platform campaign development
+
+Soft Skills:
+- Strong creative storytelling mindset
+- Collaborative communication and presentation abilities
+- High attention to visual consistency and detail
+- Fast-paced project management skills
+- Curiosity-driven and innovation-focused thinking
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional technology brands succeed when complex innovation is translated into clear, compelling visual experiences that audiences instantly understand and trust. Building scalable brand systems and visually engaging storytelling that connects advanced technology with real-world impact is what excites me most about the Brand Designer opportunity at Applied Intuition.
+
+With 2+ years of experience developing digital campaigns, scalable visual systems, and customer-facing brand experiences across web, mobile, print, and experiential platforms, I have contributed to projects requiring strong visual consistency, responsive design thinking, and fast-paced creative execution. My experience creating website visuals, social campaigns, presentation systems, infographics, and production-ready assets aligns closely with Applied Intuition’s focus on impactful technology storytelling.
+
+At CX by Design and Lighthouse Info System, I collaborated with marketing, engineering, and cross-functional teams to develop cohesive visual identities, scalable campaign systems, and audience-centered creative experiences supporting engagement and implementation consistency. I also bring strong expertise in Adobe Creative Suite, Figma, motion-aware graphics, AI-assisted workflows, and UI/UX-aware design principles supporting innovation-driven environments.
+
+What especially draws me to Applied Intuition is the opportunity to shape visual experiences that help define the future of intelligent technology and autonomy.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with technology-focused brand storytelling and scalable visual systems
+- Experience supporting cross-platform campaign execution and digital experiences
+- Focus on innovation-driven and AI-centered visual communication
+- Collaborative environment involving marketing, engineering, and product teams
+
+Success Indicators:
+- Clear and compelling visual representation of complex technologies
+- Strong consistency across digital and physical brand touchpoints
+- Effective collaboration across cross-functional creative workflows
+- High-quality production-ready and scalable design systems
+- Visually engaging campaigns supporting audience trust and engagement
+`,
+  resumeFile: "Applied_Intuition_Brand_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 67,
+  companyName: "Acushnet Golf",
+  jobTitle: "Senior Associate Product Designer | Titleist",
+  location: "New Bedford, MA",
+  workMode: "On-site",
+  workExperience: "1-3 years",
+  payRange: "$78,831 - $98,486",
+  applyLink: "https://www.indeed.com/viewjob?jk=3ead61b3aa71f7c0&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Senior Associate Product Designer role focused on developing performance-driven golf and travel gear products through concept development, 2D/3D CAD workflows, prototyping, material exploration, and cross-functional product commercialization.
+
+Key Responsibilities:
+- Support the design and refinement of new golf and travel gear product concepts
+- Create 2D and 3D CAD models, prototype systems, and commercialization-ready assets
+- Collaborate with Design Managers, Senior Designers, engineers, and vendors
+- Participate in product critiques, prototyping reviews, and concept iterations
+- Translate form, function, and brand intent into viable product solutions
+- Support IP development, material research, and product storytelling
+- Contribute to design documentation and product calendar management
+- Participate in vendor engagement and cross-functional development workflows
+- Support hands-on prototyping, fabrication, and model-making processes
+
+Domain Focus:
+- Golf gear and travel product systems
+- Industrial and product design workflows
+- Performance-focused consumer products
+- Material innovation and commercialization
+
+Key Requirements:
+- Bachelor’s degree in Industrial Design, Product Design, or related field
+- 1-3 years of product design experience
+- Proficiency in Adobe Creative Suite and 3D CAD software
+- Experience with prototyping and hands-on fabrication workflows
+- Strong understanding of materials, construction methods, and design processes
+- Strong project timeline and milestone management skills
+- Excellent collaboration and presentation abilities
+- Passion for golf, travel gear, and product craftsmanship
+
+Design & Technical Skills:
+- SolidWorks and Fusion 360
+- Adobe Creative Suite
+- 2D/3D CAD modeling workflows
+- Product concept sketching and rendering
+- Prototype fabrication and model making
+- Commercialization-focused design systems
+- Product documentation and workflow management
+- AI-assisted design workflows
+
+Preferred Skills:
+- Golf or travel gear product familiarity
+- PLM workflow understanding
+- Vendor collaboration and manufacturing exposure
+- Material and construction innovation workflows
+
+Soft Skills:
+- Strong craftsmanship and detail-oriented mindset
+- Collaborative and team-focused communication
+- Strong organization and milestone management
+- Rapid problem-solving and iteration abilities
+- Passion for how products are built and refined
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Can you walk us through a product you’ve designed from initial concept to prototype? How did you use CAD tools, hands-on prototyping, and feedback from cross-functional partners to refine the design and meet project timelines?
+
+During a product workflow project at Lighthouse Info System, I contributed to designing a responsive operational dashboard system from initial concept through prototype validation and implementation refinement. I began by sketching early interface concepts and building scalable wireframes before translating them into high-fidelity 2D and prototype-ready systems using Figma, SolidWorks concepts, and visualization workflows to validate usability and interaction hierarchy.
+
+Throughout the process, I collaborated closely with engineers, stakeholders, and developers during iterative sprint reviews to gather usability feedback, refine workflows, improve interface responsiveness, and optimize implementation feasibility. By rapidly iterating prototypes, organizing design documentation, and maintaining clear milestone tracking, the team was able to deliver a more scalable and user-centered operational experience within project timelines.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+How do you incorporate knowledge of materials, construction, and market trends—particularly within golf or travel gear—into your design work? Can you share an example of how collaboration with developers, suppliers, or international partners improved the final product?
+
+I approach product design by balancing aesthetics, usability, construction feasibility, and evolving market expectations to ensure products feel both functional and visually compelling. I regularly study consumer product trends, material finishes, portability systems, and premium product presentation approaches—especially within performance-driven and lifestyle-oriented categories like travel gear and sports accessories—to better understand how users interact with products physically and emotionally.
+
+During collaborative product development projects at CX by Design and Lighthouse Info System, I worked closely with developers and cross-functional stakeholders to refine interface systems, improve usability consistency, and align implementation details with technical constraints and business goals. Through iterative collaboration, prototype reviews, and workflow refinements, we improved production readiness, reduced implementation friction, and delivered more polished user-centered experiences aligned with stakeholder expectations and project timelines.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great product design transforms performance-driven ideas into intuitive, functional experiences that customers trust and connect with instantly. Designing innovative product systems that balance usability, craftsmanship, and visual storytelling is what excites me most about the Senior Associate Product Designer opportunity at Acushnet.
+
+With 2+ years of experience developing product concepts, prototype-ready systems, and scalable design workflows, I have contributed to projects requiring strong problem-solving, rapid iteration, and cross-functional collaboration. My experience creating 2D/3D concepts, prototype assets, commercialization-focused workflows, and customer-centered product systems aligns closely with Acushnet’s focus on performance-driven innovation and product excellence.
+
+At CX by Design and Lighthouse Info System, I collaborated with engineers, developers, vendors, and stakeholders to refine product functionality, workflow efficiency, and implementation consistency across fast-paced development environments. I also bring strong expertise in SolidWorks, Fusion 360, Adobe Creative Suite, prototyping workflows, visual communication, and AI-assisted design processes supporting scalable product development.
+
+What especially draws me to Acushnet is the opportunity to contribute to products recognized globally for innovation, precision, and performance-focused design.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with performance-driven product and industrial design workflows
+- Experience supporting scalable prototyping and commercialization systems
+- Focus on craftsmanship, usability, and material-driven product thinking
+- Collaborative environment involving design, engineering, and vendor teams
+
+Success Indicators:
+- Innovative and commercially viable product concepts
+- Strong collaboration across cross-functional product workflows
+- Effective prototype refinement and implementation readiness
+- High-quality visual storytelling and product presentation
+- Scalable and performance-focused design execution
+`,
+  resumeFile: "Acushnet_Senior_Associate_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
 ];
