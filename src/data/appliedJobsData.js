@@ -3144,7 +3144,7 @@ Success Indicators:
   workMode: "Hybrid",
   workExperience: "2+ years",
   payRange: "$85,900 - $143,300",
-  applyLink: "",
+  applyLink: "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/details/UX-Researcher-II---HYBRID-NYC_R113843?q=UX&source=indeed",
   myNotes: `
 I will require future employer sponsorship for a work visa (such as H-1B) to continue employment in the U.S. after my OPT work authorization period ends.
 
@@ -3805,5 +3805,463 @@ Success Indicators:
   resumeFile: "Acushnet_Senior_Associate_Product_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 68,
+  companyName: "Her 2nd Chance Inc.",
+  jobTitle: "E-Commerce Digital & Graphic Design Specialist",
+  location: "Boca Raton, FL",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$24.38 - $29.36/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=975b75bbcf496dda&from=shareddesktop_copy",
+  myNotes: `
+Do you have experience with Video editing?
+Yes
+
+Do you have experience with HTML?
+Yes
+
+Do you have experience with Illustration?
+Yes
+
+Do you have experience with CSS?
+Yes
+
+Do you have experience with Logo design?
+Yes
+
+Do you have experience with Adobe Photoshop?
+Yes
+
+Do you have experience with Canva?
+Yes
+
+Do you have experience with Shopify?
+Yes
+
+Questions from the employer
+
+Do you have an understanding of branding, typography, color theory, and layout design?
+
+Yes, I have a strong understanding of branding, typography, color theory, and layout design through creating scalable digital campaigns, e-commerce visuals, and customer-focused brand systems across web, social, and print platforms.
+
+Are you comfortable receiving feedback and making revisions as needed?
+
+Yes, I am highly comfortable receiving feedback and making revisions as needed. I value collaborative iteration and use feedback to refine designs, improve usability, and ensure alignment with branding and business goals.
+
+Do you have proficiency in graphic design platforms such as Adobe Creative Suite (Photoshop, Illustrator, InDesign) and/or Canva?
+
+Yes, I am proficient in Adobe Creative Suite including Photoshop, Illustrator, and InDesign, along with Figma and Canva for creating digital assets, branding materials, marketing campaigns, and responsive visual experiences.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+E-Commerce Digital & Graphic Design Specialist role focused on designing Shopify-based digital experiences, branded e-commerce visuals, motion graphics, and customer-centered marketing assets supporting online engagement and conversion optimization.
+
+Key Responsibilities:
+- Develop and customize Shopify e-commerce websites
+- Create logos, banners, product imagery, and promotional graphics
+- Design motion graphics and video content for digital campaigns
+- Produce digital illustrations, visual assets, and branded creative systems
+- Collaborate with marketing teams on branding and campaign strategies
+- Maintain visual consistency across digital and print media
+- Support UI/UX workflows through wireframes and prototypes
+- Apply typography, color theory, and layout systems across branding initiatives
+- Manage multiple creative projects simultaneously within fast-paced workflows
+
+Domain Focus:
+- E-commerce and Shopify experiences
+- Digital branding and campaign systems
+- Customer-focused visual storytelling
+- Motion graphics and responsive digital design
+
+Key Requirements:
+- Experience designing for Shopify platforms
+- Strong proficiency in Adobe Creative Suite
+- Knowledge of HTML, CSS, and JavaScript
+- Strong understanding of branding, typography, and color systems
+- Experience with UI/UX wireframing and prototypes
+- Ability to manage multiple projects and deadlines
+- Strong communication and presentation skills
+
+Design & Technical Skills:
+- Shopify and e-commerce design systems
+- Adobe Photoshop, Illustrator, InDesign
+- Figma, Sketch, Canva, and InVision
+- HTML, CSS, and JavaScript fundamentals
+- Motion graphics and video editing
+- Branding and visual storytelling systems
+- Typography and layout design
+- Responsive web and campaign design workflows
+
+Preferred Skills:
+- WordPress and CMS familiarity
+- Photo manipulation and illustration workflows
+- Print advertising and signage systems
+- AI-assisted design workflows
+- Conversion-focused UX thinking
+
+Soft Skills:
+- Strong creative problem-solving mindset
+- Collaborative communication abilities
+- Comfort with iterative feedback and revisions
+- Fast-paced project management skills
+- Strong attention to visual consistency and detail
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Strong e-commerce brands succeed when visual storytelling, seamless digital experiences, and cohesive branding work together to turn visitors into loyal customers. Creating high-impact Shopify experiences and conversion-focused visual systems that strengthen customer engagement is what excites me most about the E-Commerce Digital & Graphic Design Specialist opportunity at Her 2nd Chance Inc.
+
+With 2+ years of experience designing branded digital campaigns, e-commerce visuals, and scalable customer-facing design systems, I have contributed to projects requiring strong branding consistency, rapid creative execution, and customer-focused storytelling. My experience designing Shopify-inspired layouts, promotional graphics, product imagery, landing pages, motion graphics, and responsive visual systems aligns closely with your need for a designer who can elevate both digital presence and brand identity.
+
+At CX by Design and MyRentalSpot, I collaborated with developers, marketers, and cross-functional teams to create production-ready assets, scalable branding systems, and engaging digital experiences improving usability, campaign performance, and visual consistency. I also bring strong expertise in Adobe Creative Suite, Figma, HTML/CSS fundamentals, motion graphics, typography, color theory, and AI-assisted creative workflows supporting fast-paced e-commerce environments.
+
+What especially draws me to Her 2nd Chance Inc. is the opportunity to create visually compelling experiences that directly contribute to brand growth and customer connection.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with Shopify and customer-focused e-commerce workflows
+- Experience supporting branding, campaign, and conversion-focused design systems
+- Focus on scalable visual storytelling and digital engagement
+- Collaborative environment combining marketing, branding, and UX workflows
+
+Success Indicators:
+- Visually compelling and conversion-focused Shopify experiences
+- Strong consistency across branding and digital campaigns
+- Effective collaboration across creative and marketing teams
+- Improved customer engagement and visual storytelling
+- High-quality scalable e-commerce design systems
+`,
+  resumeFile: "Her_2nd_E-Commerce_Digital_&_Graphic_Design_Specialist_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 69,
+  companyName: "Arrivia, Inc.",
+  jobTitle: "Web Content Manager",
+  location: "Scottsdale, AZ",
+  workMode: "Hybrid",
+  workExperience: "4+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=02d3ca0211331010&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Web Content Manager role focused on managing CMS-driven digital experiences, responsive landing pages, scalable content systems, and pixel-perfect marketing workflows supporting customer engagement and brand consistency.
+
+Key Responsibilities:
+- Lead end-to-end content loading and styling within CMS platforms
+- Build and style responsive web content using HTML and CSS
+- Translate Figma and Adobe Creative Suite assets into production-ready web experiences
+- Maintain visual consistency across high-traffic landing pages and microsites
+- Optimize workflows supporting large-scale content updates and deployments
+- Collaborate across marketing, product, IT, and design teams
+- Conduct QA reviews, troubleshoot production issues, and perform site audits
+- Support scalable digital content operations and customer-focused user journeys
+
+Domain Focus:
+- CMS-driven digital marketing experiences
+- Responsive landing pages and microsites
+- Customer engagement and travel-focused digital systems
+- Pixel-perfect QA and scalable content workflows
+
+Key Requirements:
+- 4+ years of web content management or digital marketing experience
+- Strong HTML and CSS proficiency
+- Experience with enterprise CMS environments
+- Strong understanding of responsive web implementation
+- Expertise with Figma and Adobe Creative Suite
+- Strong attention to detail and workflow organization
+- Ability to manage high-volume content updates and QA workflows
+
+Design & Technical Skills:
+- HTML and CSS
+- CMS management and content operations
+- Figma and Adobe Creative Suite
+- Responsive landing page implementation
+- Web QA and production troubleshooting
+- Workflow optimization and deployment systems
+- Visual consistency and scalable design operations
+- AI-assisted workflow optimization
+
+Preferred Skills:
+- Enterprise-scale digital content management
+- High-traffic platform experience
+- Marketing-focused UX and engagement optimization
+- Cross-functional collaboration with product and IT teams
+
+Soft Skills:
+- Strong organizational and execution mindset
+- Pixel-perfect attention to detail
+- Collaborative communication abilities
+- Fast-paced problem-solving and prioritization
+- Process-driven workflow management
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital experiences happen when visually compelling marketing content is paired with flawless technical execution and pixel-perfect consistency. Building responsive, high-performing web experiences that strengthen customer engagement and support scalable content operations is what excites me most about the Web Content Manager opportunity at arrivia.
+
+With 3+ years of experience managing CMS-driven digital content, responsive landing pages, and customer-focused web systems, I have contributed to projects requiring strong attention to detail, workflow optimization, and cross-functional collaboration. My experience implementing responsive layouts using HTML and CSS, translating Figma concepts into production-ready assets, and maintaining scalable content systems aligns closely with arrivia’s focus on polished digital experiences and operational excellence.
+
+At CX by Design and Lighthouse Info System, I collaborated with marketing, product, IT, and engineering teams to optimize content workflows, improve QA processes, and deliver visually consistent web experiences across high-volume digital environments. I also bring strong expertise in CMS management, Adobe Creative Suite, visual QA, responsive web implementation, and AI-assisted workflows supporting rapid content deployment.
+
+What especially draws me to arrivia is the opportunity to help create seamless digital journeys that inspire customer engagement through travel-focused experiences.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with CMS-driven content management and responsive web systems
+- Experience supporting scalable marketing and content deployment workflows
+- Focus on pixel-perfect QA and customer-focused digital experiences
+- Collaborative environment involving marketing, product, IT, and design teams
+
+Success Indicators:
+- High-quality responsive landing pages and microsites
+- Strong consistency across digital marketing experiences
+- Efficient content deployment and workflow optimization
+- Effective cross-functional collaboration and QA execution
+- Improved customer engagement across digital travel experiences
+`,
+  resumeFile: "Arrivia_Web_Content_Manager_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 70,
+  companyName: "FPW Media",
+  jobTitle: "Lead Web Specialist",
+  location: "Springfield, OR",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$58,000 - $62,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=4d5744391a5ec299&from=shareddesktop_copy",
+  myNotes: `
+How many years of professional web development experience do you have?
+3
+
+How many years of creative agency experience do you have?
+1
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Lead Web Specialist role focused on developing, optimizing, and maintaining branded marketing and e-commerce websites while supporting scalable agency workflows, technical leadership, and cross-functional collaboration.
+
+Key Responsibilities:
+- Maintain, optimize, and troubleshoot WordPress and Shopify websites
+- Develop responsive marketing and e-commerce platforms using WordPress, WooCommerce, Shopify, BigCommerce, and Figma
+- Implement UX/UI recommendations in collaboration with design and digital teams
+- Build scalable and maintainable web solutions balancing design systems and custom development
+- Support email marketing integrations including Klaviyo and Mailchimp
+- Conduct website QA, accessibility improvements, SEO optimization, and performance tuning
+- Scope projects, estimate timelines, and assess development complexity
+- Mentor and support developers through workflow guidance and technical collaboration
+- Maintain organized documentation and deployment workflows
+- Recommend process improvements supporting efficiency and scalability
+
+Domain Focus:
+- Marketing and e-commerce websites
+- Agency-based web development workflows
+- CMS-driven responsive digital experiences
+- SEO, accessibility, and performance optimization
+
+Key Requirements:
+- 3+ years of professional web development experience
+- 1+ year of creative agency experience
+- Experience with WordPress, Shopify, BigCommerce, WooCommerce, and Figma
+- Proficiency in HTML, CSS, PHP, JavaScript, and MySQL
+- Strong project scoping and estimation abilities
+- Ability to manage multiple priorities in fast-paced environments
+- Strong collaborative and problem-solving mindset
+
+Design & Technical Skills:
+- WordPress and WooCommerce
+- Shopify and BigCommerce
+- HTML, CSS, PHP, JavaScript, and MySQL
+- Figma and responsive UX implementation
+- SEO optimization and performance tuning
+- CMS workflows and deployment systems
+- QA troubleshooting and accessibility improvements
+- Klaviyo and Mailchimp integrations
+- AI-assisted development workflows
+
+Preferred Skills:
+- Experience mentoring developers
+- Agency-based project management workflows
+- Corporate design systems and pre-built themes
+- Technical architecture and scalable development standards
+
+Soft Skills:
+- Strong organizational and prioritization skills
+- Collaborative and solutions-oriented mindset
+- Ability to explain technical concepts clearly
+- Adaptability in fast-paced agency environments
+- Strong ownership and accountability mindset
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital experiences are built when technical execution, responsive design, and scalable workflows work together to create websites that perform seamlessly under pressure. Building and optimizing high-performing marketing and e-commerce platforms that strengthen brand visibility and customer engagement is what excites me most about the Lead Web Specialist opportunity at FPW Media.
+
+With 3+ years of experience developing responsive websites, scalable CMS systems, and customer-focused digital experiences, I have contributed to projects requiring strong technical execution, workflow optimization, and cross-functional collaboration. My experience with WordPress, Shopify, WooCommerce, HTML, CSS, JavaScript, PHP, MySQL, and Figma aligns closely with FPW Media’s need for a technically driven web specialist capable of supporting high-volume agency environments.
+
+At CX by Design and Lighthouse Info System, I collaborated with marketing, design, engineering, and digital teams to optimize deployment workflows, improve QA operations, troubleshoot technical issues, and deliver polished, responsive web experiences across large-scale projects. I also bring strong expertise in SEO optimization, responsive development, CMS management, project scoping, and AI-assisted development workflows supporting scalable digital operations.
+
+What especially draws me to FPW Media is the opportunity to contribute to ambitious, results-driven digital experiences across diverse industries within a collaborative creative environment.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with scalable agency-based web development workflows
+- Experience supporting responsive e-commerce and marketing platforms
+- Focus on SEO optimization, QA, and performance-driven development
+- Collaborative environment involving marketing, design, and engineering teams
+
+Success Indicators:
+- High-performing and scalable responsive websites
+- Strong consistency across digital and e-commerce experiences
+- Efficient deployment and project scoping workflows
+- Effective collaboration across agency and development teams
+- Reliable technical execution supporting client growth and engagement
+`,
+  resumeFile: "FPW_Lead_Web_Specialist_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 71,
+  companyName: "Saronic Technologies",
+  jobTitle: "Front End Software Engineer",
+  location: "Austin, TX",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=9297c2216f3ba7f9&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Front End Software Engineer role focused on building command & control web applications for autonomous maritime systems with emphasis on high-performance frontend architecture, responsive UX, SPA/PWA development, and scalable backend integrations.
+
+Key Responsibilities:
+- Develop and maintain high-quality command & control web applications
+- Build responsive SPAs/PWAs using modern frontend frameworks
+- Collaborate with UX designers and incorporate external client feedback
+- Optimize frontend performance, usability, and debugging workflows
+- Develop supporting backend APIs and services using Node.js
+- Deploy and maintain cloud-based application systems
+- Integrate event-driven workflows and notifications using Web Workers
+- Support accessibility, video streaming, and interactive browser-based controls
+- Balance stable implementation practices with emerging frontend technologies
+
+Domain Focus:
+- Autonomous maritime and defense technology systems
+- Command & control web applications
+- High-performance frontend engineering
+- Real-time operational interfaces and visualization systems
+
+Key Requirements:
+- Strong frontend engineering experience
+- Strong UI/UX design principles understanding
+- Experience with React, Vue, Svelte, or WebComponents
+- Proficiency with HTML, CSS, and JavaScript
+- Backend API and Node.js experience
+- Familiarity with Rust and Python
+- Experience with cloud deployments and database systems
+- Strong debugging and frontend optimization abilities
+- Familiarity with accessibility standards and browser APIs
+
+Design & Technical Skills:
+- React, Angular, Vue, and SPA/PWA workflows
+- HTML, CSS, JavaScript
+- Node.js backend APIs
+- Rust and Python fundamentals
+- Chrome DevTools and performance optimization
+- AWS, Azure, and GCP deployments
+- PostgreSQL, SQLite, and Redis
+- Web Workers and event-driven systems
+- Web accessibility standards
+- WASM modules and Gamepad APIs
+- Video streaming and encoding workflows
+- AI-assisted development workflows
+
+Preferred Skills:
+- Familiarity with DoD and autonomous systems
+- Real-time operational dashboard experience
+- Command & control interface workflows
+- Interactive browser-based control systems
+
+Soft Skills:
+- Strong systems-thinking and analytical mindset
+- Collaborative communication abilities
+- Adaptability within fast-paced engineering environments
+- Problem-solving and performance-focused thinking
+- Ability to balance innovation with reliability
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Role requires U.S. Person status due to export-controlled information access
+- Strong alignment with operational dashboard and real-time system interfaces
+- Opportunity to contribute to autonomous maritime technology platforms
+- High-performance frontend engineering and command system workflows
+
+Success Indicators:
+- Reliable and scalable command & control web applications
+- High frontend performance and responsiveness
+- Effective collaboration between engineering and UX teams
+- Optimized real-time operational workflows
+- Strong accessibility and usability across mission-critical interfaces
+`,
+  resumeFile: "Saronic_Front_End_Software_engineer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
 
 ];
