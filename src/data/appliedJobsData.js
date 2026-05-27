@@ -4263,5 +4263,125 @@ Success Indicators:
   coverLetterFile: ""
 },
 
+{
+  id: 72,
+  companyName: "Rent the Runway",
+  jobTitle: "Product Designer",
+  location: "New York, NY",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "$116,000 - $140,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=ae84955a7bf3a460&from=shareddesktop_copy",
+  myNotes: `
+1 Which products have you designed for? How did you use user behaviour, research, or testing to validate your decisions?
 
+I have designed responsive web and mobile experiences for consumer-focused digital platforms, including onboarding systems, subscription management workflows, recommendation experiences, and customer interaction interfaces. Across these projects, I used usability testing, customer journey analysis, stakeholder feedback, and competitive research to validate design decisions. At MyRentalSpot, I analyzed customer feedback and interaction patterns to identify friction points within onboarding and navigation workflows, then refined interfaces through iterative Figma prototyping and usability evaluations. I also conducted competitive analysis and customer journey reviews to ensure designs aligned with user expectations, accessibility standards, and engagement goals before implementation.
+
+2 Can you describe a product feature you owned from discovery through to delivery, including research, design, testing, and iteration? What was the outcome?
+
+At CX by Design, I owned the design workflow for a responsive customer engagement feature focused on improving usability across desktop and mobile platforms. I began with product discovery by reviewing customer pain points, analyzing workflow gaps, and conducting competitive research. I translated insights into wireframes, interactive Figma prototypes, and scalable interaction systems, then collaborated with engineers and stakeholders throughout implementation. After usability testing and iterative refinements, the feature launched with improved interaction consistency, clearer navigation, and stronger user engagement across responsive experiences. The process also improved alignment between product, design, and engineering teams through clearer UX documentation and design rationale.
+
+3 What consumer-facing mobile product(s) have you designed for, and how did user behavior influence your design decisions?
+
+I have designed consumer-facing mobile experiences for onboarding systems, recommendation workflows, responsive subscription interfaces, and customer-focused digital product journeys. User behavior strongly influenced my decisions around navigation structure, interaction hierarchy, and responsiveness. For example, during a mobile onboarding project, usability reviews showed that users preferred faster task completion with minimal cognitive load, so I simplified interaction flows, reduced unnecessary interface friction, and prioritized mobile-first layouts that improved usability and interaction clarity. I also used customer journey evaluations and feedback analysis to refine engagement patterns and improve accessibility across mobile experiences.
+
+4 Tell us about a time you had to explain a design tradeoff to non-design stakeholders (e.g., product or engineering). How did you ensure alignment?
+
+During a responsive product redesign project, I proposed simplifying a feature workflow to improve usability and mobile responsiveness, but stakeholders were initially concerned about removing certain interface elements tied to business visibility. I explained the tradeoff by connecting usability findings, customer behavior insights, and interaction data to the proposed design changes. Instead of focusing only on aesthetics, I framed the discussion around customer efficiency, reduced friction, and long-term engagement improvements. I also presented wireframes and prototype comparisons to demonstrate how the simplified experience would improve usability without affecting key business goals. This helped create alignment between product, engineering, and design teams, leading to a more streamlined and scalable final solution.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Role Overview:
+Product Designer role focused on creating customer-centered mobile and web experiences for a consumer fashion subscription platform, emphasizing end-to-end product design, usability testing, interaction design, and scalable design systems.
+
+Key Responsibilities:
+- Own end-to-end product design workflows for consumer-facing features
+- Conduct discovery, competitive analysis, usability testing, and iterative design refinement
+- Create wireframes, prototypes, and high-fidelity interaction systems
+- Design intuitive desktop, mobile web, and iOS app experiences
+- Collaborate closely with product managers, engineers, and researchers
+- Utilize and evolve scalable design systems
+- Participate in design critiques and cross-functional collaboration
+- Communicate design rationale and tradeoffs clearly to stakeholders
+- Balance customer needs with business goals and product milestones
+
+Domain Focus:
+- Consumer fashion and subscription platforms
+- Mobile-first customer experiences
+- Personalized and engagement-driven digital products
+- Circular fashion and scalable e-commerce ecosystems
+
+Key Requirements:
+- 3+ years of product design experience
+- Experience designing consumer-facing mobile products
+- Strong UX, UI, interaction design, and research capabilities
+- Expertise in Figma and UserTesting
+- Strong understanding of customer behavior and usability principles
+- Ability to communicate design strategy to technical and non-technical audiences
+- Experience working in agile product environments
+
+Design & Technical Skills:
+- Figma and interactive prototyping
+- UserTesting and usability research workflows
+- Mobile-first interaction design
+- Customer journey analysis and competitive research
+- Responsive web and mobile UX systems
+- Design systems and scalable component libraries
+- AI-assisted design workflows
+- Agile product collaboration and iterative design
+
+Preferred Skills:
+- Experience with consumer subscription or fashion products
+- Mobile engagement and retention-focused design
+- Cross-functional product squad collaboration
+- Personalization and recommendation workflow design
+
+Soft Skills:
+- Strong customer-centered product thinking
+- Clear communication and stakeholder alignment abilities
+- High accountability and ownership mindset
+- Fast-paced prioritization and problem-solving skills
+- Collaborative and feedback-driven design approach
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great product design transforms everyday interactions into experiences customers genuinely remember, trust, and return to. Designing intuitive, customer-centered digital experiences that balance business goals with seamless usability is what excites me most about the Product Designer opportunity at Rent the Runway.
+
+With 3+ years of experience designing responsive mobile and web experiences across consumer-focused digital products, I have contributed to end-to-end product design workflows spanning discovery, wireframing, prototyping, usability testing, and scalable implementation. My experience building mobile-first interaction systems, conducting usability evaluations, and translating customer behaviors into intuitive UX solutions aligns closely with RTR’s focus on delivering inspirational and functional customer experiences.
+
+At CX by Design and MyRentalSpot, I collaborated closely with product managers, engineers, researchers, and stakeholders to develop scalable design systems, improve engagement workflows, and create polished desktop and mobile experiences using Figma and UserTesting. I also bring strong expertise in interaction design, customer journey optimization, competitive analysis, rapid prototyping, and AI-assisted design workflows supporting fast-paced agile product teams.
+
+What especially draws me to Rent the Runway is the opportunity to shape customer experiences within a product redefining fashion through innovation, accessibility, and personalization.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with consumer-facing mobile and subscription-based product experiences
+- Experience supporting end-to-end product workflows across discovery, testing, and implementation
+- Focus on usability optimization, engagement, and customer-centered interaction systems
+- Collaborative agile environment involving product, engineering, and research teams
+
+Success Indicators:
+- Intuitive and engaging customer-facing mobile experiences
+- Strong alignment between customer needs and business goals
+- Scalable and polished interaction systems
+- Effective usability testing and iterative product improvements
+- Strong collaboration across cross-functional product squads
+`,
+  resumeFile: "rent_the_runaway_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
