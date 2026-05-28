@@ -4384,4 +4384,343 @@ Success Indicators:
   resumeFile: "rent_the_runaway_Product_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+
+{
+  id: 73,
+  companyName: "Dart Container",
+  jobTitle: "Industrial Designer",
+  location: "Mason, MI",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=cd7f5162a303bbb9&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Product and packaging design
+- 3D CAD modeling and rapid prototyping
+- Customer-centered industrial design workflows
+- Cross-functional collaboration with sales, engineering, and marketing
+
+Main Skills:
+- SolidWorks
+- KeyShot
+- Adobe Creative Suite
+- 3D printing and prototyping
+- Product visualization and concept sketching
+- Packaging systems and rendering workflows
+- Customer research and ideation
+
+Important Notes:
+- Portfolio required
+- Up to 15% domestic travel
+- Strong emphasis on form, function, and rapid ideation
+- Experience with prototype tooling and physical mockups preferred
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Strong industrial design creates products people instantly understand, trust, and enjoy using while delivering meaningful value through form, function, and experience. Designing customer-centered product and packaging solutions that combine usability, innovation, and scalable development is what excites me most about the Industrial Designer opportunity at Dart Container.
+
+With 3+ years of experience developing product concepts, packaging systems, 3D models, renderings, and prototype-ready assets, I have contributed to projects requiring rapid ideation, customer-focused thinking, and cross-functional collaboration. My experience with SolidWorks, KeyShot, Adobe Creative Suite, qualitative research, and scalable product workflows aligns closely with Dart’s focus on innovative packaging and product development.
+
+At CX by Design and Lighthouse Info System, I collaborated with engineering, marketing, sales, and stakeholders to transform customer insights into functional product concepts, visual presentations, and prototype refinement workflows. I also bring strong expertise in concept sketching, product visualization, rapid prototyping, customer journey analysis, and AI-assisted design workflows supporting fast-paced development environments.
+
+What especially draws me to Dart is the opportunity to contribute to products and packaging experiences used daily by millions of customers.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with packaging and product innovation workflows
+- Experience supporting rapid concept development and visualization
+- Focus on customer-centered and scalable product experiences
+`,
+  resumeFile: "Dart_Industrial_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 74,
+  companyName: "The MITRE Corporation",
+  jobTitle: "Early Career UX/UI Engineer",
+  location: "Bedford, MA",
+  workMode: "Hybrid",
+  workExperience: "<1 year required",
+  payRange: "$79,200 - $118,800",
+  applyLink: "https://www.indeed.com/viewjob?jk=5d85943c911349cc&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- UX/UI engineering and frontend prototyping
+- Mission-focused and government-facing systems
+- Human-centered software development
+- Accessibility and operational efficiency
+
+Main Skills:
+- React, JavaScript, HTML, CSS
+- Figma and wireframing
+- Git and frontend prototyping
+- UX research and usability testing
+- Design systems and scalable UI workflows
+- AI-assisted prototyping
+
+Important Notes:
+- U.S. Citizenship required
+- Must be eligible for security clearance
+- Hybrid onsite minimum 50%
+- Strong focus on human-centered engineering and mission systems
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Meaningful technology succeeds when complex systems become intuitive, accessible, and mission-focused for the people who rely on them most. Designing user-centered software experiences that improve usability, operational efficiency, and decision-making is what excites me most about the Early Career UX/UI Engineer opportunity at MITRE.
+
+With 3+ years of experience designing responsive web applications, scalable interaction systems, and frontend prototypes, I have contributed to projects requiring strong UX thinking, usability evaluation, and collaborative software development. My experience with React, JavaScript, HTML, CSS, Figma, Git, wireframing, prototyping, and usability testing aligns closely with MITRE’s focus on human-centered engineering and mission-focused digital solutions.
+
+At CX by Design and MyRentalSpot, I collaborated with UX researchers, engineers, developers, and stakeholders to translate user insights into scalable software experiences improving accessibility, interaction quality, and workflow consistency. I also contributed to frontend prototyping, design systems, usability evaluations, and AI-assisted workflows supporting rapid iteration and implementation quality.
+
+What especially draws me to MITRE is the opportunity to contribute to meaningful systems that support national missions while continuing to grow within a collaborative, research-driven environment.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with UX engineering and frontend development workflows
+- Experience supporting scalable responsive web applications
+- Focus on accessibility, usability, and mission-focused systems
+`,
+  resumeFile: "Mitre_UI_UX_Engineer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 75,
+  companyName: "Twitch",
+  jobTitle: "UX Designer, Monetization",
+  location: "Seattle, WA",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "$117,800 - $184,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=5df484713c824fc7&from=shareddesktop_copy",
+  myNotes: `
+Desired Salary: $117,800
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Monetization and creator-focused UX
+- Consumer mobile and web experiences
+- Engagement and content discovery systems
+- Monetization workflows and experimentation
+
+Main Skills:
+- Figma and rapid prototyping
+- Mobile-first UX design
+- Design systems and interaction design
+- Qualitative and quantitative UX research
+- Customer journey optimization
+- AI-assisted design workflows
+
+Important Notes:
+- Strong focus on creator trust and community engagement
+- Experience with monetization/e-commerce preferred
+- Consumer product and engagement-driven UX environment
+- Collaboration with PMs, engineers, and researchers
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great monetization design strengthens creator trust, improves engagement, and makes revenue experiences feel natural within the communities people care about most. Designing intuitive, customer-centered digital experiences that balance business goals with meaningful user interactions is what excites me most about the UX Designer, Monetization opportunity at Twitch.
+
+With 3+ years of experience designing consumer-focused mobile and web experiences, I have contributed to end-to-end product design workflows spanning discovery, prototyping, usability testing, experimentation, and scalable implementation. My experience designing engagement-focused digital systems, conducting qualitative and quantitative research, and translating customer behaviors into intuitive UX solutions aligns closely with Twitch’s creator and viewer experience goals.
+
+At CX by Design and MyRentalSpot, I collaborated with product managers, engineers, researchers, and stakeholders to build scalable interaction systems, improve onboarding and engagement workflows, and deliver polished mobile-first experiences using Figma and design systems. I also bring strong expertise in monetization workflows, content engagement experiences, rapid prototyping, customer journey optimization, and AI-assisted design workflows within fast-paced agile environments.
+
+What especially draws me to Twitch is the opportunity to design experiences that directly empower creators while strengthening community engagement at scale.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with creator-focused engagement systems
+- Experience supporting scalable consumer-facing product workflows
+- Focus on monetization, usability, and community-centered UX
+`,
+  resumeFile: "Twitch_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 76,
+  companyName: "Solis ENG CORP",
+  jobTitle: "ERP UI/UX Designer",
+  location: "La Habra, CA",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$67,000 - $81,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=95db12098a19fe19&from=shareddesktop_copy",
+  myNotes: `
+Korean is necessary
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- ERP and enterprise UI/UX systems
+- Responsive dashboards and workflow optimization
+- Data visualization and usability testing
+- Agile enterprise software environments
+
+Main Skills:
+- Figma, Adobe XD, Zeplin, InVision
+- React, Angular, HTML, CSS, Bootstrap
+- Wireframing and prototyping
+- Information architecture and usability testing
+- Responsive web applications
+- Design systems and data visualization
+- AI-assisted UX workflows
+
+Important Notes:
+- Strong ERP and enterprise software focus
+- Experience with dashboards and operational workflows
+- Collaboration with PMs, developers, and stakeholders
+- Agile sprint and SDLC-based environment
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great enterprise design transforms complex workflows into intuitive experiences that improve efficiency, clarity, and user confidence across every business interaction. Designing scalable ERP and enterprise interfaces that balance usability, accessibility, and operational performance is what excites me most about the ERP UI/UX Designer opportunity at Solis ENG CORP.
+
+With 3+ years of experience designing responsive dashboards, enterprise web applications, and scalable digital systems, I have contributed to end-to-end UX workflows spanning requirements gathering, wireframing, prototyping, usability testing, and implementation support. My experience with Figma, React, Angular, HTML, CSS, Bootstrap, responsive design systems, and data visualization aligns closely with Solis’ focus on intuitive enterprise software experiences.
+
+At CX by Design and Lighthouse Info System, I collaborated with product managers, developers, analysts, and stakeholders to translate complex business requirements into scalable UX solutions improving workflow efficiency, usability, and implementation consistency. I also contributed to usability evaluations, frontend validation, design systems, QA workflows, and AI-assisted design processes supporting agile development environments.
+
+What especially draws me to Solis is the opportunity to simplify complex ERP workflows through thoughtful, user-centered enterprise experiences that create measurable operational impact.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise workflow and dashboard design
+- Experience supporting scalable ERP-style operational systems
+- Focus on usability, accessibility, and responsive enterprise UX
+`,
+  resumeFile: "Solis_UI_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 77,
+  companyName: "Melaleuca, Inc.",
+  jobTitle: "IT Digital Designer",
+  location: "Idaho Falls, ID",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=c31eb54b1a557607&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Responsive web and digital design
+- Branding and storytelling-driven experiences
+- Enterprise-level eCommerce platforms
+- Visual hierarchy and cross-platform UX
+
+Main Skills:
+- Adobe Creative Suite
+- Figma and wireframing
+- User flows and responsive layouts
+- HTML/CSS understanding
+- Branding and visual storytelling
+- Rapid prototyping and scalable design systems
+
+Important Notes:
+- Portfolio required
+- Strong focus on visual quality and branding consistency
+- Cross-browser and cross-platform design workflows
+- Wellness and eCommerce-focused digital environment
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital design transforms products into engaging experiences that strengthen customer trust, elevate branding, and create meaningful connections across every interaction. Designing visually compelling, responsive digital experiences that balance creativity, usability, and storytelling is what excites me most about the IT Digital Designer opportunity at Melaleuca.
+
+With 3+ years of experience designing responsive web experiences, scalable digital systems, and customer-focused interfaces, I have contributed to projects requiring strong visual communication, interaction design, and collaborative execution. My expertise in Adobe Creative Suite, Figma, wireframing, user flows, responsive layouts, visual hierarchy, and branding systems aligns closely with Melaleuca’s focus on high-quality digital experiences and wellness-focused storytelling.
+
+At CX by Design and Lighthouse Info System, I collaborated with developers, marketers, and stakeholders to transform concepts into polished digital experiences improving usability, engagement, and design consistency across platforms. I also contributed to responsive design systems, scalable workflows, rapid prototyping, and AI-assisted creative processes supporting fast-paced digital environments.
+
+What especially draws me to Melaleuca is the opportunity to contribute to a mission-driven brand focused on improving lives through impactful digital experiences and meaningful storytelling.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with eCommerce and storytelling-focused digital experiences
+- Experience supporting responsive branding and enterprise web workflows
+- Focus on visual consistency, usability, and customer engagement
+`,
+  resumeFile: "Melaluaca_IT_Digital_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
 ];
