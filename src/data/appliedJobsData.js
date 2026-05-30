@@ -4721,6 +4721,387 @@ Additional Notes:
   resumeFile: "Melaluaca_IT_Digital_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+{
+  id: 78,
+  companyName: "OOT Box Media",
+  jobTitle: "Website Designer",
+  location: "Springfield, IL",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$40,000 - $50,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=b839762e3947f9a5&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Important Notes:
+- Relocation required before joining
+- Strong ownership and proactive communication expected
+- Websites focused on performance, SEO, CRO, and lead generation
+- Agency-style fast-paced multi-client environment
+
+Main Skills:
+- WordPress and Shopify
+- Elementor and WooCommerce
+- HTML, CSS, JavaScript, PHP
+- Google Analytics and Tag Manager
+- SEO and conversion optimization
+- Landing pages and funnel development
+- Website troubleshooting and QA
+
+Key Focus:
+- Conversion-focused website development
+- Performance optimization and UX improvements
+- Marketing and analytics integrations
+- Operational execution and workflow management
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+High-performing websites do more than look good. They generate leads, improve conversions, strengthen user engagement, and directly contribute to business growth. Building websites that deliver measurable results while creating seamless user experiences is what excites me most about the Website Designer opportunity at OOT Box Media.
+
+With 3+ years of experience developing responsive websites, landing pages, and conversion-focused digital experiences, I have contributed to projects requiring website optimization, UX improvements, performance enhancements, and cross-functional collaboration. My experience with WordPress, Shopify, HTML, CSS, Google Analytics, responsive design, SEO optimization, and landing page development aligns closely with OOT Box Media’s performance-driven approach.
+
+Throughout my experience, I have partnered with developers, marketers, content teams, and stakeholders to build scalable web solutions that improve engagement, usability, search visibility, and conversion performance. I have also conducted website audits, implemented optimization initiatives, resolved technical issues, and contributed AI-assisted workflows that improved operational efficiency and deployment consistency.
+
+What especially attracts me to OOT Box Media is your focus on accountability, continuous improvement, measurable outcomes, and treating websites as strategic business tools rather than simply digital assets.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with performance-driven web and marketing systems
+- Experience supporting scalable responsive website workflows
+- Focus on CRO, UX optimization, and operational efficiency
+`,
+  resumeFile: "OOT_Website_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+{
+  id: 79,
+  companyName: "Xyngular",
+  jobTitle: "Junior Graphic Designer",
+  location: "Lehi, UT",
+  workMode: "Hybrid",
+  workExperience: "1-3 years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=bf6ad37b64a874df&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Digital and print marketing design
+- Branding and wellness-focused campaigns
+- Packaging, presentations, and event assets
+- Fast-paced collaborative creative workflows
+
+Main Skills:
+- Adobe Creative Suite
+- Figma and Adobe XD
+- Typography and layout design
+- Branding and visual storytelling
+- Wireframing and style guides
+- Print production and pre-press
+- PowerPoint and presentation design
+
+Important Notes:
+- Strong emphasis on collaboration and iteration
+- Wellness and lifestyle-focused branding
+- Multiple simultaneous projects and tight deadlines
+- Packaging and campaign asset creation
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Strong design does more than communicate a message. It creates emotional connections, strengthens brand trust, and turns marketing ideas into experiences people remember. That opportunity is what excites me most about joining Xyngular's creative team.
+
+With 3+ years of experience creating digital and print marketing assets, I have designed website graphics, social content, presentations, branded collateral, and customer-focused visual experiences that improved engagement and brand consistency. My expertise in Adobe Creative Suite, Figma, visual storytelling, typography, layout design, wireframing, and branding systems aligns closely with the skills Xyngular is seeking.
+
+Throughout my experience, I have collaborated with designers, marketers, developers, stakeholders, and cross-functional teams to transform concepts into polished creative assets across multiple channels. I am comfortable presenting design decisions, incorporating feedback quickly, managing multiple projects simultaneously, and maintaining high-quality execution under tight deadlines.
+
+What especially attracts me to Xyngular is the opportunity to contribute to a wellness-focused brand while continuing to grow across digital design, print production, packaging, events, and campaign development within a collaborative creative environment.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with branding and marketing campaign workflows
+- Experience supporting digital and print creative systems
+- Focus on visual consistency, storytelling, and engagement
+`,
+  resumeFile: "Xyngular_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 80,
+  companyName: "Socure",
+  jobTitle: "Junior Graphic Designer",
+  location: "San Francisco, CA",
+  workMode: "On-site",
+  workExperience: "0-2 years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=1846dc45d76736f1&from=shareddesktop_copy",
+  myNotes: `
+I'm interested in Socure because it combines two things that motivate me most: solving complex real-world problems and communicating those solutions through clear, impactful design. Socure's mission of building identity trust infrastructure and preventing fraud at scale is both meaningful and technically challenging, and I find it exciting to contribute to products that directly affect businesses, governments, and millions of users.
+
+This role is especially appealing because it focuses on presentation design, visual storytelling, and high-quality production work. Throughout my experience, I have created presentation decks, marketing assets, web graphics, and scalable design systems that transformed complex information into clear, engaging visual experiences. I enjoy bringing structure, consistency, and clarity to content while maintaining strong attention to detail and brand standards.
+
+I am also excited by the opportunity to work in a fast-paced environment where I can continue strengthening my production design skills, collaborate with talented cross-functional teams, and contribute to a company that values ownership, precision, and continuous improvement. Socure's high standards and mission-driven culture make it a place where I believe I can make an immediate impact while continuing to grow as a designer.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Presentation and production design
+- Marketing and communication assets
+- Visual storytelling and brand consistency
+- Fast-paced technology branding environment
+
+Main Skills:
+- Figma and Adobe Creative Suite
+- Presentation deck design
+- Typography and layout systems
+- Marketing and web graphics
+- Design systems and templates
+- Production-focused workflows
+
+Important Notes:
+- Strong emphasis on presentation design
+- High-volume production and marketing asset workflows
+- Identity verification and fraud-prevention technology space
+- Fast-paced and ownership-driven culture
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with production design and presentation workflows
+- Experience supporting scalable marketing and communication systems
+- Focus on visual clarity, consistency, and storytelling
+`,
+  resumeFile: "Source_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 81,
+  companyName: "Egnyte",
+  jobTitle: "UX Designer",
+  location: "Mountain View, CA",
+  workMode: "Hybrid",
+  workExperience: "4+ years",
+  payRange: "$130,000 - $145,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=8c05468fc5a1314c&from=shareddesktop_copy",
+  myNotes: `
+Visa Sponsorship:
+Egnyte does not provide visa sponsorship for this role.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Enterprise SaaS UX design
+- End-to-end product and workflow design
+- Lean UX and usability research
+- AI-assisted design and scalable design systems
+
+Main Skills:
+- Figma and design systems
+- Wireframing and interactive prototyping
+- Usability testing and ethnographic research
+- Qualitative and quantitative UX analysis
+- Lean UX and hypothesis-driven design
+- AI-assisted workflows (ChatGPT, Claude, Figma AI)
+- SaaS enterprise application design
+
+Important Notes:
+- Strong focus on enterprise SaaS products (not marketing/web design)
+- AI-assisted workflow usage highly emphasized
+- Research-heavy UX environment
+- Cross-functional collaboration with PMs and engineers
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional enterprise products simplify complexity, empower users, and help organizations work more securely and efficiently. Designing those experiences through research, strategy, and thoughtful execution is what excites me most about the UX Designer opportunity at Egnyte.
+
+With 3+ years of experience designing SaaS applications, enterprise platforms, and scalable digital products, I have contributed to end-to-end UX workflows spanning discovery, research, wireframing, prototyping, usability testing, design validation, and implementation. My experience applying Lean UX principles, conducting qualitative and quantitative research, and translating complex workflows into intuitive user experiences aligns closely with Egnyte's mission of delivering secure and productive content experiences.
+
+At CX by Design, MyRentalSpot, and Lighthouse Info System, I collaborated closely with product managers, engineers, researchers, and stakeholders to define user needs, validate solutions, and deliver scalable design systems using Figma. I also leverage AI-assisted workflows, including ChatGPT and Figma-based tools, to accelerate research synthesis, ideation, prototyping, and design iteration while maintaining a strong focus on usability and business outcomes.
+
+What especially draws me to Egnyte is the opportunity to help shape enterprise products at scale while contributing to a design culture centered on collaboration, ownership, and continuous improvement.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise SaaS and operational UX systems
+- Experience supporting scalable product and research workflows
+- Focus on usability, AI-assisted design, and workflow optimization
+`,
+  resumeFile: "Egnyte_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 82,
+  companyName: "onX",
+  jobTitle: "Product Designer (UX/UI) - Fixed-Term",
+  location: "Seattle, WA",
+  workMode: "Remote",
+  workExperience: "4+ years",
+  payRange: "$119,000 - $140,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=8b51db4f69cb6edd&from=shareddesktop_copy",
+  myNotes: `
+what state you live in = Arizona
+what city you live in = phoenix
+
+Yes. I have experience designing onboarding, signup, and educational user flows for both web and mobile products. At MyRentalSpot and CX by Design, I designed user onboarding experiences, account setup workflows, and guided interaction flows that helped users understand product value more quickly and complete key actions with less friction. I created wireframes, user flows, interactive prototypes, and high-fidelity designs in Figma, validated solutions through usability testing and user feedback, and collaborated with product managers and engineers to refine experiences based on user behavior and business goals. My work focused on improving activation, engagement, usability, and overall customer experience through iterative, research-driven design decisions.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Growth-focused product design
+- Onboarding and conversion UX
+- Experimentation and AI-assisted workflows
+- Mobile and web user engagement
+
+Main Skills:
+- Figma and interactive prototyping
+- Growth UX and onboarding systems
+- UX psychology and experimentation
+- User flows and usability testing
+- AI-assisted design workflows
+- Research-driven product iteration
+
+Important Notes:
+- 6-month fixed-term contract
+- Portfolio required
+- Strong focus on growth and activation metrics
+- AI tooling and experimentation mindset emphasized
+- Must have permanent U.S. work authorization
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with onboarding and educational user flow design
+- Experience supporting activation and engagement-focused UX systems
+- Focus on experimentation, usability, and scalable product workflows
+`,
+  resumeFile: "OnXmps_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 83,
+  companyName: "sevenhillsgrouptech",
+  jobTitle: "UI/UX Developer",
+  location: "Irvine, CA",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$45 - $50/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=6f8d872335b55312&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Salesforce UI/UX workflows
+- CRM dashboards and reporting systems
+- Workflow optimization and usability
+- Enterprise data visualization
+
+Main Skills:
+- Salesforce Experience Cloud
+- Sales Cloud and CRM Analytics
+- Dashboard and reporting UX
+- Workflow mapping and usability testing
+- Data visualization and enterprise UI systems
+- Figma and rapid prototyping
+- AI-assisted UX workflows
+
+Important Notes:
+- Strong Salesforce-focused UX role
+- Automotive industry background preferred
+- Collaboration with business and technical teams
+- Focus on reporting clarity and operational efficiency
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great enterprise experiences transform complex workflows and data into intuitive tools that help teams work faster, make better decisions, and drive measurable business outcomes. Designing those experiences through user-centered thinking and workflow optimization is what excites me most about this UI/UX Developer opportunity.
+
+With 3+ years of experience designing enterprise applications, dashboard experiences, workflow-driven interfaces, and data-focused digital products, I have helped translate complex business requirements into intuitive, scalable user experiences. My background in UX/UI design, workflow mapping, reporting interfaces, dashboard design, usability testing, data visualization, and stakeholder collaboration aligns closely with your need to improve Salesforce user experiences and reporting effectiveness.
+
+Throughout my experience, I have partnered with business stakeholders, product teams, engineers, and technical teams to optimize workflows, improve dashboard usability, refine reporting experiences, and create scalable design systems that support operational efficiency and better decision-making. I also leverage AI-assisted workflows, rapid prototyping, and iterative validation to accelerate design improvements while maintaining a strong focus on usability and adoption.
+
+I am particularly excited about the opportunity to contribute to Salesforce-focused solutions that improve productivity, reporting clarity, and overall user satisfaction across enterprise environments.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise dashboard and CRM UX workflows
+- Experience supporting reporting usability and operational systems
+- Focus on workflow optimization and data-driven enterprise UX
+`,
+  resumeFile: "sevenhillsgrouptech_UI_UX_Developer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 
 
 ];
