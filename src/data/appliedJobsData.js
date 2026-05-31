@@ -5385,4 +5385,76 @@ Additional Notes:
   resumeFile: "DealFlow_Graphic_wordPress_Designer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+
+
+
+{
+  id: 88,
+  companyName: "DataPrint Technology, Inc",
+  jobTitle: "Web Designer",
+  location: "Woodside, NY",
+  workMode: "On-site",
+  workExperience: "Mid Level",
+  payRange: "From $25/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=93e66692f57073a3&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Industrial website redesign and modernization
+- Responsive web layouts and usability improvements
+- Brand-focused web experiences
+- Website builders and frontend design workflows
+
+Main Skills:
+- Figma, Adobe XD, Canva
+- WordPress, Wix, Shopify, Squarespace
+- HTML/CSS and responsive design
+- Wireframing and prototyping
+- Graphic design and branding
+- Website redesign workflows
+
+Important Notes:
+- Industrial/manufacturing website environment
+- Part-time contract role
+- NYC area preferred
+- Strong emphasis on modernizing existing web presence
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+A well-designed website does more than look modern. It strengthens brand credibility, improves user engagement, and helps businesses communicate their value more effectively. Creating those experiences through thoughtful design and user-centered web solutions is what excites me most about this Web Designer opportunity.
+
+With 3+ years of experience designing responsive websites, modern digital experiences, and customer-focused web interfaces, I have helped organizations improve usability, visual consistency, and online engagement through website redesigns, interface improvements, and scalable design systems. My experience with Figma, Adobe XD, Canva, WordPress, HTML, CSS, wireframing, prototyping, and responsive design aligns closely with your need to modernize and enhance an existing industrial website.
+
+Throughout my experience, I have collaborated directly with stakeholders to translate business requirements into clean, intuitive layouts while maintaining strong visual communication and brand consistency. I have successfully delivered website updates, usability improvements, graphic assets, and responsive web experiences that improve both functionality and user satisfaction.
+
+What especially attracts me to DataPrint Technology is the opportunity to apply creative problem-solving and modern web design principles to strengthen the company's digital presence and support future growth.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with responsive website redesign and modernization workflows
+- Experience supporting scalable web and branding systems
+- Focus on usability, visual consistency, and engagement optimization
+`,
+  resumeFile: "Dataprint_Website_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+
 ];
