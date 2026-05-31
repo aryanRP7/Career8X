@@ -5104,4 +5104,285 @@ Additional Notes:
 },
 
 
+{
+  id: 84,
+  companyName: "Diocesan",
+  jobTitle: "WordPress Web Developer",
+  location: "Byron Center, MI",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$22 - $25/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=5cadbd91856a86fa&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- WordPress full-stack development
+- Custom themes and plugin development
+- Responsive CMS-driven websites
+- API integrations and performance optimization
+
+Main Skills:
+- WordPress and Gutenberg
+- HTML, Tailwind CSS, JavaScript, PHP
+- React and responsive development
+- REST APIs and JSON workflows
+- MySQL/PostgreSQL
+- Git and QA troubleshooting
+- Figma-to-development workflows
+
+Important Notes:
+- Fully onsite role in Michigan
+- Local candidates only
+- Catholic organization-focused projects
+- Strong emphasis on full-stack WordPress development
+- Server and hosting management experience preferred
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional websites do more than deliver information. They create meaningful connections, support organizational goals, and provide reliable digital experiences for every visitor. Building scalable, high-performing websites that serve communities effectively is what excites me most about the WordPress Web Developer opportunity at Diocesan.
+
+With 3+ years of experience developing responsive websites, custom web experiences, and CMS-driven digital platforms, I have translated Figma designs into production-ready websites while improving usability, performance, accessibility, and engagement. My experience with WordPress, HTML, CSS, JavaScript, PHP, responsive development, API integrations, database-driven systems, and UX-focused implementation aligns closely with the technical requirements of this role.
+
+Throughout my experience, I have collaborated with designers, developers, and stakeholders to build scalable web solutions, optimize website performance, support content management workflows, and improve implementation quality. I have also contributed to troubleshooting, QA validation, technical documentation, and AI-assisted development workflows that improved delivery efficiency and operational consistency.
+
+What especially attracts me to Diocesan is the opportunity to combine technical problem solving with meaningful work that supports Catholic organizations nationwide through reliable, user-centered digital experiences.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with CMS-driven and responsive web development workflows
+- Experience supporting scalable WordPress and frontend systems
+- Focus on usability, performance, and operational reliability
+`,
+  resumeFile: "Diocesan_Wordpress_web_Developer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 85,
+  companyName: "Oliveda International Inc.",
+  jobTitle: "UX Designer – Smart Health & Wearable Devices",
+  location: "Culver City, CA",
+  workMode: "On-site",
+  workExperience: "4+ years",
+  payRange: "$82,000 - $92,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=b733221e32273b27&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Smart health and wearable UX
+- Mobile and biometric-driven interfaces
+- Wellness and habit-forming product experiences
+- Data visualization and real-time health tracking
+
+Main Skills:
+- Figma and high-fidelity prototyping
+- Mobile UX and wearable ecosystems
+- User research and usability testing
+- Health data visualization
+- Interaction design and user journeys
+- Dashboard and real-time tracking interfaces
+- AI-assisted UX workflows
+
+Important Notes:
+- Strong focus on biometric and wearable experiences
+- Wellness and luxury-brand aligned UX
+- Collaboration with hardware and software teams
+- Data-heavy and behavior-driven product environment
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+The most impactful health products transform complex biometric information into simple, meaningful actions that help people improve their well-being every day. Designing those experiences at the intersection of wellness, technology, and human behavior is what excites me most about the UX Designer opportunity at Oliveda.
+
+With 4+ years of experience designing mobile applications, connected digital products, and user-centered experiences, I have translated complex information into intuitive interfaces through user research, usability testing, wireframing, prototyping, and high-fidelity design. My experience creating data-rich dashboards, scalable interaction systems, and mobile experiences aligns closely with Oliveda's vision for smart health and wearable technology.
+
+Throughout my work, I have collaborated closely with engineers, product teams, and stakeholders to design end-to-end user journeys, refine experiences through iterative testing, and build intuitive digital products that improve engagement and usability. I am particularly passionate about simplifying complex data into clear visual experiences that help users make informed decisions and build healthier habits.
+
+The opportunity to help shape a new category of smart wellness technology while contributing to a premium, science-driven brand is incredibly exciting.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with wearable and wellness-focused UX systems
+- Experience supporting mobile and data-driven product experiences
+- Focus on intuitive visualization of complex health information
+`,
+  resumeFile: "Oliveda_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 86,
+  companyName: "Dealer Owned Warranty Company",
+  jobTitle: "UI/UX Designer",
+  location: "Parsippany-Troy Hills, NJ",
+  workMode: "On-site",
+  workExperience: "4+ years",
+  payRange: "$95,000 - $115,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=2be68ba1fcf184a4&from=shareddesktop_copy",
+  myNotes: `
+Visa Sponsorship:
+I will require future employer sponsorship (H-1B) after my OPT work authorization period.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- SaaS and mobile UI/UX design
+- Design systems and usability testing
+- Responsive enterprise applications
+- Brand consistency and analytics-driven UX
+
+Main Skills:
+- Figma and Adobe Creative Cloud
+- Wireframing and interactive prototyping
+- Design systems and style guides
+- User research and usability testing
+- Responsive web and mobile apps
+- HTML/CSS and React component familiarity
+- Hotjar and analytics-driven UX optimization
+
+Important Notes:
+- Fully onsite role in New Jersey
+- Strong blend of UX and visual/graphic design
+- Collaboration with product, marketing, and development teams
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital experiences increase user confidence, strengthen brand trust, and help businesses operate more efficiently. Designing intuitive products that balance user needs, business goals, and visual excellence is what excites me most about the UI/UX Designer opportunity at DOWC.
+
+With 4+ years of experience designing SaaS applications, mobile products, and customer-facing digital experiences, I have delivered end-to-end UX/UI solutions spanning user research, usability testing, wireframing, prototyping, visual design, and implementation. My experience creating design systems, style guides, responsive interfaces, and analytics-informed design improvements aligns closely with DOWC's focus on usability, brand consistency, and product innovation.
+
+Throughout my experience, I have collaborated with product managers, developers, marketers, and stakeholders to transform complex business requirements into intuitive user experiences that improve engagement, workflow efficiency, and customer satisfaction. I regularly use Figma, Adobe Creative Cloud, usability testing methodologies, and iterative design processes to create scalable solutions while maintaining high visual and functional standards.
+
+What especially attracts me to DOWC is the opportunity to contribute to a growing technology-driven organization where thoughtful design directly impacts both customer experience and business success.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with SaaS and enterprise UX systems
+- Experience supporting responsive mobile and web product workflows
+- Focus on usability, analytics-driven improvements, and scalable design systems
+`,
+  resumeFile: "Dealer_UI_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 87,
+  companyName: "DealFlow Financial Products, Inc.",
+  jobTitle: "Graphic Designer / Web Developer",
+  location: "Roslyn, NY",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$76,000 - $86,000",
+  applyLink: "",
+  myNotes: `
+How many years of Digital marketing experience do you have?
+2
+
+How many years of Web design experience do you have?
+2
+
+How many years of Event marketing experience do you have?
+2
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- WordPress and Elementor website management
+- Email marketing and digital campaigns
+- Conference and event branding
+- Multi-channel marketing production workflows
+
+Main Skills:
+- WordPress and Elementor
+- HTML/CSS and SEO optimization
+- Mailchimp and email automation
+- Adobe Creative Suite
+- Google Analytics
+- Video editing and YouTube management
+- Event marketing and branded assets
+
+Important Notes:
+- Fast-paced conference and B2B events environment
+- Strong emphasis on production quality and multitasking
+- Blend of web development, marketing, and graphic design
+- Video editing and email deliverability workflows included
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Strong digital experiences drive audience engagement, strengthen brand credibility, and help businesses grow through every customer interaction. Building those experiences through web development, email marketing, and visual storytelling is what excites me most about the Graphic Designer / Web Developer opportunity at DealFlow.
+
+With 3+ years of experience developing WordPress websites, creating marketing assets, and supporting digital campaigns, I have helped organizations improve online engagement through responsive web experiences, email marketing initiatives, SEO optimization, and branded content. My experience with WordPress, Elementor, HTML, CSS, Mailchimp, Adobe Creative Suite, Google Analytics, and digital marketing workflows aligns closely with the needs of your conference portfolio.
+
+Throughout my experience, I have collaborated with stakeholders to develop websites, design promotional materials, create email campaigns, optimize user experiences, and support multi-channel marketing initiatives. I am comfortable managing multiple projects simultaneously while maintaining strong attention to detail, brand consistency, and production quality.
+
+What especially attracts me to DealFlow is the opportunity to combine web development, design, and marketing within a fast-paced event environment where impactful digital experiences directly contribute to audience growth and business success.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with conference and digital marketing workflows
+- Experience supporting WordPress, email marketing, and branded campaigns
+- Focus on audience engagement, SEO, and scalable production systems
+`,
+  resumeFile: "DealFlow_Graphic_wordPress_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
