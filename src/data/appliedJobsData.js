@@ -5456,5 +5456,304 @@ Additional Notes:
 
 
 
+{
+  id: 89,
+  companyName: "Greenboard",
+  jobTitle: "Product Designer",
+  location: "New York, NY",
+  workMode: "Hybrid",
+  workExperience: "2-3 years",
+  payRange: "$105,000 - $140,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=1598ac7284ad2d63&from=shareddesktop_copy",
+  myNotes: `
+One project I'm most proud of was designing an AI-assisted workflow platform that helped users navigate complex, information-heavy processes more efficiently. I owned the experience end-to-end, from discovery and user research through wireframing, prototyping, usability testing, and final design delivery.
+
+The challenge was that users struggled with fragmented workflows, repetitive tasks, and difficulty locating critical information. I conducted stakeholder interviews, analyzed user feedback, mapped customer journeys, and identified friction points that were slowing productivity. Using those insights, I designed streamlined workflows, AI-assisted guidance experiences, and scalable interaction patterns that reduced complexity and improved task completion efficiency.
+
+I created interactive Figma prototypes, tested concepts with users, iterated based on feedback, and collaborated closely with engineers to ensure the final solution balanced usability with technical constraints. I also contributed to a reusable design system that helped the product scale consistently across multiple workflows.
+
+What makes this project especially meaningful to me is that it required systems thinking, customer empathy, rapid iteration, and working through ambiguity to transform a complex problem into an intuitive product experience. It reinforced my passion for building AI-powered products that meaningfully improve how people work and make decisions.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- AI-powered fintech and compliance workflows
+- End-to-end product design ownership
+- Design systems and systems thinking
+- Customer-driven product iteration
+
+Main Skills:
+- Figma and interactive prototyping
+- AI-assisted product workflows
+- User research and usability testing
+- Customer journey mapping
+- Design systems and scalable UX
+- Enterprise and SaaS product design
+- Rapid iteration in early-stage environments
+
+Important Notes:
+- AI-native compliance platform
+- Strong ownership and ambiguity-driven environment
+- Heavy collaboration with engineering and leadership
+- Fintech/compliance domain focus
+- Onsite NYC role
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with AI-assisted enterprise workflow systems
+- Experience supporting scalable SaaS and operational UX platforms
+- Focus on systems thinking, usability, and rapid product iteration
+`,
+  resumeFile: "GreenBoard_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 90,
+  companyName: "Oceanus Marine Technologies",
+  jobTitle: "UX Designer",
+  location: "El Segundo, CA",
+  workMode: "On-site",
+  workExperience: "4+ years",
+  payRange: "$130,000 - $210,000",
+  applyLink: "",
+  myNotes: `
+Tell us a bit about yourself and why you are interested in joining Oceanus
+
+I am a UX Designer with 4+ years of experience designing complex software products, enterprise platforms, dashboards, and workflow-driven digital experiences. My background combines user research, interaction design, usability testing, prototyping, and design systems, with a strong focus on translating complex technical processes into intuitive user experiences. Through my work at CX by Design, MyRentalSpot, and Lighthouse Info System, I have collaborated closely with engineers, stakeholders, and cross-functional teams to deliver production-ready solutions that improve usability, operational efficiency, and decision-making.
+
+I am particularly interested in Oceanus because of the opportunity to work on mission-critical systems that have real-world impact. The challenge of designing interfaces for operators, crews, and customers across onboard displays, dashboards, web, and mobile applications is incredibly exciting to me. I enjoy solving complex workflow problems, working closely with technical teams, and designing products where usability, situational awareness, and reliability directly influence outcomes.
+
+Oceanus stands out because of its focus on autonomy, maritime innovation, and building practical technology for demanding operational environments. The opportunity to contribute to products that support the future of maritime operations while working alongside a highly technical, systems-focused team is exactly the type of challenge I am looking for.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+What’s something you’ve built, led, or improved that you’re most proud of?
+
+One project I am particularly proud of was designing an operational dashboard platform that transformed complex workflows and large volumes of data into a clear, actionable experience for users. I owned the project from discovery through delivery, conducting stakeholder interviews, workflow analysis, wireframing, prototyping, usability testing, and iterative refinement.
+
+The challenge was that users had to navigate multiple disconnected systems and manually process information to complete critical tasks. I worked closely with stakeholders and engineers to understand workflow bottlenecks, map user journeys, and identify opportunities to improve efficiency and decision-making. Using those insights, I designed intuitive dashboards, scalable interaction patterns, and data visualizations that simplified complex information and reduced user friction.
+
+I created interactive prototypes, validated concepts through usability testing, and collaborated with engineers throughout implementation to ensure the final experience aligned with both user needs and technical constraints. I also contributed reusable design system components that improved consistency and accelerated future product development.
+
+What makes this project especially meaningful to me is that it required systems thinking, cross-functional collaboration, and the ability to translate complex operational challenges into intuitive experiences that delivered measurable value for users and the business.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Mission-critical operational UX systems
+- Maritime autonomy and dashboard interfaces
+- Data-dense and real-time workflow experiences
+- Cross-platform design systems
+
+Main Skills:
+- Figma and advanced prototyping
+- Enterprise dashboard UX
+- Interaction design and usability testing
+- Research and contextual inquiry
+- Design systems and component libraries
+- Data visualization and workflow optimization
+- AI-assisted UX workflows
+
+Important Notes:
+- U.S. Person status required (ITAR)
+- 15–25% travel to vessels and operator sites
+- Strong focus on operational reliability and situational awareness
+- Maritime, autonomy, and mission-critical systems environment
+- Collaboration with software, hardware, and systems engineers
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+The most effective operational platforms transform complex, high-stakes workflows into intuitive experiences that help users make confident decisions under real-world conditions. Designing those mission-critical systems at the intersection of technology, operations, and human-centered design is what excites me most about the UX Designer opportunity at Oceanus.
+
+With 4+ years of experience designing complex software products, enterprise dashboards, and workflow-driven digital experiences, I have contributed to end-to-end product design processes spanning research, contextual inquiry, interaction design, wireframing, prototyping, usability testing, and implementation. My experience translating technical complexity into intuitive interfaces, designing data-dense experiences, and building scalable design systems aligns closely with Oceanus's focus on operational excellence, autonomy, and maritime innovation.
+
+At CX by Design, MyRentalSpot, and Lighthouse Info System, I partnered closely with engineers, stakeholders, and cross-functional teams to transform complex workflows into production-ready solutions, validate designs through user feedback, and continuously refine experiences through iterative testing. I regularly leverage AI-assisted workflows to accelerate research synthesis, prototyping, design exploration, and systems thinking while maintaining a strong focus on usability, situational awareness, and operational efficiency.
+
+What especially attracts me to Oceanus is the opportunity to help shape the future of maritime operations, autonomy, and mission-critical technology while building products that deliver measurable value in demanding real-world environments.
+
+Warm regards,  
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with operational dashboard and autonomy-focused UX systems
+- Experience supporting complex enterprise and mission-critical workflows
+- Focus on usability, situational awareness, and scalable interaction systems
+`,
+  resumeFile: "Oceanus_UX_Designer_alguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 91,
+  companyName: "Hudson Manpower",
+  jobTitle: "Product Designer II",
+  location: "Cincinnati, OH",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=ba1312cea7faa4e0&from=shareddesktop_copy",
+  myNotes: `
+Are you comfortable working on W2?
+Yes
+
+Are you comfortable working 4 days onsite in Cincinnati, Ohio?
+Yes
+
+Are you available for an in-person interview in Cincinnati, Ohio?
+Yes
+
+Do you have 3+ years of Product Designer/UX Designer experience?
+Yes
+
+Do you have hands-on experience with Figma?
+Yes
+
+Have you conducted UX research and usability testing?
+Yes
+
+Have you created Personas, Journey Maps, and User Flows?
+Yes
+
+Do you have experience facilitating workshops and stakeholder sessions?
+Yes
+
+Do you have experience translating user research into design solutions?
+Yes
+
+Have you worked in Agile/Scrum product teams?
+Yes
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Retail and POS product design
+- UX research and usability testing
+- Enterprise workflow optimization
+- Agile product and stakeholder collaboration
+
+Main Skills:
+- Figma and interactive prototyping
+- Personas and journey mapping
+- Service blueprints and user flows
+- UX research and usability testing
+- Agile/Scrum product workflows
+- Stakeholder facilitation workshops
+- AI-assisted UX workflows
+
+Important Notes:
+- Hybrid role with 4 onsite days in Cincinnati
+- Enterprise retail and POS systems focus
+- Strong research and facilitation-heavy environment
+- Collaboration with PMs, QA, architects, and operations teams
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+The best product experiences emerge when deep user understanding is transformed into intuitive workflows that solve real business problems. Creating those experiences through research, collaboration, and iterative design is what excites me most about the Product Designer II opportunity.
+
+With 3+ years of experience designing enterprise software and workflow-driven digital products, I have conducted user interviews, usability testing, contextual research, and stakeholder workshops to uncover opportunities that improve both customer and operational experiences. My experience creating personas, journey maps, service blueprints, user flows, wireframes, and high-fidelity Figma prototypes aligns directly with your focus on next-generation retail and Point-of-Sale experiences.
+
+Throughout my work, I have partnered closely with product managers, engineers, architects, QA teams, and business stakeholders to translate research insights into scalable product solutions. By combining UX research, Agile delivery, usability validation, and AI-assisted design workflows, I have helped teams improve adoption, streamline workflows, and deliver user-centered experiences that balance business goals with customer needs.
+
+The opportunity to contribute to enterprise-scale retail experiences while shaping intuitive solutions for both customers and store associates is especially compelling.
+
+Warm regards,
+
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with retail and enterprise workflow systems
+- Experience supporting UX research and large-scale operational platforms
+- Focus on usability, stakeholder collaboration, and scalable product design
+`,
+  resumeFile: "Hudson_Product_Designer_II_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 92,
+  companyName: "Outdoor Cap Company, Inc",
+  jobTitle: "Product Designer I",
+  location: "Bentonville, AR",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=40f549a4e3dba062&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Product and graphic design for headwear
+- Branding, trend research, and concept development
+- Production-ready design specifications
+- Apparel and retail-focused product workflows
+
+Main Skills:
+- Adobe Creative Cloud
+- Typography, layout, and color systems
+- Branding and identity design
+- Trend analysis and concept sketching
+- Product specifications and factory documentation
+- Product presentation and visual storytelling
+
+Important Notes:
+- Product/graphic design role (not UI/UX focused)
+- Portfolio required
+- Focus on headwear, branding, and trend-driven design
+- Strong collaboration and critique-based environment
+- Regional travel up to 10%
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with branding and product visualization workflows
+- Experience supporting trend-focused and customer-centered design systems
+- Focus on creativity, collaboration, and scalable product execution
+`,
+  resumeFile: "Outdoor_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+
 
 ];
