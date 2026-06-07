@@ -5753,7 +5753,281 @@ Additional Notes:
 },
 
 
+{
+  id: 93,
+  companyName: "Journey Entertainment LLC",
+  jobTitle: "UI/UX Designer – AI Creative Production Platform",
+  location: "South Plainfield, NJ",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "$65,000 - $79,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=97912e7871c3256d&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
 
+Key Focus:
+- AI-powered SaaS workflows
+- Content generation and AI agent experiences
+- Complex information architecture
+- Enterprise workflow and asset management systems
+
+Main Skills:
+- Figma and interactive prototyping
+- AI workflow and agent UX
+- Information architecture
+- User flows and workflow mapping
+- Design systems and component libraries
+- Enterprise SaaS product design
+- AI-assisted design workflows
+
+Important Notes:
+- Strong focus on AI tools and workflow products
+- Experience simplifying complex business processes
+- Collaboration with product, engineering, and AI teams
+- Enterprise-scale content production platform
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional AI products succeed when complex workflows become intuitive, efficient, and effortless for users. Designing those experiences by transforming sophisticated business logic into clear, scalable product interactions is what excites me most about this opportunity.
+
+With 3+ years of experience designing AI-powered SaaS platforms, workflow-driven applications, and enterprise software solutions, I have led end-to-end product design initiatives spanning information architecture, workflow design, interaction design, wireframing, prototyping, and design systems. My experience creating user flows, content management experiences, operational dashboards, and AI-assisted workflows aligns closely with your vision for an AI-powered creative production platform.
+
+Throughout my work, I have collaborated closely with product managers, engineers, and cross-functional stakeholders to translate complex requirements into intuitive user experiences. I have designed scalable workflow systems, organized complex information architectures, developed high-fidelity Figma prototypes, and contributed to product logic discussions that improved usability, efficiency, and adoption.
+
+The opportunity to shape AI agent workspaces, content generation workflows, asset management systems, and enterprise-scale creative production experiences is especially compelling, and I would be excited to contribute to the next generation of AI-powered creative tools.
+
+Warm regards,
+
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with AI-native SaaS and workflow-driven platforms
+- Experience supporting enterprise systems, dashboards, and complex workflows
+- Focus on information architecture, usability, and scalable AI experiences
+`,
+  resumeFile: "Journey_UI_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 94,
+  companyName: "RCI Internet Services, Inc.",
+  jobTitle: "Front End Web Designer",
+  location: "Houston, TX",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$60,874 - $73,311",
+  applyLink: "https://www.indeed.com/viewjob?jk=742c1143b9581a9c&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Hospitality website design
+- Responsive front-end development
+- Branding and customer experience
+- Performance, accessibility, and SEO
+
+Main Skills:
+- HTML, CSS, JavaScript
+- Figma and Adobe Creative Suite
+- Responsive web design
+- Accessibility and UX best practices
+- SEO-friendly design
+- Design systems and reusable components
+- WordPress (plus)
+
+Important Notes:
+- Focus on restaurants, bars, and upscale venues
+- Strong visual design and branding emphasis
+- Mobile-first and responsive web experiences
+- Onsite collaboration environment
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Outstanding hospitality websites do more than showcase a venue. They create memorable first impressions, strengthen brand identity, and encourage customers to engage long before they arrive. Creating those experiences through thoughtful design and modern front-end web solutions is what excites me most about this opportunity.
+
+With 3+ years of experience designing responsive websites, branded digital experiences, and customer-focused web interfaces, I have helped organizations improve engagement, usability, and visual consistency through modern web design, responsive layouts, and scalable front-end systems. My experience with HTML, CSS, JavaScript, Figma, Adobe Creative Suite, responsive design, accessibility, and SEO-friendly design practices aligns closely with your needs.
+
+Throughout my experience, I have translated creative concepts into polished web experiences, developed reusable design systems, optimized websites for performance and mobile responsiveness, and collaborated with stakeholders to deliver visually compelling solutions that support business goals. I thrive in fast-paced environments where attention to detail, strong communication, and design excellence drive successful outcomes.
+
+The opportunity to design modern websites for restaurants, bars, and upscale venues is especially exciting because it combines creativity, branding, and customer experience in a meaningful way.
+
+Warm regards,
+
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with hospitality and customer-facing web experiences
+- Experience supporting responsive websites and branding systems
+- Focus on usability, visual consistency, and engagement
+`,
+  resumeFile: "RCI_Front_End_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 95,
+  companyName: "United States Gold Bureau",
+  jobTitle: "Graphic Designer/Web Designer",
+  location: "Leander, TX",
+  workMode: "Hybrid",
+  workExperience: "3+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=e143b55836e891f4&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Conversion-focused web design
+- Landing pages and digital marketing campaigns
+- UX/UI optimization and user behavior analysis
+- Branding and digital advertising
+
+Main Skills:
+- Figma
+- Adobe Creative Suite
+- UX/UI design and prototyping
+- Landing page design
+- Responsive web design
+- HTML/CSS
+- Conversion rate optimization
+- Digital advertising creatives
+
+Important Notes:
+- Strong focus on marketing and conversion performance
+- Collaboration with developers and marketing teams
+- UX improvements based on analytics and user behavior
+- Finance/luxury/eCommerce experience preferred
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital experiences do more than attract attention. They guide users, strengthen brand trust, and convert interest into action. Creating those high-performing experiences through strategic design, compelling visuals, and user-centered web solutions is what excites me most about this opportunity.
+
+With 3+ years of experience designing responsive websites, conversion-focused landing pages, digital advertising creatives, and branded marketing assets, I have helped organizations improve engagement, usability, and campaign performance across digital channels. My expertise in Figma, Adobe Creative Suite, UX/UI design, wireframing, prototyping, HTML, CSS, responsive web design, and conversion optimization aligns closely with your needs.
+
+Throughout my experience, I have collaborated with marketing teams, developers, and stakeholders to create user-focused web experiences, advertising campaigns, and design systems that balance business goals with customer needs. I have translated campaign objectives into high-quality digital assets, optimized user journeys through usability improvements, and delivered scalable design solutions that support measurable growth.
+
+The opportunity to combine web design, UX, digital advertising, and conversion-focused marketing at United States Gold Bureau is especially compelling, and I would welcome the opportunity to contribute to your continued success.
+
+Warm regards,
+
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with conversion-focused web and marketing design
+- Experience supporting landing pages, digital campaigns, and UX optimization
+- Focus on engagement, usability, and measurable business outcomes
+`,
+  resumeFile: "United_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 96,
+  companyName: "Print Press Packaging",
+  jobTitle: "Website Manager",
+  location: "Los Angeles, CA",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "From $18.50/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=5c1462bb4c09198b&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Website management and optimization
+- UX/UI and responsive web design
+- SEO and analytics-driven improvements
+- CMS and front-end development
+
+Main Skills:
+- HTML, CSS, JavaScript
+- WordPress and Drupal
+- Figma and Adobe Creative Suite
+- React and Angular
+- SEO and Google Analytics
+- Usability testing and accessibility
+- Git and responsive web design
+
+Important Notes:
+- Strong blend of design and development
+- Website ownership and maintenance role
+- WCAG accessibility compliance
+- SEO, analytics, and performance optimization focus
+- Motion graphics knowledge preferred
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional websites do more than attract visitors. They create seamless user experiences, strengthen brand credibility, improve search visibility, and convert engagement into meaningful business results. Building and optimizing those experiences through a combination of design, technology, and data-driven decision making is what excites me most about this opportunity.
+
+With 3+ years of experience designing, optimizing, and maintaining responsive websites and digital experiences, I have delivered user-focused web solutions that improve usability, accessibility, engagement, and performance. My expertise spans HTML, CSS, JavaScript, WordPress, Figma, Adobe Creative Suite, wireframing, prototyping, usability testing, SEO optimization, analytics-driven improvements, and responsive design across desktop and mobile platforms.
+
+Throughout my experience, I have collaborated closely with developers, marketers, and stakeholders to translate business objectives into scalable digital experiences. I have created design systems, optimized website performance, improved user journeys through usability insights, and delivered implementation-ready solutions that balance technical requirements with exceptional user experience.
+
+The opportunity to lead website innovation while contributing to Print Press Packaging's digital growth through creative design, performance optimization, and user-centered thinking is especially compelling.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with website management and optimization workflows
+- Experience supporting responsive web platforms and CMS systems
+- Focus on usability, SEO, accessibility, and performance improvements
+`,
+  resumeFile: "Print_Website_Manager_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 
 
 ];
