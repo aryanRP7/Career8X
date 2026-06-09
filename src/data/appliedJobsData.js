@@ -6030,4 +6030,255 @@ Additional Notes:
 },
 
 
+{
+  id: 97,
+  companyName: "Nolla Health",
+  jobTitle: "Product Designer",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "4+ years",
+  payRange: "$160,000 - $220,000",
+  applyLink: "",
+  myNotes: `
+1) Tell us about yourself in 100 words or less.
+
+I'm a Product Designer with 4+ years of experience designing consumer-facing applications, AI-powered products, and complex digital experiences. Currently completing my MS in Human-Centered Design at Pace University, I specialize in transforming complex workflows and information into intuitive, engaging user experiences. My background spans product strategy, user research, interaction design, prototyping, and design systems using Figma. I enjoy working in fast-moving environments where I can collaborate closely with founders and engineers, ship quickly, learn from user feedback, and create products that solve meaningful real-world problems at scale.
+
+2) What excites you most about what Nolla is building?
+
+What excites me most is Nolla's mission to make high-quality healthcare accessible through AI. Many healthcare experiences are still overwhelming, fragmented, and difficult to navigate, especially when users need clear answers quickly. Nolla is tackling that challenge by combining advanced clinical AI with thoughtful product experiences that can reach millions of people. I’m particularly excited by the opportunity to translate complex medical information into intuitive, trustworthy, and engaging user experiences. The chance to help shape products that directly improve health outcomes while working closely with a fast-moving founding team is incredibly motivating to me.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Consumer healthcare product design
+- AI-powered mobile applications
+- Information-dense UX systems
+- End-to-end product ownership
+
+Main Skills:
+- Figma and advanced prototyping
+- Mobile app UX/UI design
+- Design systems and product ecosystems
+- User research and interaction design
+- Information architecture
+- AI-assisted product workflows
+- Consumer product strategy
+
+Important Notes:
+- First dedicated product designer hire
+- Founding-team level ownership
+- Strong mobile-first consumer product focus
+- Healthcare and AI product ecosystem
+- Equity included
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with AI-powered healthcare products
+- Experience supporting consumer-facing mobile and SaaS platforms
+- Focus on simplifying complex information into intuitive experiences
+`,
+  resumeFile: "Nolla_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 98,
+  companyName: "Targan Inc",
+  jobTitle: "HMI UI/UX Specialist",
+  location: "Raleigh, NC",
+  workMode: "On-site",
+  workExperience: "3-5 years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=30b11aa1b169b90a&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- HMI and industrial UI/UX design
+- Machine operation dashboards and controls
+- Design systems and visual consistency
+- Human-machine interaction workflows
+
+Main Skills:
+- Figma and storyboard creation
+- UI/UX design and visual systems
+- SVG, PNG, icons, and graphic assets
+- Responsive HTML5 interfaces
+- QA testing and usability validation
+- Git and DevOps collaboration
+- Industrial dashboard and operational UX
+
+Important Notes:
+- Strong focus on industrial machinery interfaces
+- Ownership of HMI design direction and style guides
+- Collaboration with controls, data, and software engineers
+- Experience with operational dashboards and machine workflows highly relevant
+- Documentation and multilingual interface considerations
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with operational dashboard and enterprise UX systems
+- Experience supporting data-dense workflows and industrial-style interfaces
+- Focus on usability, visual consistency, and workflow optimization
+`,
+  resumeFile: "Targan_HMI_UIUX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 99,
+  companyName: "Lifted Logic",
+  jobTitle: "Web Designer",
+  location: "Overland Park, KS",
+  workMode: "Hybrid",
+  workExperience: "3-5 years",
+  payRange: "$60,000 - $70,000",
+  applyLink: "https://liftedlogic.com/position/web-designer/",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Custom website design
+- Typography, layout, and visual hierarchy
+- Responsive web experiences
+- Strategy-driven UX and web design
+
+Main Skills:
+- Figma
+- Adobe Creative Suite
+- Wireframing and prototyping
+- Responsive web design
+- Typography and visual hierarchy
+- Design systems
+- Accessibility and usability best practices
+
+Important Notes:
+- Hybrid (3 days onsite)
+- Strong emphasis on design craft and attention to detail
+- Developer-ready Figma files required
+- Branding experience is a plus
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional websites do more than look beautiful. They translate strategy into intuitive experiences, strengthen brands, and create meaningful connections with users. Designing those thoughtful, high-performing experiences is what drives my passion for web design.
+
+With 4+ years of experience creating custom websites, responsive digital experiences, and user-centered interfaces, I have helped organizations improve usability, engagement, and visual consistency through strategic design solutions. My expertise in Figma, Adobe Creative Suite, wireframing, prototyping, responsive design, visual hierarchy, typography, and usability principles aligns closely with Lifted Logic's commitment to quality and craft.
+
+Throughout my experience, I have translated business goals, content requirements, and customer needs into intuitive website experiences while collaborating closely with developers and stakeholders. I have created high-fidelity designs, scalable design systems, and developer-ready files that balance aesthetics, usability, and performance. I take pride in thoughtful execution, attention to detail, and continuously refining my skills to deliver polished digital experiences.
+
+The opportunity to contribute to a team that values craftsmanship, collaboration, and purposeful design is especially exciting, and I would welcome the opportunity to help create exceptional websites for Lifted Logic's clients.
+
+Warm regards,
+
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with custom web design and UX-focused websites
+- Experience supporting responsive digital products and design systems
+- Focus on visual hierarchy, usability, and polished execution
+`,
+  resumeFile: "Lifted_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 100,
+  companyName: "Dek X USA LLC",
+  jobTitle: "Graphic Designer",
+  location: "Lake Havasu City, AZ",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$23 - $28/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=a643eeb5bdddf90a&from=shareddesktop_copy",
+  myNotes: `
+Relocation:
+Willing to relocate to Lake Havasu City, AZ before starting work.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Custom graphic production
+- Pattern and logo placement
+- Vector artwork creation
+- Customer-driven product customization
+
+Main Skills:
+- Adobe Illustrator
+- Adobe Photoshop
+- Vector tracing and artwork preparation
+- Logo placement and pattern creation
+- Print-ready production files
+- Marketing materials and branding
+- Layout and visual design
+
+Important Notes:
+- Strong Illustrator and Photoshop role
+- Independent, self-starter environment
+- Custom boat, vehicle, RV, and signage products
+- Customer vision to production workflow
+- Relocation required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great design transforms a customer's idea into a product they are excited to own. Creating visually compelling, production-ready graphics that bring customer visions to life is what motivates me as a designer.
+
+With 4+ years of experience in graphic design, visual communication, and creative asset development, I have designed custom graphics, original artwork, branded visuals, marketing materials, and production-ready design files across a variety of projects. My expertise in Adobe Illustrator and Adobe Photoshop allows me to efficiently create vector artwork, custom patterns, logo placements, and detailed visual assets while maintaining accuracy and design quality.
+
+Throughout my experience, I have translated client requirements into impactful visual solutions, developed custom graphics aligned with brand objectives, and collaborated with stakeholders to deliver high-quality creative work under tight deadlines. I am highly detail-oriented, comfortable working independently, and enjoy turning concepts into finished products that exceed customer expectations.
+
+The opportunity to contribute to Dek X's innovative and highly customizable products is especially exciting, and I would welcome the chance to help create distinctive designs that enhance your customers' experience and support your continued growth.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- 4+ years graphic design experience
+- 4+ years Adobe Illustrator experience
+- Strong alignment with custom product graphics and production workflows
+- Focus on vector artwork, customization, and customer-driven design
+`,
+  resumeFile: "Dek_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
 ];
