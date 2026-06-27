@@ -6600,4 +6600,263 @@ Additional Notes:
   resumeFile: "Apex_Product_Developer_Falguni_Dekate_Resume.pdf",
   coverLetterFile: ""
 },
+
+{
+  id: 106,
+  companyName: "Extra Duty Solutions",
+  jobTitle: "Senior UX Designer: Product & Systems",
+  location: "Remote",
+  workMode: "Remote",
+  workExperience: "5+ years",
+  payRange: "$110,000 - $160,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=13ce2450a3fd9cb5&from=shareddesktop_copy",
+  myNotes: `
+Compensation:
+Seeking $130,000 - $140,000 annually.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Enterprise product and systems UX
+- Design systems and operational workflows
+- Research-driven product design
+- Data-dense web and mobile applications
+
+Main Skills:
+- Figma and design systems
+- UX research and usability testing
+- Interaction design and prototyping
+- Complex workflow design
+- Mobile and web applications
+- AI-assisted design workflows
+- Cross-functional collaboration
+
+Important Notes:
+- High-ownership product role
+- Build and own design system
+- Operational, workforce, and payment workflows
+- Experience with AI-assisted design preferred
+- Background in B2B SaaS and enterprise tools highly relevant
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise SaaS and operational workflow platforms
+- Experience supporting design systems, dashboards, and complex user journeys
+- Focus on research, scalability, and cross-functional product collaboration
+`,
+  resumeFile: "Extra_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 107,
+  companyName: "Woodland",
+  jobTitle: "Graphic Designer",
+  location: "Linn Creek, MO",
+  workMode: "On-site",
+  workExperience: "Beginner-Intermediate",
+  payRange: "$20 - $24/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=0c3823865ab8ce88&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Branding and graphic design
+- Print and digital marketing assets
+- Logos, illustrations, and packaging
+- Visual storytelling
+
+Main Skills:
+- Adobe Illustrator
+- Photoshop and InDesign
+- Figma
+- Typography and layout design
+- Logo and branding design
+- Print and digital media
+- Visual communication
+
+Important Notes:
+- Variety of creative projects
+- Strong portfolio required
+- Focus on branding, packaging, websites, and publications
+- Collaborative, detail-oriented environment
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great design captures attention, communicates ideas clearly, and transforms requirements into visuals that leave a lasting impression. Creating compelling graphics that strengthen brands and engage audiences is the value I am excited to bring to Woodland.
+
+With over three years of experience designing branded graphics, illustrations, logos, marketing materials, and production-ready visual assets, I have consistently translated creative concepts into polished designs across digital and print media. My expertise with Adobe Illustrator, Photoshop, InDesign, Figma, typography, layout design, and visual storytelling has helped improve brand consistency, customer engagement, and communication effectiveness. I enjoy collaborating with clients and cross-functional teams, refining ideas through feedback, and delivering high-quality creative solutions while meeting project deadlines.
+
+What excites me most about Woodland is the opportunity to contribute to a wide variety of creative projects, from websites and publications to product packaging and promotional materials. I thrive in collaborative environments where creativity, attention to detail, and strong design execution drive meaningful results.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with branding, print, and digital graphic design
+- Experience supporting logos, marketing materials, and visual communication
+- Focus on creativity, attention to detail, and polished design execution
+`,
+  resumeFile: "woodland_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+{
+  id: 108,
+  companyName: "Mudd Advertising",
+  jobTitle: "Production Artist",
+  location: "Cedar Falls, IA",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "$18 - $20/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=115030a794fa33ae&from=shareddesktop_copy",
+  myNotes: `
+Relocation:
+Willing to relocate to Cedar Falls, IA before starting work.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Production-ready print and digital assets
+- Pre-press and layout quality
+- Brand consistency
+- High-volume production workflows
+
+Main Skills:
+- Adobe InDesign
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Acrobat
+- Layout and pre-press preparation
+- Logo creation and image editing
+- Print production workflows
+
+Important Notes:
+- Strong production and quality assurance role
+- Fast-paced, deadline-driven environment
+- Portfolio required
+- Collaboration with project managers and production team
+- Pre-press accuracy and manufacturer specifications
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional production work ensures every design reaches its audience with precision, consistency, and impact. Delivering production-ready creative assets while maintaining the highest quality standards is the value I am excited to bring to Mudd Advertising.
+
+With over three years of experience creating branded graphics, print and digital marketing materials, and publication-ready artwork, I have consistently transformed creative concepts into accurate, high-quality deliverables. My expertise includes Adobe InDesign, Illustrator, Photoshop, Acrobat, layout design, image editing, logo creation, pre-press preparation, and production workflows. I have collaborated closely with project managers, designers, and stakeholders to review specifications, refine layouts, ensure production accuracy, and deliver projects on schedule while maintaining exceptional attention to detail.
+
+What excites me most about Mudd Advertising is the opportunity to contribute to a collaborative production team where quality, efficiency, and craftsmanship are essential. I enjoy managing multiple projects in fast-paced environments and take pride in producing polished creative assets that exceed client expectations and support successful campaigns.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with print production and pre-press workflows
+- Experience supporting branded marketing materials and publication-ready assets
+- Focus on accuracy, quality control, and efficient production execution
+`,
+  resumeFile: "Mudd_Production_artist_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 109,
+  companyName: "Spectrum Designs Foundation",
+  jobTitle: "Customer Support/Graphic Designer",
+  location: "Port Washington, NY",
+  workMode: "On-site",
+  workExperience: "2+ years",
+  payRange: "From $50,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=bc772b877817bd6c&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Customer service and graphic design
+- Vector artwork and production files
+- Client communication
+- Print production workflows
+
+Main Skills:
+- Adobe Illustrator and Photoshop
+- Vector artwork and logo design
+- Customer communication
+- Production-ready file preparation
+- Branding and marketing materials
+- Order management
+- Screen printing knowledge (plus)
+
+Important Notes:
+- Inclusive, mission-driven organization
+- Customer-facing design role
+- Chipply, Printavo, and SAGE are a plus
+- Production and order coordination
+- Neurodiversity-friendly workplace
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional customer experiences begin with understanding people, communicating clearly, and transforming ideas into high-quality designs that bring those ideas to life. Combining customer service with thoughtful, production-ready graphic design is the value I am excited to contribute to Spectrum Designs Foundation.
+
+With over three years of experience creating branded graphics, vector artwork, logos, and marketing materials, I have partnered closely with clients and cross-functional teams to translate requirements into polished visual solutions. My expertise in Adobe Illustrator, Photoshop, vector artwork, branding, and production-ready file preparation has helped improve customer satisfaction, communication, and project quality. I enjoy collaborating with customers, managing multiple projects, incorporating feedback, and ensuring every design is accurate, visually compelling, and ready for production.
+
+Spectrum Designs' mission of creating meaningful opportunities through an inclusive workplace is especially inspiring. I would be proud to contribute my creativity, customer-focused mindset, and collaborative approach to a team that values individuality, quality, and community impact while delivering exceptional experiences for every customer.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with customer-facing graphic design and production workflows
+- Experience supporting branding, vector artwork, and print-ready assets
+- Focus on communication, collaboration, and customer satisfaction
+`,
+  resumeFile: "Spectrum_Customer_Service_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
 ];
