@@ -6281,4 +6281,323 @@ Additional Notes:
 },
 
 
+
+{
+  id: 101,
+  companyName: "Strive Marketing",
+  jobTitle: "Web Design & Developer",
+  location: "Sacramento, CA",
+  workMode: "Hybrid",
+  workExperience: "2+ years",
+  payRange: "$28 - $33/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=a096a9ea25a1ba20&from=shareddesktop_copy",
+  myNotes: `
+1. Do you currently use AI tools? And/or are you comfortable using Claude Code/Design?
+
+Answer:
+
+Yes. I regularly use AI tools including ChatGPT, Cursor, Claude, Gemini, and Midjourney to accelerate ideation, UI design, wireframing, prototyping, content refinement, and front-end development. While I am still expanding my hands-on experience with Claude Code/Design, I am comfortable using it and can quickly integrate it into my workflow to improve development speed and design quality.
+
+2. Do you have experience in Web Design & Development? If so, what is your experience?
+
+Answer:
+
+Yes. I have 2+ years of experience designing and developing responsive websites, landing pages, and digital experiences for enterprise and consumer-focused products. My experience includes creating wireframes, high-fidelity mockups, interactive prototypes, and production-ready interfaces using Figma, Framer, Adobe Creative Suite, HTML, CSS, and JavaScript. I have collaborated closely with developers, marketers, and stakeholders to deliver SEO-friendly, user-centered websites, and I regularly use AI-assisted tools such as Cursor, ChatGPT, and Claude to accelerate design, prototyping, and development workflows. I am also comfortable learning new platforms such as WordPress, Elementor, GitHub, and Cloudflare in fast-paced agency environments.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Agency web design and development
+- AI-assisted website workflows
+- SEO and conversion-focused websites
+- WordPress and digital marketing
+
+Main Skills:
+- Figma and Adobe Creative Suite
+- HTML, CSS, JavaScript
+- WordPress and Elementor
+- Claude, Cursor, ChatGPT
+- GitHub and Cloudflare
+- SEO and responsive web design
+- Landing pages and digital marketing assets
+
+Important Notes:
+- Hybrid (Mon/Fri remote, Tue-Thu onsite)
+- Agency environment with multiple client projects
+- AI-first web development workflow
+- Collaboration with SEO, PPC, and content teams
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great websites do more than look good. They generate leads, strengthen brands, and convert visitors into customers. That blend of thoughtful design, modern development, and marketing strategy is where I can contribute immediately to Strive Marketing.
+
+With over two years of experience designing and developing responsive websites, landing pages, and digital experiences, I have delivered production-ready solutions that improve usability, engagement, and conversion. My background includes Figma, Adobe Creative Suite, HTML, CSS, JavaScript, Framer, and AI-assisted workflows using Claude, Cursor, and ChatGPT to accelerate design, prototyping, and development. I enjoy collaborating with marketers, developers, and content teams to create websites that align business goals with exceptional user experiences.
+
+What excites me most about Strive Marketing is your agency's focus on combining web design, SEO, AI-powered development, and digital marketing to drive measurable client success. I thrive in collaborative, fast-paced environments where I can take ownership of projects from concept through launch while continuously learning new technologies and improving workflows.
+
+I would welcome the opportunity to discuss how my web design, development, and problem-solving skills can contribute to Strive Marketing's continued growth.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with agency web development and AI-assisted workflows
+- Experience supporting responsive websites, SEO, and digital marketing
+- Focus on collaboration, rapid delivery, and conversion-driven design
+`,
+  resumeFile: "Strive_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 102,
+  companyName: "TSOLife",
+  jobTitle: "Junior UI/UX Designer",
+  location: "Remote",
+  workMode: "Remote",
+  workExperience: "1+ years",
+  payRange: "$50,000 - $70,000",
+  applyLink: "",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- AI-powered enterprise SaaS
+- UX research and interaction design
+- Web and mobile product design
+- Design systems and product workflows
+
+Main Skills:
+- Figma and high-fidelity prototyping
+- User flows and interaction design
+- UX research and visual design
+- Design systems
+- Web and mobile UX
+- Engineering handoff documentation
+- AI-assisted product design
+
+Important Notes:
+- Remote role
+- AI platform for senior living
+- Strong collaboration with Product and Engineering
+- Research-driven, user-centered design
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional software succeeds when complex workflows become intuitive, empowering users to make better decisions with confidence. Creating those user-centered experiences through thoughtful research, interaction design, and seamless collaboration is the value I am excited to bring to TSOLife.
+
+Over the past two years, I have designed intuitive digital products across AI-powered and enterprise platforms, transforming user needs and business goals into high-fidelity prototypes, user flows, scalable design systems, and development-ready solutions. Working closely with product managers, engineers, and stakeholders, I have delivered features that improved usability, workflow efficiency, and user engagement while ensuring smooth implementation through detailed specifications and design documentation.
+
+TSOLife's mission to improve senior living through AI-driven insights strongly resonates with me. I am inspired by the opportunity to design products that make a meaningful impact on both caregivers and residents while collaborating with cross-functional teams to solve complex problems through research-driven, user-centered design.
+
+I would welcome the opportunity to contribute my UX, visual design, and product thinking skills to help TSOLife continue building intuitive and impactful software experiences.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with AI-powered SaaS and enterprise workflow platforms
+- Experience supporting research-driven product design and cross-functional teams
+- Focus on usability, interaction design, and scalable product systems
+`,
+  resumeFile: "TSO_UI_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 103,
+  companyName: "Luson Media, LLC",
+  jobTitle: "Web Designer",
+  location: "Arden Hills, MN",
+  workMode: "Hybrid",
+  workExperience: "5+ years",
+  payRange: "$65,000 - $80,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=a695170966ed7b8a&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- WordPress website design and development
+- Financial services websites
+- UX, SEO, and performance optimization
+- End-to-end web project ownership
+
+Main Skills:
+- WordPress, HTML, CSS, JavaScript, PHP
+- Figma and Adobe Creative Suite
+- Responsive web design
+- UX and SEO optimization
+- AWS, SiteGround, DNS management
+- Website analytics
+- Front-end development
+
+Important Notes:
+- Hybrid (4 onsite, 1 remote)
+- Build websites from Figma to launch
+- Strong focus on lead generation and performance
+- Financial services marketing environment
+- Mentoring and project ownership expected
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with responsive WordPress and UX-focused web development
+- Experience supporting website optimization, SEO, and digital marketing
+- Focus on high-quality web experiences, collaboration, and project ownership
+`,
+  resumeFile: "Luson_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+
+{
+  id: 104,
+  companyName: "Family Medical Group",
+  jobTitle: "Graphic Designer",
+  location: "Mountain Home, AR",
+  workMode: "On-site",
+  workExperience: "Not specified",
+  payRange: "$18 - $20/hour",
+  applyLink: "",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Graphic design and branding
+- Marketing and print design
+- Motion graphics and multimedia
+- Web and visual storytelling
+
+Main Skills:
+- Adobe Creative Suite
+- Adobe After Effects
+- Figma, Sketch, InVision
+- CorelDRAW
+- Branding and logo design
+- Motion graphics and photo editing
+- WordPress and basic HTML/CSS
+
+Important Notes:
+- Healthcare organization
+- Strong branding and marketing focus
+- Motion graphics experience preferred
+- Print and digital design role
+- UI/UX knowledge is a plus
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with branding, marketing, and visual communication
+- Experience supporting digital, print, and web design projects
+- Focus on creative storytelling, consistency, and high-quality visual assets
+`,
+  resumeFile: "Family_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 105,
+  companyName: "APEX CANVAS CO LLC",
+  jobTitle: "Product Developer",
+  location: "Loudon, TN",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$67,000 - $72,000",
+  applyLink: "",
+  myNotes: `
+Visa Sponsorship:
+I will require future employer sponsorship (e.g., H-1B) after my OPT work authorization period.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Product development and prototyping
+- CAD-based product design
+- Customer-driven product development
+- Engineering and manufacturing collaboration
+
+Main Skills:
+- CAD and SolidWorks
+- Prototype development
+- Technical drawings and specifications
+- Product documentation
+- Cross-functional collaboration
+- Customer requirement analysis
+- Product lifecycle support
+
+Important Notes:
+- Onsite role
+- Manufacturing and engineering environment
+- CAD/SolidWorks experience emphasized
+- Collaboration with engineering, production, and quality teams
+- Travel may be required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Successful products begin with transforming customer requirements into practical, high-quality solutions that move efficiently from concept to production. Bringing that mindset through collaborative design, rapid prototyping, and structured product development is the value I am excited to contribute to APEX Canvas.
+
+Over the past two years, I have developed customer-focused product concepts, functional prototypes, and production-ready design documentation while collaborating with cross-functional teams to improve quality, usability, and implementation. My experience includes translating customer requirements into detailed design solutions, creating visual specifications, validating concepts through iterative feedback, and partnering with engineering and stakeholders to deliver innovative products. Through my graduate studies in Human Centered Design, I have strengthened my ability to solve complex design challenges using research, creative thinking, and structured product development methodologies.
+
+I am particularly excited about APEX Canvas because of the opportunity to work alongside engineering, quality, and production teams to develop products from concept through manufacturing. I enjoy learning new technologies, taking ownership of challenging projects, and contributing to products that combine functionality, quality, and customer value.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with product development and engineering workflows
+- Experience supporting prototyping, documentation, and customer-focused design
+- Focus on cross-functional collaboration and product lifecycle execution
+`,
+  resumeFile: "Apex_Product_Developer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
 ];
