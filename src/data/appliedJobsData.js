@@ -6859,4 +6859,444 @@ Additional Notes:
 },
 
 
+{
+  id: 110,
+  companyName: "Wholesale Packaging",
+  jobTitle: "Product Marketing Designer",
+  location: "Newark, NJ",
+  workMode: "On-site",
+  workExperience: "1+ years",
+  payRange: "$30 - $40/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=3cb723270bf9e312&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Packaging and product marketing
+- Product mockups and prototypes
+- Branding and print production
+- High-volume creative production
+
+Main Skills:
+- Adobe Illustrator, Photoshop, InDesign, Acrobat
+- Packaging design and product artwork
+- Typography and layout
+- Logo tracing and vector artwork
+- Product mockups
+- Email and web banner design
+- Basic HTML
+
+Important Notes:
+- Fast-paced production environment
+- Packaging experience preferred
+- Strong ownership and time management
+- Print-ready artwork for in-house and overseas production
+- Remote/Part-time options available
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Outstanding packaging and product marketing design transforms ordinary products into memorable brand experiences that capture attention and drive customer decisions. Creating production-ready visual assets with precision, creativity, and speed is the value I am excited to bring to Wholesale Packaging.
+
+With over three years of experience designing product graphics, branded assets, packaging concepts, logos, and marketing materials, I have consistently translated project requirements into high-quality visual solutions. My expertise with Adobe Illustrator, Photoshop, InDesign, Acrobat, typography, layout design, vector artwork, and product mockups has enabled me to deliver print-ready artwork, packaging prototypes, email campaigns, web banners, and promotional materials while maintaining exceptional attention to detail in fast-paced environments. I thrive on managing multiple projects, refining concepts through feedback, and collaborating with cross-functional teams to deliver impactful creative work on schedule.
+
+I am particularly excited about the opportunity to contribute to Wholesale Packaging's growing team, where creativity, ownership, and quality are valued. I would welcome the opportunity to help create compelling packaging and marketing designs that strengthen your brand and support continued business growth.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with packaging, branding, and production design
+- Experience supporting product artwork, mockups, and marketing assets
+- Focus on quality, speed, and production-ready creative execution
+`,
+  resumeFile: "Wholesale_Production_Marketing_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 111,
+  companyName: "First Vulcan, Inc",
+  jobTitle: "Product/UX Analyst (Contract)",
+  location: "Remote",
+  workMode: "Remote",
+  workExperience: "2+ years",
+  payRange: "$20 - $40/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=41ee80e06c0a14ac&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- UX analysis and workflow optimization
+- User journey evaluation
+- Product documentation
+- Information architecture
+
+Main Skills:
+- User flows and workflow mapping
+- UX analysis
+- Requirements documentation
+- Information architecture
+- HTML, CSS, JavaScript
+- Wireframing
+- Cross-functional collaboration
+
+Important Notes:
+- Remote contract role
+- Work directly with founder
+- Strong documentation and analytical skills
+- Independent, detail-oriented work
+- Basic coding knowledge is a plus
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Clear user journeys and well-documented product workflows transform good software into intuitive, scalable products. Identifying usability gaps and translating complex ideas into actionable specifications is the value I am excited to bring to First Vulcan.
+
+With over two years of experience improving digital products across enterprise and SaaS platforms, I have analyzed user journeys, mapped workflows, created user flows, documented functional requirements, and delivered development-ready specifications that strengthened usability and implementation quality. My background includes UX analysis, wireframing, information architecture, usability evaluation, and collaborating closely with product managers, engineers, and stakeholders to refine interfaces and streamline complex workflows. I also bring working knowledge of HTML, CSS, and JavaScript, allowing me to communicate effectively with development teams and contribute to implementation discussions.
+
+What excites me most about First Vulcan is the opportunity to work directly with the founder to improve an existing product through thoughtful analysis and practical UX recommendations. I enjoy solving complex problems independently and delivering organized, detail-oriented documentation that helps teams build better products faster.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with UX analysis, workflow mapping, and SaaS products
+- Experience supporting user journey optimization and product documentation
+- Focus on usability improvements, logical workflows, and implementation-ready specifications
+`,
+  resumeFile: "First_UX_Analyst_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 112,
+  companyName: "North Edge Management",
+  jobTitle: "Web Designer & E-commerce Integration Specialist",
+  location: "Victoria, MN",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$24.04 - $38.47/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=55e78bf78a0431f5&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- E-commerce web design
+- Multi-site website management
+- UX/UI and landing pages
+- Inventory and data integrations
+
+Main Skills:
+- Figma
+- HTML, CSS, JavaScript
+- Responsive web design
+- E-commerce UX
+- Landing page design
+- Technical SEO
+- API/data integration concepts
+
+Important Notes:
+- Multi-brand retail websites
+- Shopify/Lightspeed experience is a plus
+- Site optimization and maintenance
+- Inventory sync and data mapping
+- Self-starter with creative and technical skills
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional e-commerce experiences are built by combining intuitive web design with reliable data integration that keeps every customer interaction seamless. Creating high-performing websites while ensuring accurate, scalable digital operations is the value I am excited to bring to North Edge Management.
+
+With over three years of experience designing responsive websites, optimizing UX/UI, and developing user-centered digital experiences, I have translated business requirements into visually compelling, conversion-focused web solutions. My expertise includes Figma, HTML, CSS, JavaScript, responsive design, landing pages, information architecture, website optimization, and collaborating closely with developers and stakeholders to deliver production-ready experiences. I have also worked with structured workflows, documentation, and technical problem-solving that support efficient implementation and continuous improvement across digital platforms.
+
+What excites me most about North Edge Management is the opportunity to own both the creative and technical aspects of multiple e-commerce brands. I enjoy working in fast-paced environments where thoughtful design, continuous optimization, and cross-functional collaboration create exceptional online shopping experiences and measurable business value.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with e-commerce UX and responsive web design
+- Experience supporting website optimization, landing pages, and technical workflows
+- Focus on user experience, performance, and scalable digital operations
+`,
+  resumeFile: "North_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 113,
+  companyName: "The Home Depot",
+  jobTitle: "Senior UX Designer",
+  location: "Atlanta, GA",
+  workMode: "On-site",
+  workExperience: "4+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=3e5c8ec16e6952bb&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Enterprise and retail UX
+- End-to-end product design
+- User research and design thinking
+- Design systems and usability
+
+Main Skills:
+- Figma and prototyping
+- User research and usability testing
+- Journey mapping
+- Interaction design
+- Design systems
+- Agile collaboration
+- Stakeholder communication
+
+Important Notes:
+- Enterprise retail environment
+- Strong cross-functional collaboration
+- Design thinking and research-driven UX
+- Mentor junior designers
+- Customer-centered product strategy
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional customer experiences are built by deeply understanding users, aligning business goals with design strategy, and transforming complex challenges into intuitive digital solutions. That is the impact I am excited to bring to The Home Depot.
+
+With over two years of experience designing end-to-end user experiences for enterprise and AI-powered platforms, I have partnered with product managers, engineers, researchers, and stakeholders to deliver intuitive, data-informed products that improve usability, workflow efficiency, and customer satisfaction. My expertise spans user research, design thinking, interaction design, usability testing, journey mapping, rapid prototyping, and scalable design systems using Figma and modern UX methodologies. I thrive in agile environments, using research insights and iterative testing to translate customer needs into impactful product experiences.
+
+What excites me most about The Home Depot is its strong commitment to customer-centered innovation and collaborative product development. I would welcome the opportunity to contribute thoughtful UX strategy, advocate for users, and help build intuitive experiences that delight customers while supporting business growth.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with enterprise UX, design systems, and research-driven product design
+- Experience supporting cross-functional product teams and agile workflows
+- Focus on customer-centered design, usability, and scalable digital experiences
+`,
+  resumeFile: "Home_UX_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 114,
+  companyName: "Pets Global, Inc.",
+  jobTitle: "Packaging Designer",
+  location: "Valencia, CA",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$78,000 - $90,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=38223080a7cb3f28&from=shareddesktop_copy",
+  myNotes: `
+Relocation:
+Willing to relocate to Valencia, CA before starting work.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Packaging design and branding
+- Product artwork and mockups
+- Print production
+- Marketing collaboration
+
+Main Skills:
+- Adobe Illustrator and Photoshop
+- Packaging mockups
+- Typography and layout
+- Product artwork
+- Print production
+- Brand identity
+- Project management
+
+Important Notes:
+- Packaging from concept to production
+- Fast-paced consumer products environment
+- Collaboration with marketing and product teams
+- Knowledge of packaging materials is a plus
+- Strong attention to detail and project ownership
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional packaging does more than protect a product—it builds trust, communicates quality, and creates memorable brand experiences that customers recognize instantly. Creating packaging that balances creativity, functionality, and brand integrity is the value I am excited to bring to Pets Global.
+
+With over three years of experience designing branded graphics, packaging concepts, product artwork, and production-ready visual assets, I have transformed marketing objectives into compelling packaging solutions that strengthen brand identity and customer engagement. My expertise includes Adobe Illustrator, Photoshop, typography, layout design, packaging mockups, print production, and developing high-quality artwork that meets brand standards while supporting efficient production workflows. I thrive in fast-paced environments, collaborating closely with marketing, product development, and cross-functional teams to refine concepts, incorporate feedback, and deliver polished designs on schedule.
+
+Pets Global's commitment to quality, innovation, and pet wellness strongly resonates with me. I would welcome the opportunity to contribute creative packaging solutions that elevate your brands, enhance shelf appeal, and support your mission of helping pets live healthier, happier lives.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with packaging, branding, and consumer product design
+- Experience supporting product artwork, packaging mockups, and print-ready assets
+- Focus on creative execution, production quality, and cross-functional collaboration
+`,
+  resumeFile: "Pets_Packaging_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 115,
+  companyName: "Triumph Tech, LLC",
+  jobTitle: "Web Developer",
+  location: "Surprise, AZ",
+  workMode: "On-site",
+  workExperience: "1+ years",
+  payRange: "$65,000 - $95,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=d008d2b6282f5818&from=shareddesktop_copy",
+  myNotes: `
+How many years of CSS experience do you have?
+4
+
+How many years of HTML experience do you have?
+4
+
+How many years of Bootstrap experience do you have?
+4
+
+How many years of JavaScript experience do you have?
+4
+
+How many years of Figma experience do you have?
+4
+
+Do you have experience working or volunteering with Christian churches or non-profits? How do you feel about doing work that helps churches?
+
+While I have not worked directly with Christian churches, I have experience contributing to mission-driven and community-focused organizations through volunteer and design roles. I enjoy creating user-centered digital experiences that help organizations better serve their communities and achieve their goals. I would be excited to apply my UX/UI design skills to support churches, and I appreciate the opportunity to contribute to work that has a positive impact on people and communities.
+
+Are you authorized to work in the United States?
+Yes
+
+Will you now or in the future require visa sponsorship?
+No, I do not currently require visa sponsorship. However, I will require sponsorship in the future to continue working in the United States.
+
+Portfolio:
+https://falgunidekate.framer.website/
+
+Where are you currently located (City, State)? Will you be able to commute or relocate to join the team in office full time in Surprise, AZ?
+Yes
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Front-end web development
+- Church and nonprofit websites
+- Responsive web design
+- Figma to production
+
+Main Skills:
+- HTML5, CSS3, JavaScript
+- Bootstrap
+- Figma
+- Site architecture
+- Responsive web development
+- jQuery
+- Front-end collaboration
+
+Important Notes:
+- Mission-driven organization
+- Rock RMS websites
+- Strong front-end development role
+- Bonus: ASP.NET/C#, Liquid
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Great digital experiences empower organizations to build stronger communities, and I am excited by the opportunity to create high-performing web solutions that help churches connect, engage, and grow. Contributing to technology with meaningful impact is the kind of work that motivates me.
+
+With over three years of experience in front-end development, UX, and responsive web design, I have transformed Figma designs into scalable, production-ready websites using HTML5, CSS3, JavaScript, Bootstrap, and modern design practices. I have collaborated closely with designers, developers, and stakeholders to build intuitive, accessible, and high-performance digital experiences while ensuring clean site architecture, responsive layouts, and exceptional user experiences. My background in Human Centered Design, combined with strong problem-solving skills and attention to detail, enables me to quickly understand client requirements and deliver polished web solutions that align with business objectives.
+
+I am inspired by Triumph Tech's mission to use technology to serve churches and communities. I would welcome the opportunity to contribute my technical expertise, collaborative mindset, and passion for building meaningful digital experiences that make a lasting impact.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with front-end development and responsive web design
+- Experience supporting Figma-to-code workflows and modern web technologies
+- Focus on accessibility, clean architecture, and high-quality user experiences
+`,
+  resumeFile: "Triumph_Web_Developer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+
+
+
+
+
 ];
