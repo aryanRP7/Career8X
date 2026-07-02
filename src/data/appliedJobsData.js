@@ -7294,6 +7294,448 @@ Additional Notes:
 },
 
 
+{
+  id: 116,
+  companyName: "Cook Systems",
+  jobTitle: "Web Designer",
+  location: "Tallahassee, FL",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "Not specified",
+  applyLink: "https://www.indeed.com/viewjob?jk=086835429534033b&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- User-centered web design
+- Usability testing and UX research
+- Front-end development
+- Web application design
+
+Main Skills:
+- Figma and Adobe Creative Suite
+- HTML, CSS, JavaScript
+- Wireframing and prototyping
+- Usability testing
+- Information architecture
+- Heuristic evaluation
+- Front-end implementation
+
+Important Notes:
+- Portfolio required
+- Strong UX and usability focus
+- Cross-functional collaboration
+- Coach junior team members
+- Browser compatibility and accessibility
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Outstanding web experiences are created by combining user-centered design with thoughtful usability research and reliable front-end development. Delivering intuitive, accessible, and high-performing digital products is the value I am excited to bring to Cook Systems.
+
+With over three years of experience designing responsive websites and user-focused digital experiences, I have collaborated with product managers, engineers, graphic designers, and stakeholders to transform business requirements into intuitive web solutions. My experience includes usability testing, heuristic evaluations, wireframing, rapid prototyping, information architecture, and front-end implementation using HTML, CSS, JavaScript, Figma, and Adobe Creative Suite. I enjoy using research insights and iterative design to improve usability, optimize user journeys, and deliver scalable, production-ready web applications.
+
+What excites me about Cook Systems is your commitment to innovation, collaboration, and building meaningful technology solutions. I would welcome the opportunity to contribute my Human Centered Design background, analytical mindset, and passion for creating engaging digital experiences that deliver measurable value for your clients and users.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with user-centered web design and UX research
+- Experience supporting usability testing, front-end development, and responsive websites
+- Focus on accessibility, information architecture, and scalable web applications
+`,
+  resumeFile: "Cook_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 117,
+  companyName: "Trane Technologies",
+  jobTitle: "Product Designer",
+  location: "Davidson, NC",
+  workMode: "Hybrid",
+  workExperience: "Entry / Mid-level",
+  payRange: "$56,300 - $101,394.99",
+  applyLink: "https://www.indeed.com/viewjob?jk=4fd781217c6937aa&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Product design
+- Web & mobile UX/UI
+- Design systems
+- User-centered design
+
+Main Skills:
+- Figma
+- Wireframing & prototyping
+- User flows
+- UI design
+- Interaction design
+- Responsive design
+- Usability testing
+- Design systems
+
+Important Notes:
+- Hybrid (Mon-Thu onsite, Fri flexible)
+- Strong collaboration with PMs & engineers
+- Design critiques and user research
+- Focus on sustainability products
+- Fast iteration and feedback
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with product design, Figma, UX research, and responsive web/mobile experiences
+- Experience creating design systems, prototypes, and collaborating across product teams
+`,
+  resumeFile: "Trane_Product_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 118,
+  companyName: "All American Print Supply Co.",
+  jobTitle: "Ecommerce Marketing Specialist",
+  location: "Cerritos, CA",
+  workMode: "On-site",
+  workExperience: "2-5 years",
+  payRange: "$21.63 - $31.25/hour",
+  applyLink: "https://www.indeed.com/viewjob?jk=30f972f9cba9f6ac&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Ecommerce UX/UI
+- Conversion optimization
+- Shopify landing pages
+- Product page design
+
+Main Skills:
+- Shopify & GemPages
+- Figma
+- UX/UI
+- Landing pages
+- Copywriting
+- Responsive design
+- Conversion optimization
+- HTML/CSS (plus)
+
+Important Notes:
+- Portfolio required
+- Design and build pages end-to-end
+- Write marketing copy & CTAs
+- Mobile-first design
+- A/B testing & HubSpot are a plus
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+High-converting ecommerce experiences are built by combining exceptional UX, persuasive copy, and conversion-focused design that turns visitors into loyal customers. Creating digital experiences that directly drive sales and lead generation is the value I am excited to bring to All American Print Supply Co.
+
+With over three years of experience designing responsive product pages, landing pages, and user-centered digital experiences, I have partnered with marketing teams and stakeholders to create visually compelling, conversion-driven web experiences that improve engagement and usability. My expertise includes UX/UI design, Figma, responsive web design, information architecture, copywriting, high-fidelity prototyping, and optimizing customer journeys through thoughtful layout, typography, and clear calls to action. I thrive in fast-paced environments, iterating on designs based on user insights and collaborating across teams to deliver polished, production-ready assets that support business growth.
+
+I am excited by the opportunity to own the look, feel, and performance of your ecommerce experience and contribute creative, data-informed design solutions that strengthen customer trust, increase conversions, and help drive continued growth for All American Print Supply Co.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with ecommerce UX, conversion-focused landing pages, and responsive web design
+- Experience creating customer journeys, prototypes, and high-converting digital experiences
+- Comfortable collaborating with marketing teams and optimizing pages for engagement and lead generation
+`,
+  resumeFile: "AllAmerican_Ecommerce_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 119,
+  companyName: "Limitless Innovations",
+  jobTitle: "Graphic Designer",
+  location: "Crystal Lake, IL",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$52,500 - $62,500",
+  applyLink: "https://www.indeed.com/viewjob?jk=8282a71778f3b680&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Graphic design & branding
+- Marketing assets
+- Print & digital design
+- Motion graphics
+
+Main Skills:
+- Adobe Photoshop, Illustrator, InDesign
+- After Effects
+- Typography & layout
+- Branding
+- Motion graphics
+- Logo design
+- HTML/CSS/JS (plus)
+
+Important Notes:
+- Strong branding and visual storytelling
+- Cross-functional collaboration
+- Multiple projects in fast-paced environment
+- Portfolio required
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Powerful visual design turns ideas into memorable brand experiences, and creating graphics that strengthen brand identity while supporting business growth is the value I am excited to bring to Limitless Innovations.
+
+With over three years of experience in graphic design and visual communication, I have created branded assets, marketing materials, digital illustrations, logos, and production-ready graphics across digital and print platforms. My expertise includes Adobe Creative Suite, Photoshop, Illustrator, InDesign, After Effects, typography, layout design, color theory, and visual storytelling. I enjoy collaborating with cross-functional teams to transform creative concepts into polished, engaging designs that align with brand standards and marketing goals. Through thoughtful design execution, attention to detail, and efficient project management, I consistently deliver high-quality creative assets that enhance brand visibility and customer engagement.
+
+I am excited by the opportunity to contribute to a team that values creativity, innovation, and collaboration. I would welcome the chance to bring my design expertise, creative problem-solving skills, and passion for impactful visual communication to help elevate the Limitless Innovations brand across every customer touchpoint.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with branding, marketing design, and visual storytelling
+- Experience creating print & digital assets, logos, and motion graphics
+- Focus on high-quality creative execution and brand consistency
+`,
+  resumeFile: "Limitless_Graphic_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 120,
+  companyName: "Straight North, LLC",
+  jobTitle: "Web Designer",
+  location: "Downers Grove, IL",
+  workMode: "Hybrid",
+  workExperience: "3–5 years",
+  payRange: "$70,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=7b5c63a2a5d80999&from=shareddesktop_copy",
+  myNotes: `
+1. Tell us why you would be a good fit for this position
+
+I am a strong fit because I combine UX/UI design expertise with a digital marketing mindset to create websites that are both visually compelling and conversion focused. With 3+ years of experience designing responsive websites in Figma, I have collaborated closely with developers, copywriters, project managers, and stakeholders to deliver user-centered digital experiences that improve engagement and business outcomes. I have hands-on experience with design systems, responsive design, accessibility, prototyping, and developer handoff, and I thrive in fast-paced, collaborative environments where managing multiple projects and delivering high-quality work are essential.
+
+2. Please describe your experience and expertise in digital marketing, including any specific areas of focus such as SEO, paid media, content strategy, CRO, etc.
+
+My experience is centered on designing websites that support digital marketing objectives through strong UX, responsive design, and conversion optimization. I have designed landing pages, marketing websites, and user journeys that improve engagement, lead generation, and customer experience. I regularly collaborate with copywriters and marketing teams to align messaging, visual hierarchy, and calls-to-action with business goals. I also apply SEO-friendly design principles, accessibility best practices, mobile-first design, and CRO techniques to create intuitive user experiences. While my primary expertise is UX/UI and web design, I have worked alongside marketing teams supporting content strategy, conversion-focused layouts, and performance-driven digital campaigns.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Responsive web design
+- Conversion-focused UX/UI
+- Digital marketing websites
+- Design systems
+
+Main Skills:
+- Figma
+- Responsive design
+- UX/UI
+- Design systems
+- Accessibility
+- Information architecture
+- Landing pages
+- CRO & SEO-friendly design
+
+Important Notes:
+- Hybrid (1 day/week onsite)
+- Agency environment
+- Portfolio required
+- Strong collaboration with developers & copywriters
+- Conversion optimization focus
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with Figma, responsive web design, UX/UI, and conversion-focused marketing websites
+- Experience collaborating with developers, project managers, and copywriters
+- Focus on accessibility, design systems, and high-quality developer handoff
+`,
+  resumeFile: "Straight_Web_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+{
+  id: 121,
+  companyName: "CAIPA MSO LLC",
+  jobTitle: "Senior Digital Designer",
+  location: "New York, NY",
+  workMode: "On-site",
+  workExperience: "3–5+ years",
+  payRange: "$75,000 - $80,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=c194f4e392a7a02c&from=shareddesktop_copy",
+  myNotes: `
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Digital design & UX/UI
+- WordPress websites
+- SEO & Analytics
+- Landing pages
+
+Main Skills:
+- WordPress
+- Figma
+- Google Analytics (GA4)
+- SEO
+- Responsive web design
+- Wireframing & prototyping
+- HTML/CSS
+- Accessibility (WCAG)
+
+Important Notes:
+- Website management & optimization
+- Marketing collaboration
+- Performance reporting
+- Cross-functional teamwork
+- CMS customization is a plus
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional digital experiences are created by combining thoughtful design, seamless user journeys, and data-driven optimization, and that is the value I am excited to bring to CAIPA MSO. My goal is to help strengthen your digital platforms through intuitive design, measurable performance improvements, and engaging user experiences.
+
+With over three years of experience designing responsive websites, landing pages, and digital products, I have collaborated with marketing teams, developers, and stakeholders to deliver user-centered solutions that improve usability, engagement, and business outcomes. My expertise includes WordPress, Figma, UX/UI design, wireframing, prototyping, responsive web design, SEO best practices, Google Analytics, accessibility, and HTML/CSS fundamentals. I enjoy translating business objectives into polished digital experiences while using analytics and user feedback to continuously refine performance and optimize customer journeys.
+
+I am excited by the opportunity to contribute my design expertise, collaborative mindset, and passion for creating impactful digital experiences to support CAIPA MSO's marketing initiatives and enhance engagement across your digital platforms.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with WordPress, Figma, SEO, and responsive web design
+- Experience with UX/UI, analytics-driven optimization, and landing page design
+- Focus on accessibility, website performance, and cross-functional collaboration
+`,
+  resumeFile: "CAIPA_Digital_Designer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
+
+{
+  id: 122,
+  companyName: "Brands Insurance Agency, Inc.",
+  jobTitle: "Web Application Developer - Front End",
+  location: "West Chester, OH",
+  workMode: "On-site",
+  workExperience: "3+ years",
+  payRange: "$52,000 - $58,000",
+  applyLink: "https://www.indeed.com/viewjob?jk=67b20003ebad42ad&from=shareddesktop_copy",
+  myNotes: `
+Portfolio:
+https://falgunidekate.framer.website/
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Key Focus:
+- Front-end web applications
+- UX/UI for enterprise software
+- Responsive layouts
+- Workflow optimization
+
+Main Skills:
+- HTML, CSS, JavaScript
+- Figma
+- UX/UI design
+- Wireframing & prototyping
+- Responsive design
+- Human-centered design
+- Problem solving
+
+Important Notes:
+- Portfolio required
+- 100% onsite
+- Strong UX + front-end ownership
+- Ruby on Rails/SQL are a plus
+- Simplify complex workflows
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+CV / Cover Letter Content:
+
+Dear Hiring Team,
+
+Exceptional software succeeds when complex workflows become intuitive experiences, and creating user-centered web applications that improve efficiency and usability is the value I am excited to bring to Brands Insurance Agency.
+
+With over three years of experience designing responsive web applications and digital products, I have partnered with developers and stakeholders to transform business requirements into intuitive, production-ready interfaces. My expertise includes HTML, CSS, JavaScript, Figma, UX/UI design, responsive layouts, wireframing, prototyping, and human-centered design. I enjoy simplifying complex workflows, optimizing user journeys, and collaborating throughout the development lifecycle to deliver scalable front-end solutions that enhance usability and operational performance. My background in Human Centered Design further strengthens my ability to balance technical functionality with thoughtful user experiences.
+
+I am excited by the opportunity to contribute to your collaborative development team, take ownership of front-end experiences, and help evolve the proprietary applications that power your business. I would welcome the opportunity to bring my technical skills, problem-solving mindset, and passion for intuitive software design to Brands Insurance Agency.
+
+Warm regards,
+Falguni Dekate
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Additional Notes:
+- Strong alignment with front-end development, UX/UI, and enterprise web applications
+- Experience creating responsive interfaces, prototypes, and workflow-driven solutions
+- Focus on usability, human-centered design, and cross-functional collaboration
+`,
+  resumeFile: "Brands_Front_End_Developer_Falguni_Dekate_Resume.pdf",
+  coverLetterFile: ""
+},
+
 
 
 
